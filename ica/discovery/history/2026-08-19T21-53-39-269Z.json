@@ -1,0 +1,2764 @@
+{
+  "objectType": "ICA_DISCOVERY_REPORT",
+  "engineVersion": "discovery-v1.0",
+  "createdAt": "2026-08-19T21:53:39.269Z",
+  "asOfDate": "2026-08-19",
+  "seedUniverseSize": 57,
+  "note": "Discovery Score is prioritization only -- not a Decision Score, not BUY/SELL, confers no capital authority (ICA 2.1 Constitution). Classification never exceeds RESEARCH_FINDING; VALIDATED_PATTERN requires the same governed prospective process as the rest of ICA.",
+  "historyFetchFailures": [
+    {
+      "ticker": "CFLT",
+      "reason": "Yahoo returned HTTP 404 for CFLT"
+    }
+  ],
+  "results": [
+    {
+      "ticker": "DDOG",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 82.73,
+        "avgDailyDollarVolume": 1208646201,
+        "ninetyDayAmplitudePct": 183.37,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 1208646201,
+        "medianAmplitudePct": 17.04,
+        "medianMfePct": 17.04,
+        "medianMaePct": -5.52,
+        "medianDaysToPayoff": 3,
+        "recurrenceRatePct": 57.14,
+        "outcomeStdDevPct": 25.29
+      },
+      "discoveryScore": 43.46,
+      "scoreBreakdown": {
+        "rawScore": 66.08,
+        "components": {
+          "amplitude": 21.3,
+          "recurrence": 14.29,
+          "speed": 10.5,
+          "payoffAsymmetry": 20
+        },
+        "penalties": {
+          "highMae": 3.31,
+          "instability": 12.64,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "NET",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 69.03,
+        "avgDailyDollarVolume": 977475887,
+        "ninetyDayAmplitudePct": 97.74,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 977475887,
+        "medianAmplitudePct": 15.39,
+        "medianMfePct": 15.39,
+        "medianMaePct": -8.13,
+        "medianDaysToPayoff": 5,
+        "recurrenceRatePct": 42.86,
+        "outcomeStdDevPct": 15.89
+      },
+      "discoveryScore": 30.58,
+      "scoreBreakdown": {
+        "rawScore": 50.07,
+        "components": {
+          "amplitude": 19.24,
+          "recurrence": 10.72,
+          "speed": 7.5,
+          "payoffAsymmetry": 12.62
+        },
+        "penalties": {
+          "highMae": 4.88,
+          "instability": 7.95,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "ZS",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 78.74,
+        "avgDailyDollarVolume": 554227366,
+        "ninetyDayAmplitudePct": 62.13,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 554227366,
+        "medianAmplitudePct": 6.35,
+        "medianMfePct": 6.35,
+        "medianMaePct": -9.72,
+        "medianDaysToPayoff": 5,
+        "recurrenceRatePct": 57.14,
+        "outcomeStdDevPct": 16.9
+      },
+      "discoveryScore": 13.13,
+      "scoreBreakdown": {
+        "rawScore": 34.08,
+        "components": {
+          "amplitude": 7.94,
+          "recurrence": 14.29,
+          "speed": 7.5,
+          "payoffAsymmetry": 4.36
+        },
+        "penalties": {
+          "highMae": 5.83,
+          "instability": 8.45,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "SHOP",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 67,
+        "avgDailyDollarVolume": 1225135876,
+        "ninetyDayAmplitudePct": 69.01,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 6,
+        "skippedCycles": 1,
+        "avgDailyDollarVolume": 1225135876,
+        "medianAmplitudePct": 8.62,
+        "medianMfePct": 8.62,
+        "medianMaePct": -17.96,
+        "medianDaysToPayoff": 0.5,
+        "recurrenceRatePct": 50,
+        "outcomeStdDevPct": 13.58
+      },
+      "discoveryScore": 16.73,
+      "scoreBreakdown": {
+        "rawScore": 40.72,
+        "components": {
+          "amplitude": 10.77,
+          "recurrence": 12.5,
+          "speed": 14.25,
+          "payoffAsymmetry": 3.2
+        },
+        "penalties": {
+          "highMae": 10.78,
+          "instability": 6.79,
+          "illiquidity": 0,
+          "smallSample": 5,
+          "poorDataQuality": 1.43
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 6 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 7
+    },
+    {
+      "ticker": "PLTR",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 73.96,
+        "avgDailyDollarVolume": 6077680183,
+        "ninetyDayAmplitudePct": 69.39,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 6077680183,
+        "medianAmplitudePct": 12.61,
+        "medianMfePct": 12.61,
+        "medianMaePct": -10.63,
+        "medianDaysToPayoff": 6,
+        "recurrenceRatePct": 42.86,
+        "outcomeStdDevPct": 24.25
+      },
+      "discoveryScore": 15.22,
+      "scoreBreakdown": {
+        "rawScore": 40.39,
+        "components": {
+          "amplitude": 15.76,
+          "recurrence": 10.72,
+          "speed": 6,
+          "payoffAsymmetry": 7.91
+        },
+        "penalties": {
+          "highMae": 6.38,
+          "instability": 12.13,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "MDB",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 70.45,
+        "avgDailyDollarVolume": 618243818,
+        "ninetyDayAmplitudePct": 110.62,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 618243818,
+        "medianAmplitudePct": 15.09,
+        "medianMfePct": 15.09,
+        "medianMaePct": -8.6,
+        "medianDaysToPayoff": 0.5,
+        "recurrenceRatePct": 50,
+        "outcomeStdDevPct": 28.28
+      },
+      "discoveryScore": 34.68,
+      "scoreBreakdown": {
+        "rawScore": 57.31,
+        "components": {
+          "amplitude": 18.86,
+          "recurrence": 12.5,
+          "speed": 14.25,
+          "payoffAsymmetry": 11.7
+        },
+        "penalties": {
+          "highMae": 5.16,
+          "instability": 14.14,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (34.68) e sub pragul de prioritizare (40).",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "TTD",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 67.11,
+        "avgDailyDollarVolume": 411345773,
+        "ninetyDayAmplitudePct": 93.84,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 411345773,
+        "medianAmplitudePct": 2.4,
+        "medianMfePct": 2.4,
+        "medianMaePct": -18.63,
+        "medianDaysToPayoff": 0,
+        "recurrenceRatePct": 37.5,
+        "outcomeStdDevPct": 25.63
+      },
+      "discoveryScore": 0.91,
+      "scoreBreakdown": {
+        "rawScore": 28.23,
+        "components": {
+          "amplitude": 3,
+          "recurrence": 9.38,
+          "speed": 15,
+          "payoffAsymmetry": 0.86
+        },
+        "penalties": {
+          "highMae": 11.18,
+          "instability": 12.81,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (0.91) e sub pragul de prioritizare (40).",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "ROKU",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 43.99,
+        "avgDailyDollarVolume": 516612811,
+        "ninetyDayAmplitudePct": 59.51,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 516612811,
+        "medianAmplitudePct": 15.33,
+        "medianMfePct": 15.33,
+        "medianMaePct": -10.65,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 42.86,
+        "outcomeStdDevPct": 7.51
+      },
+      "discoveryScore": 36.16,
+      "scoreBreakdown": {
+        "rawScore": 52.97,
+        "components": {
+          "amplitude": 19.16,
+          "recurrence": 10.72,
+          "speed": 13.5,
+          "payoffAsymmetry": 9.6
+        },
+        "penalties": {
+          "highMae": 6.39,
+          "instability": 3.76,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "DOCU",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 53.64,
+        "avgDailyDollarVolume": 175573888,
+        "ninetyDayAmplitudePct": 57.73,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 175573888,
+        "medianAmplitudePct": 9.78,
+        "medianMfePct": 9.78,
+        "medianMaePct": -7.33,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 57.14,
+        "outcomeStdDevPct": 13.27
+      },
+      "discoveryScore": 31.21,
+      "scoreBreakdown": {
+        "rawScore": 48.9,
+        "components": {
+          "amplitude": 12.23,
+          "recurrence": 14.29,
+          "speed": 13.5,
+          "payoffAsymmetry": 8.89
+        },
+        "penalties": {
+          "highMae": 4.4,
+          "instability": 6.63,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "ZM",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 49.17,
+        "avgDailyDollarVolume": 401291520,
+        "ninetyDayAmplitudePct": 48.98,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 401291520,
+        "medianAmplitudePct": 8.06,
+        "medianMfePct": 8.06,
+        "medianMaePct": -6.17,
+        "medianDaysToPayoff": 0,
+        "recurrenceRatePct": 28.57,
+        "outcomeStdDevPct": 11.21
+      },
+      "discoveryScore": 24.95,
+      "scoreBreakdown": {
+        "rawScore": 40.93,
+        "components": {
+          "amplitude": 10.08,
+          "recurrence": 7.14,
+          "speed": 15,
+          "payoffAsymmetry": 8.71
+        },
+        "penalties": {
+          "highMae": 3.7,
+          "instability": 5.61,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "TWLO",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 79,
+        "avgDailyDollarVolume": 504971016,
+        "ninetyDayAmplitudePct": 122.33,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 504971016,
+        "medianAmplitudePct": 22.85,
+        "medianMfePct": 22.85,
+        "medianMaePct": -2.22,
+        "medianDaysToPayoff": 6,
+        "recurrenceRatePct": 75,
+        "outcomeStdDevPct": 23.27
+      },
+      "discoveryScore": 53.45,
+      "scoreBreakdown": {
+        "rawScore": 69.75,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 18.75,
+          "speed": 6,
+          "payoffAsymmetry": 20
+        },
+        "penalties": {
+          "highMae": 1.33,
+          "instability": 11.63,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "RESEARCH_FINDING",
+      "reason": "8 cicluri utilizabile și scor de descoperire 53.45 (peste pragul de 40) -- merită cercetare aprofundată.",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "OKTA",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 74.36,
+        "avgDailyDollarVolume": 404684633,
+        "ninetyDayAmplitudePct": 150.56,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 404684633,
+        "medianAmplitudePct": 13.42,
+        "medianMfePct": 13.42,
+        "medianMaePct": -3.74,
+        "medianDaysToPayoff": 2.5,
+        "recurrenceRatePct": 62.5,
+        "outcomeStdDevPct": 15.47
+      },
+      "discoveryScore": 50.34,
+      "scoreBreakdown": {
+        "rawScore": 63.65,
+        "components": {
+          "amplitude": 16.78,
+          "recurrence": 15.63,
+          "speed": 11.25,
+          "payoffAsymmetry": 20
+        },
+        "penalties": {
+          "highMae": 2.24,
+          "instability": 7.74,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "RESEARCH_FINDING",
+      "reason": "8 cicluri utilizabile și scor de descoperire 50.34 (peste pragul de 40) -- merită cercetare aprofundată.",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "TEAM",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 106.37,
+        "avgDailyDollarVolume": 588770596,
+        "ninetyDayAmplitudePct": 210.56,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 1,
+        "avgDailyDollarVolume": 588770596,
+        "medianAmplitudePct": 10.95,
+        "medianMfePct": 10.95,
+        "medianMaePct": -8.93,
+        "medianDaysToPayoff": 2,
+        "recurrenceRatePct": 42.86,
+        "outcomeStdDevPct": 19.11
+      },
+      "discoveryScore": 25.91,
+      "scoreBreakdown": {
+        "rawScore": 44.58,
+        "components": {
+          "amplitude": 13.69,
+          "recurrence": 10.72,
+          "speed": 12,
+          "payoffAsymmetry": 8.17
+        },
+        "penalties": {
+          "highMae": 5.36,
+          "instability": 9.56,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 1.25
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 8
+    },
+    {
+      "ticker": "WDAY",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 69.65,
+        "avgDailyDollarVolume": 714700605,
+        "ninetyDayAmplitudePct": 104.03,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 9,
+        "skippedCycles": 3,
+        "avgDailyDollarVolume": 714700605,
+        "medianAmplitudePct": 7.33,
+        "medianMfePct": 7.33,
+        "medianMaePct": -8.86,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 44.44,
+        "outcomeStdDevPct": 7.1
+      },
+      "discoveryScore": 27.92,
+      "scoreBreakdown": {
+        "rawScore": 39.29,
+        "components": {
+          "amplitude": 9.16,
+          "recurrence": 11.11,
+          "speed": 13.5,
+          "payoffAsymmetry": 5.52
+        },
+        "penalties": {
+          "highMae": 5.32,
+          "instability": 3.55,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 2.5
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "9 cicluri utilizabile, dar scorul de descoperire (27.92) e sub pragul de prioritizare (40).",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "NOW",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 72.31,
+        "avgDailyDollarVolume": 2806252917,
+        "ninetyDayAmplitudePct": 66.55,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 2806252917,
+        "medianAmplitudePct": 6.69,
+        "medianMfePct": 6.69,
+        "medianMaePct": -13.09,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 37.5,
+        "outcomeStdDevPct": 20.88
+      },
+      "discoveryScore": 13.02,
+      "scoreBreakdown": {
+        "rawScore": 34.64,
+        "components": {
+          "amplitude": 8.36,
+          "recurrence": 9.38,
+          "speed": 13.5,
+          "payoffAsymmetry": 3.41
+        },
+        "penalties": {
+          "highMae": 7.85,
+          "instability": 10.44,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (13.02) e sub pragul de prioritizare (40).",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "ADBE",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 49.14,
+        "avgDailyDollarVolume": 1414130290,
+        "ninetyDayAmplitudePct": 45.07,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 1414130290,
+        "medianAmplitudePct": 1.12,
+        "medianMfePct": 1.12,
+        "medianMaePct": -13.53,
+        "medianDaysToPayoff": 0,
+        "recurrenceRatePct": 12.5,
+        "outcomeStdDevPct": 6.68
+      },
+      "discoveryScore": 5.29,
+      "scoreBreakdown": {
+        "rawScore": 20.08,
+        "components": {
+          "amplitude": 1.4,
+          "recurrence": 3.13,
+          "speed": 15,
+          "payoffAsymmetry": 0.55
+        },
+        "penalties": {
+          "highMae": 8.12,
+          "instability": 3.34,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (5.29) e sub pragul de prioritizare (40).",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "INTU",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 61.36,
+        "avgDailyDollarVolume": 1465327966,
+        "ninetyDayAmplitudePct": 67.69,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 1465327966,
+        "medianAmplitudePct": 4.86,
+        "medianMfePct": 4.86,
+        "medianMaePct": -3.72,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 71.43,
+        "outcomeStdDevPct": 15.61
+      },
+      "discoveryScore": 29.44,
+      "scoreBreakdown": {
+        "rawScore": 46.14,
+        "components": {
+          "amplitude": 6.08,
+          "recurrence": 17.86,
+          "speed": 13.5,
+          "payoffAsymmetry": 8.71
+        },
+        "penalties": {
+          "highMae": 2.23,
+          "instability": 7.81,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "S",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 52.73,
+        "avgDailyDollarVolume": 132836589,
+        "ninetyDayAmplitudePct": 100.42,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 132836589,
+        "medianAmplitudePct": 4.94,
+        "medianMfePct": 4.94,
+        "medianMaePct": -14.92,
+        "medianDaysToPayoff": 0,
+        "recurrenceRatePct": 14.29,
+        "outcomeStdDevPct": 9.71
+      },
+      "discoveryScore": 6.48,
+      "scoreBreakdown": {
+        "rawScore": 26.95,
+        "components": {
+          "amplitude": 6.18,
+          "recurrence": 3.57,
+          "speed": 15,
+          "payoffAsymmetry": 2.21
+        },
+        "penalties": {
+          "highMae": 8.95,
+          "instability": 4.86,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "CFLT",
+      "stage1": {
+        "passedStage1": false,
+        "reason": "Fără date de preț."
+      },
+      "classification": "OBSERVATION",
+      "reason": "Nu a trecut de Stage 1."
+    },
+    {
+      "ticker": "GTLB",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 63.39,
+        "avgDailyDollarVolume": 161277340,
+        "ninetyDayAmplitudePct": 124.9,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 161277340,
+        "medianAmplitudePct": 6.54,
+        "medianMfePct": 6.54,
+        "medianMaePct": -16.96,
+        "medianDaysToPayoff": 0.5,
+        "recurrenceRatePct": 25,
+        "outcomeStdDevPct": 15.82
+      },
+      "discoveryScore": 9.83,
+      "scoreBreakdown": {
+        "rawScore": 31.25,
+        "components": {
+          "amplitude": 8.18,
+          "recurrence": 6.25,
+          "speed": 14.25,
+          "payoffAsymmetry": 2.57
+        },
+        "penalties": {
+          "highMae": 10.18,
+          "instability": 7.91,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (9.83) e sub pragul de prioritizare (40).",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "HUBS",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 91.34,
+        "avgDailyDollarVolume": 412864052,
+        "ninetyDayAmplitudePct": 54.68,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 412864052,
+        "medianAmplitudePct": 6.31,
+        "medianMfePct": 6.31,
+        "medianMaePct": -15,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 28.57,
+        "outcomeStdDevPct": 18.29
+      },
+      "discoveryScore": 6.52,
+      "scoreBreakdown": {
+        "rawScore": 31.33,
+        "components": {
+          "amplitude": 7.89,
+          "recurrence": 7.14,
+          "speed": 13.5,
+          "payoffAsymmetry": 2.8
+        },
+        "penalties": {
+          "highMae": 9,
+          "instability": 9.15,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "PATH",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 58.95,
+        "avgDailyDollarVolume": 657402923,
+        "ninetyDayAmplitudePct": 82.83,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 657402923,
+        "medianAmplitudePct": 15.8,
+        "medianMfePct": 15.8,
+        "medianMaePct": -9.23,
+        "medianDaysToPayoff": 2,
+        "recurrenceRatePct": 28.57,
+        "outcomeStdDevPct": 10.68
+      },
+      "discoveryScore": 32.76,
+      "scoreBreakdown": {
+        "rawScore": 50.3,
+        "components": {
+          "amplitude": 19.75,
+          "recurrence": 7.14,
+          "speed": 12,
+          "payoffAsymmetry": 11.41
+        },
+        "penalties": {
+          "highMae": 5.54,
+          "instability": 5.34,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "SMCI",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 112.98,
+        "avgDailyDollarVolume": 1698190256,
+        "ninetyDayAmplitudePct": 119.85,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 10,
+        "skippedCycles": 2,
+        "avgDailyDollarVolume": 1698190256,
+        "medianAmplitudePct": 32.02,
+        "medianMfePct": 32.02,
+        "medianMaePct": -20.93,
+        "medianDaysToPayoff": 6.5,
+        "recurrenceRatePct": 60,
+        "outcomeStdDevPct": 29.34
+      },
+      "discoveryScore": 26.55,
+      "scoreBreakdown": {
+        "rawScore": 55.45,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 15,
+          "speed": 5.25,
+          "payoffAsymmetry": 10.2
+        },
+        "penalties": {
+          "highMae": 12.56,
+          "instability": 14.67,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 1.67
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "10 cicluri utilizabile, dar scorul de descoperire (26.55) e sub pragul de prioritizare (40).",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "ANET",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 60.55,
+        "avgDailyDollarVolume": 1513760298,
+        "ninetyDayAmplitudePct": 59.02,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 1513760298,
+        "medianAmplitudePct": 4.91,
+        "medianMfePct": 4.91,
+        "medianMaePct": -13,
+        "medianDaysToPayoff": 0,
+        "recurrenceRatePct": 28.57,
+        "outcomeStdDevPct": 13.51
+      },
+      "discoveryScore": 9.58,
+      "scoreBreakdown": {
+        "rawScore": 30.8,
+        "components": {
+          "amplitude": 6.14,
+          "recurrence": 7.14,
+          "speed": 15,
+          "payoffAsymmetry": 2.52
+        },
+        "penalties": {
+          "highMae": 7.8,
+          "instability": 6.76,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "APP",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 72.44,
+        "avgDailyDollarVolume": 2547180308,
+        "ninetyDayAmplitudePct": 105.17,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 2547180308,
+        "medianAmplitudePct": 25.34,
+        "medianMfePct": 25.34,
+        "medianMaePct": -7.34,
+        "medianDaysToPayoff": 13,
+        "recurrenceRatePct": 71.43,
+        "outcomeStdDevPct": 38.3
+      },
+      "discoveryScore": 36.79,
+      "scoreBreakdown": {
+        "rawScore": 62.86,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 17.86,
+          "speed": 0,
+          "payoffAsymmetry": 20
+        },
+        "penalties": {
+          "highMae": 4.4,
+          "instability": 15,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "AFRM",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 57.65,
+        "avgDailyDollarVolume": 313685326,
+        "ninetyDayAmplitudePct": 80.95,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 313685326,
+        "medianAmplitudePct": 12.81,
+        "medianMfePct": 12.81,
+        "medianMaePct": -11.64,
+        "medianDaysToPayoff": 4,
+        "recurrenceRatePct": 57.14,
+        "outcomeStdDevPct": 17.66
+      },
+      "discoveryScore": 24.15,
+      "scoreBreakdown": {
+        "rawScore": 46.63,
+        "components": {
+          "amplitude": 16.01,
+          "recurrence": 14.29,
+          "speed": 9,
+          "payoffAsymmetry": 7.34
+        },
+        "penalties": {
+          "highMae": 6.98,
+          "instability": 8.83,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "U",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 56.76,
+        "avgDailyDollarVolume": 311257584,
+        "ninetyDayAmplitudePct": 122.59,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 311257584,
+        "medianAmplitudePct": 18.86,
+        "medianMfePct": 18.86,
+        "medianMaePct": -8.36,
+        "medianDaysToPayoff": 3,
+        "recurrenceRatePct": 85.71,
+        "outcomeStdDevPct": 16.98
+      },
+      "discoveryScore": 50.37,
+      "scoreBreakdown": {
+        "rawScore": 70.54,
+        "components": {
+          "amplitude": 23.58,
+          "recurrence": 21.43,
+          "speed": 10.5,
+          "payoffAsymmetry": 15.04
+        },
+        "penalties": {
+          "highMae": 5.02,
+          "instability": 8.49,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "RBLX",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 81.89,
+        "avgDailyDollarVolume": 563261949,
+        "ninetyDayAmplitudePct": 90.14,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 563261949,
+        "medianAmplitudePct": 11.06,
+        "medianMfePct": 11.06,
+        "medianMaePct": -16.41,
+        "medianDaysToPayoff": 0.5,
+        "recurrenceRatePct": 37.5,
+        "outcomeStdDevPct": 20.09
+      },
+      "discoveryScore": 18.72,
+      "scoreBreakdown": {
+        "rawScore": 41.94,
+        "components": {
+          "amplitude": 13.83,
+          "recurrence": 9.38,
+          "speed": 14.25,
+          "payoffAsymmetry": 4.49
+        },
+        "penalties": {
+          "highMae": 9.85,
+          "instability": 10.05,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (18.72) e sub pragul de prioritizare (40).",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "DASH",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 49.18,
+        "avgDailyDollarVolume": 829250242,
+        "ninetyDayAmplitudePct": 52.49,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 829250242,
+        "medianAmplitudePct": 10.45,
+        "medianMfePct": 10.45,
+        "medianMaePct": -8.68,
+        "medianDaysToPayoff": 4,
+        "recurrenceRatePct": 42.86,
+        "outcomeStdDevPct": 9.76
+      },
+      "discoveryScore": 24.05,
+      "scoreBreakdown": {
+        "rawScore": 40.8,
+        "components": {
+          "amplitude": 13.06,
+          "recurrence": 10.72,
+          "speed": 9,
+          "payoffAsymmetry": 8.03
+        },
+        "penalties": {
+          "highMae": 5.21,
+          "instability": 4.88,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "ABNB",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 41.76,
+        "avgDailyDollarVolume": 600817637,
+        "ninetyDayAmplitudePct": 50.93,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 600817637,
+        "medianAmplitudePct": 5.49,
+        "medianMfePct": 5.49,
+        "medianMaePct": -7.83,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 28.57,
+        "outcomeStdDevPct": 6.7
+      },
+      "discoveryScore": 17.46,
+      "scoreBreakdown": {
+        "rawScore": 32.18,
+        "components": {
+          "amplitude": 6.86,
+          "recurrence": 7.14,
+          "speed": 13.5,
+          "payoffAsymmetry": 4.67
+        },
+        "penalties": {
+          "highMae": 4.7,
+          "instability": 3.35,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "COIN",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 67.43,
+        "avgDailyDollarVolume": 1526731925,
+        "ninetyDayAmplitudePct": 59.84,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 1526731925,
+        "medianAmplitudePct": 11.16,
+        "medianMfePct": 11.16,
+        "medianMaePct": -17.12,
+        "medianDaysToPayoff": 6.5,
+        "recurrenceRatePct": 50,
+        "outcomeStdDevPct": 28.38
+      },
+      "discoveryScore": 8.25,
+      "scoreBreakdown": {
+        "rawScore": 36.05,
+        "components": {
+          "amplitude": 13.95,
+          "recurrence": 12.5,
+          "speed": 5.25,
+          "payoffAsymmetry": 4.35
+        },
+        "penalties": {
+          "highMae": 10.27,
+          "instability": 14.19,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (8.25) e sub pragul de prioritizare (40).",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "HOOD",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 72.38,
+        "avgDailyDollarVolume": 2493315487,
+        "ninetyDayAmplitudePct": 77.06,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 11,
+        "skippedCycles": 1,
+        "avgDailyDollarVolume": 2493315487,
+        "medianAmplitudePct": 8.98,
+        "medianMfePct": 8.98,
+        "medianMaePct": -17.95,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 27.27,
+        "outcomeStdDevPct": 18.05
+      },
+      "discoveryScore": 14.25,
+      "scoreBreakdown": {
+        "rawScore": 34.88,
+        "components": {
+          "amplitude": 11.23,
+          "recurrence": 6.82,
+          "speed": 13.5,
+          "payoffAsymmetry": 3.34
+        },
+        "penalties": {
+          "highMae": 10.77,
+          "instability": 9.03,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 0.83
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "11 cicluri utilizabile, dar scorul de descoperire (14.25) e sub pragul de prioritizare (40).",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "SOFI",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 58.9,
+        "avgDailyDollarVolume": 1271847808,
+        "ninetyDayAmplitudePct": 35.28,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 1271847808,
+        "medianAmplitudePct": 10.54,
+        "medianMfePct": 10.54,
+        "medianMaePct": -13.58,
+        "medianDaysToPayoff": 5.5,
+        "recurrenceRatePct": 50,
+        "outcomeStdDevPct": 16.16
+      },
+      "discoveryScore": 18.04,
+      "scoreBreakdown": {
+        "rawScore": 37.6,
+        "components": {
+          "amplitude": 13.17,
+          "recurrence": 12.5,
+          "speed": 6.75,
+          "payoffAsymmetry": 5.17
+        },
+        "penalties": {
+          "highMae": 8.15,
+          "instability": 8.08,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (18.04) e sub pragul de prioritizare (40).",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "UPST",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 64.23,
+        "avgDailyDollarVolume": 142256123,
+        "ninetyDayAmplitudePct": 42.53,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 142256123,
+        "medianAmplitudePct": 5.87,
+        "medianMfePct": 5.87,
+        "medianMaePct": -20.64,
+        "medianDaysToPayoff": 0,
+        "recurrenceRatePct": 14.29,
+        "outcomeStdDevPct": 23.99
+      },
+      "discoveryScore": 0,
+      "scoreBreakdown": {
+        "rawScore": 27.81,
+        "components": {
+          "amplitude": 7.34,
+          "recurrence": 3.57,
+          "speed": 15,
+          "payoffAsymmetry": 1.9
+        },
+        "penalties": {
+          "highMae": 12.38,
+          "instability": 12,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "AI",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 56.96,
+        "avgDailyDollarVolume": 55470313,
+        "ninetyDayAmplitudePct": 49.62,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 9,
+        "skippedCycles": 3,
+        "avgDailyDollarVolume": 55470313,
+        "medianAmplitudePct": 11.25,
+        "medianMfePct": 11.25,
+        "medianMaePct": -16.91,
+        "medianDaysToPayoff": 2,
+        "recurrenceRatePct": 33.33,
+        "outcomeStdDevPct": 13.36
+      },
+      "discoveryScore": 19.5,
+      "scoreBreakdown": {
+        "rawScore": 38.83,
+        "components": {
+          "amplitude": 14.06,
+          "recurrence": 8.33,
+          "speed": 12,
+          "payoffAsymmetry": 4.44
+        },
+        "penalties": {
+          "highMae": 10.15,
+          "instability": 6.68,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 2.5
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "9 cicluri utilizabile, dar scorul de descoperire (19.5) e sub pragul de prioritizare (40).",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "BBAI",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 69.87,
+        "avgDailyDollarVolume": 134178393,
+        "ninetyDayAmplitudePct": 110.81,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 9,
+        "skippedCycles": 3,
+        "avgDailyDollarVolume": 134178393,
+        "medianAmplitudePct": 11.62,
+        "medianMfePct": 11.62,
+        "medianMaePct": -11.62,
+        "medianDaysToPayoff": 5,
+        "recurrenceRatePct": 55.56,
+        "outcomeStdDevPct": 23.74
+      },
+      "discoveryScore": 21.24,
+      "scoreBreakdown": {
+        "rawScore": 42.58,
+        "components": {
+          "amplitude": 14.52,
+          "recurrence": 13.89,
+          "speed": 7.5,
+          "payoffAsymmetry": 6.67
+        },
+        "penalties": {
+          "highMae": 6.97,
+          "instability": 11.87,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 2.5
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "9 cicluri utilizabile, dar scorul de descoperire (21.24) e sub pragul de prioritizare (40).",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "SYM",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 62.91,
+        "avgDailyDollarVolume": 94343318,
+        "ninetyDayAmplitudePct": 75.67,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 94343318,
+        "medianAmplitudePct": 14.77,
+        "medianMfePct": 14.77,
+        "medianMaePct": -23.9,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 42.86,
+        "outcomeStdDevPct": 18.66
+      },
+      "discoveryScore": 16.46,
+      "scoreBreakdown": {
+        "rawScore": 46.8,
+        "components": {
+          "amplitude": 18.46,
+          "recurrence": 10.72,
+          "speed": 13.5,
+          "payoffAsymmetry": 4.12
+        },
+        "penalties": {
+          "highMae": 14.34,
+          "instability": 9.33,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "ONDS",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 103.03,
+        "avgDailyDollarVolume": 737138040,
+        "ninetyDayAmplitudePct": 127.65,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 11,
+        "skippedCycles": 1,
+        "avgDailyDollarVolume": 737138040,
+        "medianAmplitudePct": 56.05,
+        "medianMfePct": 56.05,
+        "medianMaePct": -13.24,
+        "medianDaysToPayoff": 12,
+        "recurrenceRatePct": 54.55,
+        "outcomeStdDevPct": 36.81
+      },
+      "discoveryScore": 34.86,
+      "scoreBreakdown": {
+        "rawScore": 58.64,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 13.64,
+          "speed": 0,
+          "payoffAsymmetry": 20
+        },
+        "penalties": {
+          "highMae": 7.94,
+          "instability": 15,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 0.83
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "11 cicluri utilizabile, dar scorul de descoperire (34.86) e sub pragul de prioritizare (40).",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "IREN",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 117.87,
+        "avgDailyDollarVolume": 2295140615,
+        "ninetyDayAmplitudePct": 144.41,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 6,
+        "skippedCycles": 0,
+        "avgDailyDollarVolume": 2295140615,
+        "medianAmplitudePct": 15.58,
+        "medianMfePct": 15.58,
+        "medianMaePct": -18.91,
+        "medianDaysToPayoff": 11.5,
+        "recurrenceRatePct": 66.67,
+        "outcomeStdDevPct": 32.33
+      },
+      "discoveryScore": 10.29,
+      "scoreBreakdown": {
+        "rawScore": 41.64,
+        "components": {
+          "amplitude": 19.48,
+          "recurrence": 16.67,
+          "speed": 0,
+          "payoffAsymmetry": 5.49
+        },
+        "penalties": {
+          "highMae": 11.35,
+          "instability": 15,
+          "illiquidity": 0,
+          "smallSample": 5,
+          "poorDataQuality": 0
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 6 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 6
+    },
+    {
+      "ticker": "CIFR",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 122.14,
+        "avgDailyDollarVolume": 588378298,
+        "ninetyDayAmplitudePct": 102.42,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 588378298,
+        "medianAmplitudePct": 36.84,
+        "medianMfePct": 36.84,
+        "medianMaePct": -12.67,
+        "medianDaysToPayoff": 7,
+        "recurrenceRatePct": 57.14,
+        "outcomeStdDevPct": 27.72
+      },
+      "discoveryScore": 35.04,
+      "scoreBreakdown": {
+        "rawScore": 63.17,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 14.29,
+          "speed": 4.5,
+          "payoffAsymmetry": 19.38
+        },
+        "penalties": {
+          "highMae": 7.6,
+          "instability": 13.86,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "WULF",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 89.26,
+        "avgDailyDollarVolume": 696042531,
+        "ninetyDayAmplitudePct": 102.31,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 10,
+        "skippedCycles": 2,
+        "avgDailyDollarVolume": 696042531,
+        "medianAmplitudePct": 20.68,
+        "medianMfePct": 20.68,
+        "medianMaePct": -19.03,
+        "medianDaysToPayoff": 4,
+        "recurrenceRatePct": 60,
+        "outcomeStdDevPct": 36.42
+      },
+      "discoveryScore": 28.16,
+      "scoreBreakdown": {
+        "rawScore": 56.24,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 15,
+          "speed": 9,
+          "payoffAsymmetry": 7.24
+        },
+        "penalties": {
+          "highMae": 11.42,
+          "instability": 15,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 1.67
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "10 cicluri utilizabile, dar scorul de descoperire (28.16) e sub pragul de prioritizare (40).",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "MARA",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 82.7,
+        "avgDailyDollarVolume": 549187442,
+        "ninetyDayAmplitudePct": 89.29,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 549187442,
+        "medianAmplitudePct": 18.39,
+        "medianMfePct": 18.39,
+        "medianMaePct": -10.9,
+        "medianDaysToPayoff": 9,
+        "recurrenceRatePct": 42.86,
+        "outcomeStdDevPct": 16.04
+      },
+      "discoveryScore": 25.22,
+      "scoreBreakdown": {
+        "rawScore": 46.45,
+        "components": {
+          "amplitude": 22.99,
+          "recurrence": 10.72,
+          "speed": 1.5,
+          "payoffAsymmetry": 11.25
+        },
+        "penalties": {
+          "highMae": 6.54,
+          "instability": 8.02,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "RIOT",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 88.87,
+        "avgDailyDollarVolume": 417875447,
+        "ninetyDayAmplitudePct": 98.04,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 417875447,
+        "medianAmplitudePct": 4.45,
+        "medianMfePct": 4.45,
+        "medianMaePct": -20.14,
+        "medianDaysToPayoff": 2,
+        "recurrenceRatePct": 42.86,
+        "outcomeStdDevPct": 30.43
+      },
+      "discoveryScore": 0,
+      "scoreBreakdown": {
+        "rawScore": 29.75,
+        "components": {
+          "amplitude": 5.56,
+          "recurrence": 10.72,
+          "speed": 12,
+          "payoffAsymmetry": 1.47
+        },
+        "penalties": {
+          "highMae": 12.08,
+          "instability": 15,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "CLSK",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 87.31,
+        "avgDailyDollarVolume": 317466667,
+        "ninetyDayAmplitudePct": 98.65,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 317466667,
+        "medianAmplitudePct": 20.95,
+        "medianMfePct": 20.95,
+        "medianMaePct": -16.32,
+        "medianDaysToPayoff": 3,
+        "recurrenceRatePct": 57.14,
+        "outcomeStdDevPct": 20.37
+      },
+      "discoveryScore": 31.7,
+      "scoreBreakdown": {
+        "rawScore": 58.34,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 14.29,
+          "speed": 10.5,
+          "payoffAsymmetry": 8.56
+        },
+        "penalties": {
+          "highMae": 9.79,
+          "instability": 10.19,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "AEHR",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 142.57,
+        "avgDailyDollarVolume": 255751192,
+        "ninetyDayAmplitudePct": 132.79,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 255751192,
+        "medianAmplitudePct": 31.64,
+        "medianMfePct": 31.64,
+        "medianMaePct": -10.51,
+        "medianDaysToPayoff": 10,
+        "recurrenceRatePct": 75,
+        "outcomeStdDevPct": 33.15
+      },
+      "discoveryScore": 39.11,
+      "scoreBreakdown": {
+        "rawScore": 63.75,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 18.75,
+          "speed": 0,
+          "payoffAsymmetry": 20
+        },
+        "penalties": {
+          "highMae": 6.31,
+          "instability": 15,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (39.11) e sub pragul de prioritizare (40).",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "ALAB",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 107.61,
+        "avgDailyDollarVolume": 1734902157,
+        "ninetyDayAmplitudePct": 232.32,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 3,
+        "avgDailyDollarVolume": 1734902157,
+        "medianAmplitudePct": 37.62,
+        "medianMfePct": 37.62,
+        "medianMaePct": -12.13,
+        "medianDaysToPayoff": 6,
+        "recurrenceRatePct": 57.14,
+        "outcomeStdDevPct": 40.36
+      },
+      "discoveryScore": 37.51,
+      "scoreBreakdown": {
+        "rawScore": 65.29,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 14.29,
+          "speed": 6,
+          "payoffAsymmetry": 20
+        },
+        "penalties": {
+          "highMae": 7.28,
+          "instability": 15,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 3
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "post-event-recovery",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 10
+    },
+    {
+      "ticker": "NBIS",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 135.24,
+        "avgDailyDollarVolume": 4265671556,
+        "ninetyDayAmplitudePct": 125.97,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 0,
+        "skippedCycles": 0,
+        "avgDailyDollarVolume": 4265671556,
+        "note": "Niciun ciclu istoric utilizabil."
+      },
+      "discoveryScore": 0,
+      "scoreBreakdown": {
+        "rawScore": 0,
+        "components": {
+          "amplitude": 0,
+          "recurrence": 0,
+          "speed": 0,
+          "payoffAsymmetry": 0
+        },
+        "penalties": {
+          "highMae": 0,
+          "instability": 0,
+          "illiquidity": 0,
+          "smallSample": 20,
+          "poorDataQuality": 10
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 0 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "unclassified",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 0
+    },
+    {
+      "ticker": "VRT",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 70.59,
+        "avgDailyDollarVolume": 1850628496,
+        "ninetyDayAmplitudePct": 71.98,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 1850628496,
+        "medianAmplitudePct": 15.84,
+        "medianMfePct": 15.84,
+        "medianMaePct": -7,
+        "medianDaysToPayoff": 11,
+        "recurrenceRatePct": 75,
+        "outcomeStdDevPct": 22.89
+      },
+      "discoveryScore": 34.66,
+      "scoreBreakdown": {
+        "rawScore": 53.64,
+        "components": {
+          "amplitude": 19.8,
+          "recurrence": 18.75,
+          "speed": 0,
+          "payoffAsymmetry": 15.09
+        },
+        "penalties": {
+          "highMae": 4.2,
+          "instability": 11.45,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (34.66) e sub pragul de prioritizare (40).",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "MOD",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 73.7,
+        "avgDailyDollarVolume": 348960267,
+        "ninetyDayAmplitudePct": 89.91,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 348960267,
+        "medianAmplitudePct": 8.21,
+        "medianMfePct": 8.21,
+        "medianMaePct": -16.17,
+        "medianDaysToPayoff": 5.5,
+        "recurrenceRatePct": 37.5,
+        "outcomeStdDevPct": 14.9
+      },
+      "discoveryScore": 9.29,
+      "scoreBreakdown": {
+        "rawScore": 29.77,
+        "components": {
+          "amplitude": 10.26,
+          "recurrence": 9.38,
+          "speed": 6.75,
+          "payoffAsymmetry": 3.38
+        },
+        "penalties": {
+          "highMae": 9.7,
+          "instability": 7.45,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (9.29) e sub pragul de prioritizare (40).",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "CRWV",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 102.12,
+        "avgDailyDollarVolume": 3092913198,
+        "ninetyDayAmplitudePct": 128.32,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 4,
+        "skippedCycles": 1,
+        "avgDailyDollarVolume": 3092913198,
+        "medianAmplitudePct": 4.43,
+        "medianMfePct": 4.43,
+        "medianMaePct": -34.28,
+        "medianDaysToPayoff": 0,
+        "recurrenceRatePct": 0,
+        "outcomeStdDevPct": 7.36
+      },
+      "discoveryScore": 0,
+      "scoreBreakdown": {
+        "rawScore": 21.4,
+        "components": {
+          "amplitude": 5.54,
+          "recurrence": 0,
+          "speed": 15,
+          "payoffAsymmetry": 0.86
+        },
+        "penalties": {
+          "highMae": 15,
+          "instability": 3.68,
+          "illiquidity": 0,
+          "smallSample": 10,
+          "poorDataQuality": 2
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 4 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 5
+    },
+    {
+      "ticker": "ARWR",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 57.71,
+        "avgDailyDollarVolume": 157808102,
+        "ninetyDayAmplitudePct": 50.92,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 157808102,
+        "medianAmplitudePct": 31.93,
+        "medianMfePct": 31.93,
+        "medianMaePct": -7.97,
+        "medianDaysToPayoff": 8,
+        "recurrenceRatePct": 57.14,
+        "outcomeStdDevPct": 22
+      },
+      "discoveryScore": 39.84,
+      "scoreBreakdown": {
+        "rawScore": 62.29,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 14.29,
+          "speed": 3,
+          "payoffAsymmetry": 20
+        },
+        "penalties": {
+          "highMae": 4.78,
+          "instability": 11,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "TEM",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 85.45,
+        "avgDailyDollarVolume": 319871312,
+        "ninetyDayAmplitudePct": 54.8,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 10,
+        "skippedCycles": 1,
+        "avgDailyDollarVolume": 319871312,
+        "medianAmplitudePct": 24.15,
+        "medianMfePct": 24.15,
+        "medianMaePct": -14.75,
+        "medianDaysToPayoff": 3,
+        "recurrenceRatePct": 50,
+        "outcomeStdDevPct": 31.36
+      },
+      "discoveryScore": 34.16,
+      "scoreBreakdown": {
+        "rawScore": 58.92,
+        "components": {
+          "amplitude": 25,
+          "recurrence": 12.5,
+          "speed": 10.5,
+          "payoffAsymmetry": 10.92
+        },
+        "penalties": {
+          "highMae": 8.85,
+          "instability": 15,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 0.91
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "10 cicluri utilizabile, dar scorul de descoperire (34.16) e sub pragul de prioritizare (40).",
+      "patternFamily": "fast-momentum-burst",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 11
+    },
+    {
+      "ticker": "OSCR",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 68.01,
+        "avgDailyDollarVolume": 168247521,
+        "ninetyDayAmplitudePct": 137.13,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 168247521,
+        "medianAmplitudePct": 18.88,
+        "medianMfePct": 18.88,
+        "medianMaePct": -6.66,
+        "medianDaysToPayoff": 8.5,
+        "recurrenceRatePct": 87.5,
+        "outcomeStdDevPct": 9.84
+      },
+      "discoveryScore": 54.37,
+      "scoreBreakdown": {
+        "rawScore": 66.62,
+        "components": {
+          "amplitude": 23.6,
+          "recurrence": 21.88,
+          "speed": 2.25,
+          "payoffAsymmetry": 18.9
+        },
+        "penalties": {
+          "highMae": 4,
+          "instability": 4.92,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "RESEARCH_FINDING",
+      "reason": "8 cicluri utilizabile și scor de descoperire 54.37 (peste pragul de 40) -- merită cercetare aprofundată.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "HIMS",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 93.35,
+        "avgDailyDollarVolume": 617101927,
+        "ninetyDayAmplitudePct": 102.33,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 617101927,
+        "medianAmplitudePct": 7.48,
+        "medianMfePct": 7.48,
+        "medianMaePct": -23.84,
+        "medianDaysToPayoff": 1,
+        "recurrenceRatePct": 42.86,
+        "outcomeStdDevPct": 35.41
+      },
+      "discoveryScore": 0,
+      "scoreBreakdown": {
+        "rawScore": 35.66,
+        "components": {
+          "amplitude": 9.35,
+          "recurrence": 10.72,
+          "speed": 13.5,
+          "payoffAsymmetry": 2.09
+        },
+        "penalties": {
+          "highMae": 14.3,
+          "instability": 15,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "DUOL",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 63.56,
+        "avgDailyDollarVolume": 183272871,
+        "ninetyDayAmplitudePct": 69.82,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 183272871,
+        "medianAmplitudePct": 6.78,
+        "medianMfePct": 6.78,
+        "medianMaePct": -14.53,
+        "medianDaysToPayoff": 0.5,
+        "recurrenceRatePct": 25,
+        "outcomeStdDevPct": 21.84
+      },
+      "discoveryScore": 9.11,
+      "scoreBreakdown": {
+        "rawScore": 32.09,
+        "components": {
+          "amplitude": 8.48,
+          "recurrence": 6.25,
+          "speed": 14.25,
+          "payoffAsymmetry": 3.11
+        },
+        "penalties": {
+          "highMae": 8.72,
+          "instability": 10.92,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (9.11) e sub pragul de prioritizare (40).",
+      "patternFamily": "high-variance-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "CHWY",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 49.47,
+        "avgDailyDollarVolume": 188133627,
+        "ninetyDayAmplitudePct": 68.1,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 7,
+        "skippedCycles": 5,
+        "avgDailyDollarVolume": 188133627,
+        "medianAmplitudePct": 4.7,
+        "medianMfePct": 4.7,
+        "medianMaePct": -11.26,
+        "medianDaysToPayoff": 6,
+        "recurrenceRatePct": 57.14,
+        "outcomeStdDevPct": 8.51
+      },
+      "discoveryScore": 11.27,
+      "scoreBreakdown": {
+        "rawScore": 28.94,
+        "components": {
+          "amplitude": 5.88,
+          "recurrence": 14.29,
+          "speed": 6,
+          "payoffAsymmetry": 2.78
+        },
+        "penalties": {
+          "highMae": 6.76,
+          "instability": 4.26,
+          "illiquidity": 0,
+          "smallSample": 2.5,
+          "poorDataQuality": 4.17
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "Trece filtrul ieftin, dar are doar 7 cicluri istorice utilizabile (sub pragul de 8) -- promițător, dar prea puțină istorie încă.",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    },
+    {
+      "ticker": "ETSY",
+      "stage1": {
+        "passedStage1": true,
+        "annualizedVolPct": 47.7,
+        "avgDailyDollarVolume": 216469585,
+        "ninetyDayAmplitudePct": 68.63,
+        "thresholds": {
+          "MIN_AVG_DAILY_DOLLAR_VOLUME": 5000000,
+          "MIN_ANNUALIZED_VOL_PCT": 25,
+          "MIN_NINETY_DAY_AMPLITUDE_PCT": 15
+        }
+      },
+      "stage2": {
+        "usableCycles": 8,
+        "skippedCycles": 4,
+        "avgDailyDollarVolume": 216469585,
+        "medianAmplitudePct": 14.58,
+        "medianMfePct": 14.58,
+        "medianMaePct": -9.13,
+        "medianDaysToPayoff": 9,
+        "recurrenceRatePct": 62.5,
+        "outcomeStdDevPct": 16.95
+      },
+      "discoveryScore": 28.71,
+      "scoreBreakdown": {
+        "rawScore": 46,
+        "components": {
+          "amplitude": 18.22,
+          "recurrence": 15.63,
+          "speed": 1.5,
+          "payoffAsymmetry": 10.65
+        },
+        "penalties": {
+          "highMae": 5.48,
+          "instability": 8.48,
+          "illiquidity": 0,
+          "smallSample": 0,
+          "poorDataQuality": 3.33
+        }
+      },
+      "classification": "DISCOVERY_CANDIDATE",
+      "reason": "8 cicluri utilizabile, dar scorul de descoperire (28.71) e sub pragul de prioritizare (40).",
+      "patternFamily": "recurring-catalyst-cycle",
+      "firstSeenDate": "2026-08-19",
+      "isNewThisRun": true,
+      "scoreDelta": null,
+      "catalystDatesUsed": 12
+    }
+  ]
+}
