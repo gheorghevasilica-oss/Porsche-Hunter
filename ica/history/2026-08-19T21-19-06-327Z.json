@@ -1,0 +1,1127 @@
+{
+  "objectType": "ICA_DAILY_BRIEF",
+  "generatedAt": "2026-08-19T21:19:06.327Z",
+  "howToUse": "Drag this single file into a chat with Claude and say 'ICA' -- it has everything needed for the daily read: cycle recurrence rankings, event proximity, and forward-signal ledger status.",
+  "cycleResearch": {
+    "status": "OK",
+    "asOf": "2026-08-19T21:17:03.098Z",
+    "perTicker": [
+      {
+        "ticker": "CRDO",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 8,
+        "recurrenceRatePct": 100,
+        "medianCloseToClosePct": 29.37,
+        "medianMaxFavorableExcursionPct": 36.49,
+        "medianMaxAdverseExcursionPct": -3.62
+      },
+      {
+        "ticker": "SNDK",
+        "classification": "OBSERVATION",
+        "usableCycles": 7,
+        "recurrenceRatePct": 71.43,
+        "medianCloseToClosePct": 26.94,
+        "medianMaxFavorableExcursionPct": 33.27,
+        "medianMaxAdverseExcursionPct": -8.91
+      },
+      {
+        "ticker": "MRVL",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 13,
+        "recurrenceRatePct": 69.23,
+        "medianCloseToClosePct": 6.31,
+        "medianMaxFavorableExcursionPct": 16.48,
+        "medianMaxAdverseExcursionPct": -5.71
+      },
+      {
+        "ticker": "MU",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 13,
+        "recurrenceRatePct": 69.23,
+        "medianCloseToClosePct": 5.4,
+        "medianMaxFavorableExcursionPct": 14.79,
+        "medianMaxAdverseExcursionPct": -6.44
+      },
+      {
+        "ticker": "CRWD",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 9,
+        "recurrenceRatePct": 66.67,
+        "medianCloseToClosePct": 3.5,
+        "medianMaxFavorableExcursionPct": 6.96,
+        "medianMaxAdverseExcursionPct": -7.08
+      },
+      {
+        "ticker": "RKLB",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 14,
+        "recurrenceRatePct": 64.29,
+        "medianCloseToClosePct": 14,
+        "medianMaxFavorableExcursionPct": 23.34,
+        "medianMaxAdverseExcursionPct": -10.98
+      },
+      {
+        "ticker": "COHR",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 11,
+        "recurrenceRatePct": 63.64,
+        "medianCloseToClosePct": 7.38,
+        "medianMaxFavorableExcursionPct": 15.35,
+        "medianMaxAdverseExcursionPct": -9.5
+      },
+      {
+        "ticker": "IONQ",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 15,
+        "recurrenceRatePct": 60,
+        "medianCloseToClosePct": 10.12,
+        "medianMaxFavorableExcursionPct": 32.51,
+        "medianMaxAdverseExcursionPct": -11.44
+      },
+      {
+        "ticker": "SOUN",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 10,
+        "recurrenceRatePct": 60,
+        "medianCloseToClosePct": 2.05,
+        "medianMaxFavorableExcursionPct": 21.29,
+        "medianMaxAdverseExcursionPct": -12.32
+      },
+      {
+        "ticker": "ASTS",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 12,
+        "recurrenceRatePct": 58.33,
+        "medianCloseToClosePct": 1.35,
+        "medianMaxFavorableExcursionPct": 20.53,
+        "medianMaxAdverseExcursionPct": -17.03
+      },
+      {
+        "ticker": "RDW",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 14,
+        "recurrenceRatePct": 57.14,
+        "medianCloseToClosePct": 0.84,
+        "medianMaxFavorableExcursionPct": 17.63,
+        "medianMaxAdverseExcursionPct": -19.54
+      },
+      {
+        "ticker": "RGTI",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 14,
+        "recurrenceRatePct": 57.14,
+        "medianCloseToClosePct": 13.92,
+        "medianMaxFavorableExcursionPct": 31.31,
+        "medianMaxAdverseExcursionPct": -13.07
+      },
+      {
+        "ticker": "NFLX",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 11,
+        "recurrenceRatePct": 54.55,
+        "medianCloseToClosePct": 0.54,
+        "medianMaxFavorableExcursionPct": 2.2,
+        "medianMaxAdverseExcursionPct": -9.97
+      },
+      {
+        "ticker": "SNOW",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 11,
+        "recurrenceRatePct": 54.55,
+        "medianCloseToClosePct": 5.81,
+        "medianMaxFavorableExcursionPct": 14.46,
+        "medianMaxAdverseExcursionPct": -5.71
+      },
+      {
+        "ticker": "NVDA",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 11,
+        "recurrenceRatePct": 54.55,
+        "medianCloseToClosePct": 1.14,
+        "medianMaxFavorableExcursionPct": 5.22,
+        "medianMaxAdverseExcursionPct": -7.47
+      },
+      {
+        "ticker": "AMD",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 14,
+        "recurrenceRatePct": 50,
+        "medianCloseToClosePct": -0.28,
+        "medianMaxFavorableExcursionPct": 7.06,
+        "medianMaxAdverseExcursionPct": -9.26
+      },
+      {
+        "ticker": "AVGO",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 12,
+        "recurrenceRatePct": 50,
+        "medianCloseToClosePct": 0.32,
+        "medianMaxFavorableExcursionPct": 9.68,
+        "medianMaxAdverseExcursionPct": -5.62
+      },
+      {
+        "ticker": "LUNR",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 11,
+        "recurrenceRatePct": 45.45,
+        "medianCloseToClosePct": 0,
+        "medianMaxFavorableExcursionPct": 21.43,
+        "medianMaxAdverseExcursionPct": -14.46
+      },
+      {
+        "ticker": "SPCE",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 9,
+        "recurrenceRatePct": 44.44,
+        "medianCloseToClosePct": -0.93,
+        "medianMaxFavorableExcursionPct": 25.86,
+        "medianMaxAdverseExcursionPct": -11.6
+      },
+      {
+        "ticker": "PANW",
+        "classification": "RESEARCH_FINDING",
+        "usableCycles": 11,
+        "recurrenceRatePct": 36.36,
+        "medianCloseToClosePct": -3.18,
+        "medianMaxFavorableExcursionPct": 3.39,
+        "medianMaxAdverseExcursionPct": -10.42
+      },
+      {
+        "ticker": "ARM",
+        "classification": "OBSERVATION",
+        "usableCycles": 0,
+        "medianCloseToClosePct": null,
+        "medianMaxFavorableExcursionPct": null,
+        "medianMaxAdverseExcursionPct": null
+      },
+      {
+        "ticker": "TSM",
+        "classification": "OBSERVATION",
+        "usableCycles": 0,
+        "medianCloseToClosePct": null,
+        "medianMaxFavorableExcursionPct": null,
+        "medianMaxAdverseExcursionPct": null
+      },
+      {
+        "ticker": "SPCX",
+        "classification": "OBSERVATION",
+        "usableCycles": 0,
+        "medianCloseToClosePct": null,
+        "medianMaxFavorableExcursionPct": null,
+        "medianMaxAdverseExcursionPct": null
+      },
+      {
+        "ticker": "LIME",
+        "classification": "OBSERVATION",
+        "usableCycles": 0,
+        "medianCloseToClosePct": null,
+        "medianMaxFavorableExcursionPct": null,
+        "medianMaxAdverseExcursionPct": null
+      }
+    ]
+  },
+  "eventRadar": {
+    "status": "OK",
+    "asOf": "2026-08-19",
+    "tickersByProximity": [
+      {
+        "group": "MRVL-type",
+        "ticker": "MRVL",
+        "nextEarningsDate": "2026-08-26",
+        "daysUntilEarnings": 7,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "candidate-large-cap",
+        "ticker": "SNOW",
+        "nextEarningsDate": "2026-08-26",
+        "daysUntilEarnings": 7,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "rccc-candidates-v2",
+        "ticker": "CRDO",
+        "nextEarningsDate": "2026-08-31",
+        "daysUntilEarnings": 12,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "candidate-large-cap",
+        "ticker": "PANW",
+        "nextEarningsDate": "2026-09-01",
+        "daysUntilEarnings": 13,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "MRVL-type",
+        "ticker": "AVGO",
+        "nextEarningsDate": "2026-09-02",
+        "daysUntilEarnings": 14,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "candidate-large-cap",
+        "ticker": "CRWD",
+        "nextEarningsDate": "2026-09-02",
+        "daysUntilEarnings": 14,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "rccc-candidates-v2",
+        "ticker": "MU",
+        "nextEarningsDate": "2026-09-23",
+        "daysUntilEarnings": 35,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "candidate-large-cap",
+        "ticker": "NFLX",
+        "nextEarningsDate": "2026-10-15",
+        "daysUntilEarnings": 57,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "MRVL-type",
+        "ticker": "AMD",
+        "nextEarningsDate": "2026-11-03",
+        "daysUntilEarnings": 76,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "user-watchlist-v1",
+        "ticker": "SPCX",
+        "nextEarningsDate": "2026-11-03",
+        "daysUntilEarnings": 76,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "user-watchlist-v1",
+        "ticker": "LIME",
+        "nextEarningsDate": "2026-11-03",
+        "daysUntilEarnings": 76,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "SPCE-type",
+        "ticker": "RDW",
+        "nextEarningsDate": "2026-11-04",
+        "daysUntilEarnings": 77,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "SPCE-type",
+        "ticker": "IONQ",
+        "nextEarningsDate": "2026-11-04",
+        "daysUntilEarnings": 77,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "SPCE-type",
+        "ticker": "SOUN",
+        "nextEarningsDate": "2026-11-04",
+        "daysUntilEarnings": 77,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "rccc-candidates-v2",
+        "ticker": "SNDK",
+        "nextEarningsDate": "2026-11-04",
+        "daysUntilEarnings": 77,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "SPCE-type",
+        "ticker": "RGTI",
+        "nextEarningsDate": "2026-11-05",
+        "daysUntilEarnings": 78,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "SPCE-type",
+        "ticker": "RKLB",
+        "nextEarningsDate": "2026-11-09",
+        "daysUntilEarnings": 82,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "SPCE-type",
+        "ticker": "ASTS",
+        "nextEarningsDate": "2026-11-09",
+        "daysUntilEarnings": 82,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "SPCE-type",
+        "ticker": "SPCE",
+        "nextEarningsDate": "2026-11-11",
+        "daysUntilEarnings": 84,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "rccc-candidates-v2",
+        "ticker": "COHR",
+        "nextEarningsDate": "2026-11-11",
+        "daysUntilEarnings": 84,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "SPCE-type",
+        "ticker": "LUNR",
+        "nextEarningsDate": "2026-11-12",
+        "daysUntilEarnings": 85,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "candidate-large-cap",
+        "ticker": "NVDA",
+        "nextEarningsDate": "2026-11-18",
+        "daysUntilEarnings": 91,
+        "earningsIsEstimate": true,
+        "earningsSource": "sec-8k-cadence-estimate",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "MRVL-type",
+        "ticker": "ARM",
+        "nextEarningsDate": null,
+        "daysUntilEarnings": null,
+        "earningsIsEstimate": null,
+        "earningsSource": "unavailable",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      },
+      {
+        "group": "candidate-large-cap",
+        "ticker": "TSM",
+        "nextEarningsDate": null,
+        "daysUntilEarnings": null,
+        "earningsIsEstimate": null,
+        "earningsSource": "unavailable",
+        "nextMacroEvent": "Employment Situation (Jobs Report)",
+        "nextMacroEventDate": "2026-09-04",
+        "daysUntilMacroEvent": 16
+      }
+    ]
+  },
+  "forwardSignals": {
+    "status": "OK",
+    "asOf": "2026-08-19",
+    "note": "Each flaggedToday entry now carries its own asOfBarDate -- the real date its price came from. If this differs from asOf above, Yahoo hadn't published that day's close yet at run time; the entry is still correctly anchored to its real date, not a mismatched one.",
+    "dataFreshness": [
+      {
+        "ticker": "MRVL",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "SPCE",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "RKLB",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "ASTS",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "LUNR",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "RDW",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "IONQ",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "RGTI",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "SOUN",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "ARM",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "AMD",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "AVGO",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "CRWD",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "NFLX",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "PANW",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "SNOW",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "MU",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "SNDK",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "CRDO",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "COHR",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "NVDA",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "TSM",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "SPCX",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      },
+      {
+        "ticker": "LIME",
+        "status": "FRESH",
+        "yahooLastDate": "2026-08-19"
+      }
+    ],
+    "flaggedToday": [
+      {
+        "ticker": "MRVL",
+        "phases": [
+          "PRE_EVENT_RUNUP"
+        ],
+        "preWindowMovePct": 29.44,
+        "daysUntilEarnings": 7,
+        "priceAtFlag": 237.27000427246094,
+        "asOfBarDate": "2026-08-19",
+        "ledgerStatus": "ALREADY_FROZEN",
+        "regime": {
+          "regime": "STOCK_SPECIFIC",
+          "tickerMovePct": 9.85,
+          "sectorMovePct": -1.55,
+          "marketMovePct": -0.2,
+          "note": "Ticker moved meaningfully more than its sector benchmark."
+        },
+        "fiftyTwoWeek": {
+          "high52w": 329.88,
+          "low52w": 61.44,
+          "currentClose": 237.27,
+          "pctBelowHigh": 28.07,
+          "pctAboveLow": 286.18,
+          "barsUsed": 252,
+          "note": null
+        },
+        "similarSetups": {
+          "ticker": "MRVL",
+          "matchedCycles": 1,
+          "ofTotalHistoricalCycles": 12,
+          "matchedDates": [
+            "2026-03-05"
+          ],
+          "recurrenceRatePctInSimilarSetups": 100,
+          "medianCloseToClosePctInSimilarSetups": 26.07,
+          "reliabilityWarning": "Doar 1 cicluri similare găsite -- prea puțin pentru orice concluzie fermă, chiar și condiționată. Citește ca indiciu, nu ca dovadă."
+        },
+        "similarSetupsAcrossUniverse": {
+          "matchedCycles": 9,
+          "contributingTickers": 8,
+          "matchesPerTicker": {
+            "MRVL": 1,
+            "RKLB": 2,
+            "ASTS": 1,
+            "RDW": 1,
+            "SOUN": 1,
+            "AVGO": 1,
+            "CRWD": 1,
+            "PANW": 1
+          },
+          "recurrenceRatePctPooled": 44.44,
+          "medianCloseToClosePctPooled": -1.03,
+          "reliabilityWarning": "Doar 9 cicluri combinate găsite pe tot universul -- încă puțin, dar mai mult decât un singur ticker ar putea oferi singur.",
+          "caveat": "Combinarea presupune că reacția tickerelor diferite la o situație similară e comparabilă -- rezonabil pentru un univers de tickere înrudite, dar nu o garanție."
+        }
+      },
+      {
+        "ticker": "AVGO",
+        "phases": [
+          "PRE_EVENT_PULLBACK"
+        ],
+        "preWindowMovePct": -6.54,
+        "daysUntilEarnings": 14,
+        "priceAtFlag": 362.4800109863281,
+        "asOfBarDate": "2026-08-19",
+        "ledgerStatus": "ALREADY_FROZEN",
+        "regime": {
+          "regime": "STOCK_SPECIFIC",
+          "tickerMovePct": -4.61,
+          "sectorMovePct": -1.55,
+          "marketMovePct": -0.2,
+          "note": "Ticker moved meaningfully more than its sector benchmark."
+        },
+        "fiftyTwoWeek": {
+          "high52w": 495,
+          "low52w": 281.87,
+          "currentClose": 362.48,
+          "pctBelowHigh": 26.77,
+          "pctAboveLow": 28.6,
+          "barsUsed": 252,
+          "note": null
+        },
+        "similarSetups": {
+          "ticker": "AVGO",
+          "matchedCycles": 1,
+          "ofTotalHistoricalCycles": 12,
+          "matchedDates": [
+            "2025-03-06"
+          ],
+          "recurrenceRatePctInSimilarSetups": 0,
+          "medianCloseToClosePctInSimilarSetups": -6.43,
+          "reliabilityWarning": "Doar 1 cicluri similare găsite -- prea puțin pentru orice concluzie fermă, chiar și condiționată. Citește ca indiciu, nu ca dovadă."
+        },
+        "similarSetupsAcrossUniverse": {
+          "matchedCycles": 8,
+          "contributingTickers": 7,
+          "matchesPerTicker": {
+            "MRVL": 1,
+            "RKLB": 2,
+            "LUNR": 1,
+            "RDW": 1,
+            "SOUN": 1,
+            "AVGO": 1,
+            "PANW": 1
+          },
+          "recurrenceRatePctPooled": 50,
+          "medianCloseToClosePctPooled": 5.68,
+          "reliabilityWarning": "Doar 8 cicluri combinate găsite pe tot universul -- încă puțin, dar mai mult decât un singur ticker ar putea oferi singur.",
+          "caveat": "Combinarea presupune că reacția tickerelor diferite la o situație similară e comparabilă -- rezonabil pentru un univers de tickere înrudite, dar nu o garanție."
+        }
+      },
+      {
+        "ticker": "CRWD",
+        "phases": [
+          "PRE_EVENT_RUNUP"
+        ],
+        "preWindowMovePct": 8.86,
+        "daysUntilEarnings": 14,
+        "priceAtFlag": 201.6300048828125,
+        "asOfBarDate": "2026-08-19",
+        "ledgerStatus": "ALREADY_FROZEN",
+        "regime": {
+          "regime": "STOCK_SPECIFIC",
+          "tickerMovePct": -5.3,
+          "sectorMovePct": -1.55,
+          "marketMovePct": -0.2,
+          "note": "Ticker moved meaningfully more than its sector benchmark."
+        },
+        "fiftyTwoWeek": {
+          "high52w": 227.5,
+          "low52w": 85.68,
+          "currentClose": 201.63,
+          "pctBelowHigh": 11.37,
+          "pctAboveLow": 135.33,
+          "barsUsed": 252,
+          "note": null
+        },
+        "similarSetups": {
+          "ticker": "CRWD",
+          "matchedCycles": 1,
+          "ofTotalHistoricalCycles": 12,
+          "matchedDates": [
+            "2024-03-05"
+          ],
+          "recurrenceRatePctInSimilarSetups": 100,
+          "medianCloseToClosePctInSimilarSetups": 3.49,
+          "reliabilityWarning": "Doar 1 cicluri similare găsite -- prea puțin pentru orice concluzie fermă, chiar și condiționată. Citește ca indiciu, nu ca dovadă."
+        },
+        "similarSetupsAcrossUniverse": {
+          "matchedCycles": 15,
+          "contributingTickers": 11,
+          "matchesPerTicker": {
+            "MRVL": 1,
+            "RKLB": 1,
+            "LUNR": 1,
+            "RDW": 2,
+            "IONQ": 1,
+            "CRWD": 1,
+            "NFLX": 1,
+            "PANW": 1,
+            "SNOW": 1,
+            "COHR": 3,
+            "NVDA": 2
+          },
+          "recurrenceRatePctPooled": 80,
+          "medianCloseToClosePctPooled": 13.24,
+          "reliabilityWarning": null,
+          "caveat": "Combinarea presupune că reacția tickerelor diferite la o situație similară e comparabilă -- rezonabil pentru un univers de tickere înrudite, dar nu o garanție."
+        }
+      },
+      {
+        "ticker": "PANW",
+        "phases": [
+          "PRE_EVENT_RUNUP"
+        ],
+        "preWindowMovePct": 10.46,
+        "daysUntilEarnings": 13,
+        "priceAtFlag": 359.760009765625,
+        "asOfBarDate": "2026-08-19",
+        "ledgerStatus": "ALREADY_FROZEN",
+        "regime": {
+          "regime": "STOCK_SPECIFIC",
+          "tickerMovePct": -3.84,
+          "sectorMovePct": -1.55,
+          "marketMovePct": -0.2,
+          "note": "Ticker moved meaningfully more than its sector benchmark."
+        },
+        "fiftyTwoWeek": {
+          "high52w": 398.88,
+          "low52w": 139.57,
+          "currentClose": 359.76,
+          "pctBelowHigh": 9.81,
+          "pctAboveLow": 157.76,
+          "barsUsed": 252,
+          "note": null
+        },
+        "similarSetups": {
+          "ticker": "PANW",
+          "matchedCycles": 1,
+          "ofTotalHistoricalCycles": 12,
+          "matchedDates": [
+            "2025-11-19"
+          ],
+          "recurrenceRatePctInSimilarSetups": 0,
+          "medianCloseToClosePctInSimilarSetups": -4,
+          "reliabilityWarning": "Doar 1 cicluri similare găsite -- prea puțin pentru orice concluzie fermă, chiar și condiționată. Citește ca indiciu, nu ca dovadă."
+        },
+        "similarSetupsAcrossUniverse": {
+          "matchedCycles": 12,
+          "contributingTickers": 8,
+          "matchesPerTicker": {
+            "MRVL": 1,
+            "LUNR": 1,
+            "RDW": 1,
+            "CRWD": 1,
+            "NFLX": 1,
+            "PANW": 1,
+            "COHR": 4,
+            "NVDA": 2
+          },
+          "recurrenceRatePctPooled": 75,
+          "medianCloseToClosePctPooled": 10.61,
+          "reliabilityWarning": null,
+          "caveat": "Combinarea presupune că reacția tickerelor diferite la o situație similară e comparabilă -- rezonabil pentru un univers de tickere înrudite, dar nu o garanție."
+        }
+      },
+      {
+        "ticker": "SNOW",
+        "phases": [
+          "PRE_EVENT_RUNUP"
+        ],
+        "preWindowMovePct": 9.03,
+        "daysUntilEarnings": 7,
+        "priceAtFlag": 325.010009765625,
+        "asOfBarDate": "2026-08-19",
+        "ledgerStatus": "ALREADY_FROZEN",
+        "regime": {
+          "regime": "MARKET_WIDE",
+          "tickerMovePct": -0.1,
+          "sectorMovePct": -1.55,
+          "marketMovePct": -0.2,
+          "note": "Ticker, sector, and market moved together."
+        },
+        "fiftyTwoWeek": {
+          "high52w": 341.95,
+          "low52w": 118.3,
+          "currentClose": 325.01,
+          "pctBelowHigh": 4.95,
+          "pctAboveLow": 174.73,
+          "barsUsed": 252,
+          "note": null
+        },
+        "similarSetups": {
+          "ticker": "SNOW",
+          "matchedCycles": 3,
+          "ofTotalHistoricalCycles": 12,
+          "matchedDates": [
+            "2024-02-28",
+            "2025-05-21",
+            "2025-12-03"
+          ],
+          "recurrenceRatePctInSimilarSetups": 33.33,
+          "medianCloseToClosePctInSimilarSetups": -13.32,
+          "reliabilityWarning": "Doar 3 cicluri similare găsite -- prea puțin pentru orice concluzie fermă, chiar și condiționată. Citește ca indiciu, nu ca dovadă."
+        },
+        "similarSetupsAcrossUniverse": {
+          "matchedCycles": 51,
+          "contributingTickers": 14,
+          "matchesPerTicker": {
+            "MRVL": 2,
+            "RKLB": 1,
+            "ASTS": 1,
+            "LUNR": 1,
+            "AMD": 4,
+            "AVGO": 8,
+            "CRWD": 3,
+            "NFLX": 6,
+            "PANW": 5,
+            "SNOW": 3,
+            "MU": 5,
+            "SNDK": 3,
+            "CRDO": 2,
+            "NVDA": 7
+          },
+          "recurrenceRatePctPooled": 49.02,
+          "medianCloseToClosePctPooled": -0.4,
+          "reliabilityWarning": null,
+          "caveat": "Combinarea presupune că reacția tickerelor diferite la o situație similară e comparabilă -- rezonabil pentru un univers de tickere înrudite, dar nu o garanție."
+        }
+      },
+      {
+        "ticker": "CRDO",
+        "phases": [
+          "PRE_EVENT_RUNUP"
+        ],
+        "preWindowMovePct": 16.78,
+        "daysUntilEarnings": 12,
+        "priceAtFlag": 234.82000732421875,
+        "asOfBarDate": "2026-08-19",
+        "ledgerStatus": "ALREADY_FROZEN",
+        "regime": {
+          "regime": "STOCK_SPECIFIC",
+          "tickerMovePct": -4.53,
+          "sectorMovePct": -1.55,
+          "marketMovePct": -0.2,
+          "note": "Ticker moved meaningfully more than its sector benchmark."
+        },
+        "fiftyTwoWeek": {
+          "high52w": 308.67,
+          "low52w": 86.49,
+          "currentClose": 234.82,
+          "pctBelowHigh": 23.93,
+          "pctAboveLow": 171.52,
+          "barsUsed": 252,
+          "note": null
+        },
+        "similarSetups": {
+          "ticker": "CRDO",
+          "matchedCycles": 0,
+          "ofTotalHistoricalCycles": 12,
+          "note": "Niciun ciclu istoric nu se potrivește suficient cu situația de azi (același regim + poziție similară față de maxim). Nu există bază pentru o comparație condiționată încă -- rămân doar mediile generale, nu acest filtru."
+        },
+        "similarSetupsAcrossUniverse": {
+          "matchedCycles": 10,
+          "contributingTickers": 7,
+          "matchesPerTicker": {
+            "MRVL": 2,
+            "ASTS": 1,
+            "LUNR": 1,
+            "RDW": 2,
+            "SOUN": 2,
+            "AVGO": 1,
+            "PANW": 1
+          },
+          "recurrenceRatePctPooled": 70,
+          "medianCloseToClosePctPooled": 13.34,
+          "reliabilityWarning": null,
+          "caveat": "Combinarea presupune că reacția tickerelor diferite la o situație similară e comparabilă -- rezonabil pentru un univers de tickere înrudite, dar nu o garanție."
+        }
+      }
+    ],
+    "ledgerSummary": {
+      "totalLedgerEntries": 6,
+      "rows": [],
+      "disclaimer": "Hit rate over RESOLVED, forward-dated predictions only -- this is the closest thing to real evidence of edge this project has. Still small-sample and not a guarantee; keep accumulating before trusting it for sizing decisions."
+    }
+  },
+  "validationProgress": [
+    {
+      "ticker": "CRDO",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "CRDO: 0/15 rezolvate"
+    },
+    {
+      "ticker": "MRVL",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "MRVL: 0/15 rezolvate"
+    },
+    {
+      "ticker": "MU",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "MU: 0/15 rezolvate"
+    },
+    {
+      "ticker": "CRWD",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "CRWD: 0/15 rezolvate"
+    },
+    {
+      "ticker": "RKLB",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "RKLB: 0/15 rezolvate"
+    },
+    {
+      "ticker": "COHR",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "COHR: 0/15 rezolvate"
+    },
+    {
+      "ticker": "IONQ",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "IONQ: 0/15 rezolvate"
+    },
+    {
+      "ticker": "SOUN",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "SOUN: 0/15 rezolvate"
+    },
+    {
+      "ticker": "ASTS",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "ASTS: 0/15 rezolvate"
+    },
+    {
+      "ticker": "RDW",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "RDW: 0/15 rezolvate"
+    },
+    {
+      "ticker": "RGTI",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "RGTI: 0/15 rezolvate"
+    },
+    {
+      "ticker": "NFLX",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "NFLX: 0/15 rezolvate"
+    },
+    {
+      "ticker": "SNOW",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "SNOW: 0/15 rezolvate"
+    },
+    {
+      "ticker": "NVDA",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "NVDA: 0/15 rezolvate"
+    },
+    {
+      "ticker": "AMD",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "AMD: 0/15 rezolvate"
+    },
+    {
+      "ticker": "AVGO",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "AVGO: 0/15 rezolvate"
+    },
+    {
+      "ticker": "LUNR",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "LUNR: 0/15 rezolvate"
+    },
+    {
+      "ticker": "SPCE",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "SPCE: 0/15 rezolvate"
+    },
+    {
+      "ticker": "PANW",
+      "phase": null,
+      "resolvedCount": 0,
+      "minResolvedForReview": 15,
+      "hitRatePct": null,
+      "progressLabel": "PANW: 0/15 rezolvate"
+    }
+  ],
+  "publication": {
+    "schema": "ICA_LIVE_BRIDGE_v1",
+    "publishedAt": "2026-08-19T21:19:06.710Z",
+    "source": "local-market-scout",
+    "note": "Research/observation state only -- never an autonomous capital decision. See dataLimitations/disclaimer fields throughout for context before reading any number here as more certain than it is."
+  }
+}
