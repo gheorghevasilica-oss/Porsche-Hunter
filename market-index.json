@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T20:26:55.540Z",
+  "generatedAt": "2026-08-24T13:56:01.694Z",
   "preferences": {
     "profileName": "DEFAULT",
     "filters": {
@@ -18,11 +18,11 @@
     }
   },
   "summary": {
-    "seen": 121,
-    "eligible": 8,
-    "top10": 8,
-    "rejected": 107,
-    "processingUnknown": 6
+    "seen": 137,
+    "eligible": 3,
+    "top10": 3,
+    "rejected": 120,
+    "processingUnknown": 14
   },
   "vehicles": [
     {
@@ -51,8 +51,8 @@
       "equipmentScore": 64.1,
       "equipmentConfidence": 69,
       "firstSeen": "2026-08-14T13:13:55.370Z",
-      "lastSeen": "2026-08-20T20:22:23.473Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:55:30.375Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -63,7 +63,7 @@
           "vatStatus": "NON_DEDUCTIBLE"
         },
         {
-          "observedAt": "2026-08-20T20:22:23.473Z",
+          "observedAt": "2026-08-20T20:55:30.375Z",
           "grossEur": 61900,
           "netEur": 52906,
           "realCostEur": 52906,
@@ -71,15 +71,15 @@
         }
       ],
       "priceChangeFromFirstEur": -10994,
-      "lastPriceChangeAt": "2026-08-20T20:22:23.473Z",
+      "lastPriceChangeAt": "2026-08-20T20:55:30.375Z",
       "lastPriceChangeEur": -10994
     },
     {
       "archiveIndex": 2,
-      "eligibleRank": 1,
-      "top10": true,
-      "state": "ELIGIBLE_RANKED",
-      "exclusionReason": null,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "WEKXX4",
       "url": "https://finder.porsche.com/be/fr-BE/details/porsche-taycan-4-cross-turismo-doccasion-WEKXX4?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan 4 Cross Turismo d'occasion ou Porsche Centre Brussels",
@@ -100,9 +100,9 @@
       "equipmentScore": 41.8,
       "equipmentConfidence": 45,
       "firstSeen": "2026-08-14T13:15:22.809Z",
-      "lastSeen": "2026-08-20T20:23:37.072Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:56:36.733Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:22.809Z",
@@ -142,8 +142,8 @@
       "equipmentScore": 59.9,
       "equipmentConfidence": 64,
       "firstSeen": "2026-08-14T13:16:48.014Z",
-      "lastSeen": "2026-08-20T20:24:31.852Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:57:31.995Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -160,7 +160,7 @@
     },
     {
       "archiveIndex": 4,
-      "eligibleRank": 2,
+      "eligibleRank": 1,
       "top10": true,
       "state": "ELIGIBLE_RANKED",
       "exclusionReason": null,
@@ -184,8 +184,8 @@
       "equipmentScore": 48.7,
       "equipmentConfidence": 51,
       "firstSeen": "2026-08-14T13:15:19.090Z",
-      "lastSeen": "2026-08-20T20:23:34.343Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:56:33.517Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -205,7 +205,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "903Q22",
       "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-usata-903Q22?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compra una Taycan usata presso Centro Porsche Milano Nord",
@@ -226,9 +226,9 @@
       "equipmentScore": 51.1,
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:18:28.367Z",
-      "lastSeen": "2026-08-20T20:25:40.766Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:58:47.684Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:28.367Z",
@@ -248,6 +248,90 @@
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
       "exclusionReason": "YEAR_FILTER",
+      "listingId": "7NL22L",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4-cross-turismo-gebraucht-7NL22L?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Porsche Taycan 4 Cross Turismo gebraucht beim Porsche Zentrum Frankfurt kaufen",
+      "country": "DE",
+      "vin": "FAHRZEUGPARAMETER",
+      "modelYear": 2021,
+      "modelYearSource": "PAGE",
+      "mileageKm": 23420,
+      "bodyStyle": "CROSS_TURISMO",
+      "drivetrain": "AWD",
+      "grossEur": 58660,
+      "netEur": 49294,
+      "realCostEur": 49294,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "absoluteScore": 96.1,
+      "equipmentScore": 28,
+      "equipmentConfidence": 28,
+      "firstSeen": "2026-08-24T04:57:17.723Z",
+      "lastSeen": "2026-08-24T04:57:17.723Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-24T04:57:17.723Z",
+          "grossEur": 58660,
+          "netEur": 49294,
+          "realCostEur": 49294,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 7,
+      "eligibleRank": 2,
+      "top10": true,
+      "state": "ELIGIBLE_RANKED",
+      "exclusionReason": null,
+      "listingId": "706O24",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-706O24?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Porsche Taycan gebraucht beim Porsche Zentrum Aschaffenburg kaufen",
+      "country": "DE",
+      "vin": "FAHRZEUGPARAMETER",
+      "modelYear": 2023,
+      "modelYearSource": "PAGE",
+      "mileageKm": 71900,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 58580,
+      "netEur": 49227,
+      "realCostEur": 49227,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "absoluteScore": 95.6,
+      "equipmentScore": 53.3,
+      "equipmentConfidence": 56,
+      "firstSeen": "2026-08-14T13:16:10.598Z",
+      "lastSeen": "2026-08-24T04:57:14.544Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:16:10.598Z",
+          "grossEur": 58580,
+          "netEur": 49227,
+          "realCostEur": 49227,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 8,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "363Z2V",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4-cross-turismo-gebraucht-363Z2V?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan 4 Cross Turismo gebraucht beim Porsche Zentrum Frankfurt kaufen",
@@ -269,8 +353,8 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:16:13.251Z",
       "lastSeen": "2026-08-14T13:16:13.251Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:13.251Z",
@@ -285,49 +369,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 7,
-      "eligibleRank": 3,
-      "top10": true,
-      "state": "ELIGIBLE_RANKED",
-      "exclusionReason": null,
-      "listingId": "706O24",
-      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-706O24?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Porsche Taycan gebraucht beim Porsche Zentrum Aschaffenburg kaufen",
-      "country": "DE",
-      "vin": null,
-      "modelYear": 2023,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 71900,
-      "bodyStyle": "SEDAN",
-      "drivetrain": "UNKNOWN",
-      "grossEur": 58580,
-      "netEur": 49227,
-      "realCostEur": 49227,
-      "vatStatus": "DEDUCTIBLE",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "NO_ACCIDENT",
-      "absoluteScore": 94.7,
-      "equipmentScore": 48.3,
-      "equipmentConfidence": 51,
-      "firstSeen": "2026-08-14T13:16:10.598Z",
-      "lastSeen": "2026-08-14T13:16:10.598Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:16:10.598Z",
-          "grossEur": 58580,
-          "netEur": 49227,
-          "realCostEur": 49227,
-          "vatStatus": "DEDUCTIBLE"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 8,
+      "archiveIndex": 9,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -352,8 +394,8 @@
       "equipmentScore": 56.1,
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:13:52.786Z",
-      "lastSeen": "2026-08-20T20:22:21.102Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:55:27.426Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -369,7 +411,56 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 9,
+      "archiveIndex": 10,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "L8GL9Z",
+      "url": "https://finder.porsche.com/lu/fr-LU/details/porsche-taycan-4-cross-turismo-doccasion-L8GL9Z?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Achetez votre Porsche Taycan 4 Cross Turismo d'occasion ou Porsche Zenter Lëtzebuerg",
+      "country": "LU",
+      "vin": "WP0ZZZY1ZNSA63676",
+      "modelYear": 2022,
+      "modelYearSource": "VIN",
+      "mileageKm": 55228,
+      "bodyStyle": "CROSS_TURISMO",
+      "drivetrain": "AWD",
+      "grossEur": 63900,
+      "netEur": 54615,
+      "realCostEur": 54615,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "absoluteScore": 94.6,
+      "equipmentScore": 57.1,
+      "equipmentConfidence": 62,
+      "firstSeen": "2026-08-14T13:14:01.950Z",
+      "lastSeen": "2026-08-23T06:13:03.135Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:14:01.950Z",
+          "grossEur": 66900,
+          "netEur": 57179,
+          "realCostEur": 57179,
+          "vatStatus": "DEDUCTIBLE"
+        },
+        {
+          "observedAt": "2026-08-23T06:13:03.135Z",
+          "grossEur": 63900,
+          "netEur": 54615,
+          "realCostEur": 54615,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": -2564,
+      "lastPriceChangeAt": "2026-08-23T06:13:03.135Z",
+      "lastPriceChangeEur": -2564
+    },
+    {
+      "archiveIndex": 11,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -395,7 +486,7 @@
       "equipmentConfidence": 57,
       "firstSeen": "2026-08-14T13:14:45.459Z",
       "lastSeen": "2026-08-14T13:14:45.459Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -411,11 +502,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 10,
+      "archiveIndex": 12,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "5KK7XV",
       "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-4-cross-turismo-usata-5KK7XV?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compra una Taycan 4 Cross Turismo usata presso Centro Porsche Firenze",
@@ -436,9 +527,9 @@
       "equipmentScore": 39.5,
       "equipmentConfidence": 43,
       "firstSeen": "2026-08-14T13:18:35.771Z",
-      "lastSeen": "2026-08-20T20:25:47.948Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:58:56.790Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:35.771Z",
@@ -453,7 +544,56 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 11,
+      "archiveIndex": 13,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "EX2LNW",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-EX2LNW?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Porsche Taycan 4S gebraucht beim Porsche Zentrum Essen kaufen",
+      "country": "DE",
+      "vin": "FAHRZEUGPARAMETER",
+      "modelYear": 2021,
+      "modelYearSource": "PAGE",
+      "mileageKm": 100200,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 55900,
+      "netEur": 46975,
+      "realCostEur": 46975,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "absoluteScore": 93.8,
+      "equipmentScore": 77.7,
+      "equipmentConfidence": 81,
+      "firstSeen": "2026-08-14T13:16:08.035Z",
+      "lastSeen": "2026-08-24T04:57:01.022Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:16:08.035Z",
+          "grossEur": 58500,
+          "netEur": 49160,
+          "realCostEur": 49160,
+          "vatStatus": "DEDUCTIBLE"
+        },
+        {
+          "observedAt": "2026-08-24T04:57:01.022Z",
+          "grossEur": 55900,
+          "netEur": 46975,
+          "realCostEur": 46975,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": -2185,
+      "lastPriceChangeAt": "2026-08-24T04:57:01.022Z",
+      "lastPriceChangeEur": -2185
+    },
+    {
+      "archiveIndex": 14,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -479,7 +619,7 @@
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:18:43.284Z",
       "lastSeen": "2026-08-14T13:18:43.284Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -495,11 +635,53 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 12,
+      "archiveIndex": 15,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
       "exclusionReason": "YEAR_FILTER",
+      "listingId": "44OQ7E",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-44OQ7E?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Porsche Taycan 4S gebraucht beim Porsche Zentrum Bonn kaufen",
+      "country": "DE",
+      "vin": "FAHRZEUGPARAMETER",
+      "modelYear": 2021,
+      "modelYearSource": "PAGE",
+      "mileageKm": 81390,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 57950,
+      "netEur": 48697,
+      "realCostEur": 48697,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "DECLARED",
+      "absoluteScore": 92.5,
+      "equipmentScore": 58.7,
+      "equipmentConfidence": 61,
+      "firstSeen": "2026-08-14T13:16:05.606Z",
+      "lastSeen": "2026-08-24T04:57:11.116Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:16:05.606Z",
+          "grossEur": 57950,
+          "netEur": 48697,
+          "realCostEur": 48697,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 16,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "7K6VM7",
       "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-4s-cross-turismo-usata-7K6VM7?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compra una Taycan 4S Cross Turismo usata presso Centro Porsche Firenze",
@@ -520,9 +702,9 @@
       "equipmentScore": 84.7,
       "equipmentConfidence": 87,
       "firstSeen": "2026-08-14T13:18:33.379Z",
-      "lastSeen": "2026-08-20T20:25:50.275Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:58:59.735Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:33.379Z",
@@ -537,11 +719,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 13,
+      "archiveIndex": 17,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "MILEAGE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "6GVPZ6",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-sport-turismo-gebraucht-6GVPZ6?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan Sport Turismo gebraucht beim Porsche Zentrum Hofheim kaufen",
@@ -563,8 +745,8 @@
       "equipmentConfidence": 51,
       "firstSeen": "2026-08-14T13:16:21.493Z",
       "lastSeen": "2026-08-14T13:16:21.493Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:21.493Z",
@@ -579,7 +761,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 14,
+      "archiveIndex": 18,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -604,8 +786,8 @@
       "equipmentScore": 61.1,
       "equipmentConfidence": 66,
       "firstSeen": "2026-08-14T13:15:16.686Z",
-      "lastSeen": "2026-08-20T20:23:31.947Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:56:30.548Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -621,7 +803,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 15,
+      "archiveIndex": 19,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -646,8 +828,8 @@
       "equipmentScore": 59.1,
       "equipmentConfidence": 64,
       "firstSeen": "2026-08-14T13:16:45.494Z",
-      "lastSeen": "2026-08-20T20:24:36.592Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:57:38.533Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -658,7 +840,7 @@
           "vatStatus": "DEDUCTIBLE"
         },
         {
-          "observedAt": "2026-08-20T20:24:36.592Z",
+          "observedAt": "2026-08-20T20:57:38.533Z",
           "grossEur": 64900,
           "netEur": 53636,
           "realCostEur": 53636,
@@ -666,11 +848,11 @@
         }
       ],
       "priceChangeFromFirstEur": 1653,
-      "lastPriceChangeAt": "2026-08-20T20:24:36.592Z",
+      "lastPriceChangeAt": "2026-08-20T20:57:38.533Z",
       "lastPriceChangeEur": 1653
     },
     {
-      "archiveIndex": 16,
+      "archiveIndex": 20,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -695,8 +877,8 @@
       "equipmentScore": 60.1,
       "equipmentConfidence": 65,
       "firstSeen": "2026-08-14T13:15:14.358Z",
-      "lastSeen": "2026-08-20T20:23:29.693Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:56:27.621Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -712,8 +894,8 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 17,
-      "eligibleRank": 4,
+      "archiveIndex": 21,
+      "eligibleRank": 3,
       "top10": true,
       "state": "ELIGIBLE_RANKED",
       "exclusionReason": null,
@@ -737,8 +919,8 @@
       "equipmentScore": 31,
       "equipmentConfidence": 31,
       "firstSeen": "2026-08-14T13:18:18.271Z",
-      "lastSeen": "2026-08-20T20:25:33.669Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:58:38.523Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -754,40 +936,40 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 18,
+      "archiveIndex": 22,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
-      "listingId": "EX2LNW",
-      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-EX2LNW?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Porsche Taycan 4S gebraucht beim Porsche Zentrum Essen kaufen",
-      "country": "DE",
-      "vin": null,
-      "modelYear": 2021,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 100200,
-      "bodyStyle": "SEDAN",
+      "exclusionReason": "LISTING_STATUS",
+      "listingId": "K7W7WM",
+      "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-4-cross-turismo-usata-K7W7WM?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compra una Taycan 4 Cross Turismo usata presso Centro Porsche Como",
+      "country": "IT",
+      "vin": "WP0ZZZY1ZNSA61142",
+      "modelYear": 2022,
+      "modelYearSource": "VIN",
+      "mileageKm": 58400,
+      "bodyStyle": "CROSS_TURISMO",
       "drivetrain": "AWD",
-      "grossEur": 58500,
-      "netEur": 49160,
-      "realCostEur": 49160,
+      "grossEur": 63000,
+      "netEur": 51639,
+      "realCostEur": 51639,
       "vatStatus": "DEDUCTIBLE",
       "porscheApprovedStatus": "CONFIRMED",
       "accidentStatus": "NO_ACCIDENT",
       "absoluteScore": 91.7,
-      "equipmentScore": 65.2,
-      "equipmentConfidence": 67,
-      "firstSeen": "2026-08-14T13:16:08.035Z",
-      "lastSeen": "2026-08-14T13:16:08.035Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "equipmentScore": 40,
+      "equipmentConfidence": 40,
+      "firstSeen": "2026-08-14T13:18:38.014Z",
+      "lastSeen": "2026-08-20T20:59:03.112Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
-          "observedAt": "2026-08-14T13:16:08.035Z",
-          "grossEur": 58500,
-          "netEur": 49160,
-          "realCostEur": 49160,
+          "observedAt": "2026-08-14T13:18:38.014Z",
+          "grossEur": 63000,
+          "netEur": 51639,
+          "realCostEur": 51639,
           "vatStatus": "DEDUCTIBLE"
         }
       ],
@@ -796,11 +978,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 19,
-      "eligibleRank": 5,
-      "top10": true,
-      "state": "ELIGIBLE_RANKED",
-      "exclusionReason": null,
+      "archiveIndex": 23,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "95VNO2",
       "url": "https://finder.porsche.com/be/fr-BE/details/porsche-taycan-sport-turismo-doccasion-95VNO2?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan Sport Turismo d'occasion ou Porsche Centre Oost Vlaanderen",
@@ -821,9 +1003,9 @@
       "equipmentScore": 33.2,
       "equipmentConfidence": 34,
       "firstSeen": "2026-08-14T13:15:27.902Z",
-      "lastSeen": "2026-08-20T20:23:41.843Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:56:42.765Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:27.902Z",
@@ -838,7 +1020,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 20,
+      "archiveIndex": 24,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -863,8 +1045,8 @@
       "equipmentScore": 33.6,
       "equipmentConfidence": 36,
       "firstSeen": "2026-08-14T13:18:23.537Z",
-      "lastSeen": "2026-08-20T20:25:38.576Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:58:44.585Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -880,11 +1062,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 21,
-      "eligibleRank": 6,
-      "top10": true,
-      "state": "ELIGIBLE_RANKED",
-      "exclusionReason": null,
+      "archiveIndex": 25,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "DR30Z3",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-DR30Z3?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan gebraucht beim Porsche Zentrum Düsseldorf kaufen",
@@ -906,8 +1088,8 @@
       "equipmentConfidence": 45,
       "firstSeen": "2026-08-14T13:16:29.850Z",
       "lastSeen": "2026-08-14T13:16:29.850Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:29.850Z",
@@ -922,11 +1104,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 22,
+      "archiveIndex": 26,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "V4D64E",
       "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-sport-turismo-usata-V4D64E?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compra una Taycan Sport Turismo usata presso Centro Porsche Mantova",
@@ -947,9 +1129,9 @@
       "equipmentScore": 60.3,
       "equipmentConfidence": 65,
       "firstSeen": "2026-08-14T13:18:26.003Z",
-      "lastSeen": "2026-08-20T20:25:43.223Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:58:50.829Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:26.003Z",
@@ -964,21 +1146,21 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 23,
+      "archiveIndex": 27,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
       "exclusionReason": "YEAR_FILTER",
-      "listingId": "44OQ7E",
-      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-44OQ7E?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Porsche Taycan 4S gebraucht beim Porsche Zentrum Bonn kaufen",
+      "listingId": "XGEQEP",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-XGEQEP?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Porsche Taycan gebraucht beim Porsche Zentrum Bonn kaufen",
       "country": "DE",
-      "vin": null,
-      "modelYear": 2021,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 81390,
+      "vin": "FAHRZEUGPARAMETER",
+      "modelYear": 2022,
+      "modelYearSource": "PAGE",
+      "mileageKm": 46200,
       "bodyStyle": "SEDAN",
-      "drivetrain": "AWD",
+      "drivetrain": "UNKNOWN",
       "grossEur": 57950,
       "netEur": 48697,
       "realCostEur": 48697,
@@ -986,15 +1168,15 @@
       "porscheApprovedStatus": "CONFIRMED",
       "accidentStatus": "DECLARED",
       "absoluteScore": 90.5,
-      "equipmentScore": 47.2,
-      "equipmentConfidence": 48,
-      "firstSeen": "2026-08-14T13:16:05.606Z",
-      "lastSeen": "2026-08-14T13:16:05.606Z",
-      "daysOnMarket": 6,
+      "equipmentScore": 24.5,
+      "equipmentConfidence": 27,
+      "firstSeen": "2026-08-14T13:16:02.431Z",
+      "lastSeen": "2026-08-24T04:57:07.715Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-14T13:16:05.606Z",
+          "observedAt": "2026-08-14T13:16:02.431Z",
           "grossEur": 57950,
           "netEur": 48697,
           "realCostEur": 48697,
@@ -1006,11 +1188,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 24,
+      "archiveIndex": 28,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "44LR65",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4-cross-turismo-gebraucht-44LR65?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan 4 Cross Turismo gebraucht beim Porsche Zentrum Stuttgart kaufen",
@@ -1032,8 +1214,8 @@
       "equipmentConfidence": 29,
       "firstSeen": "2026-08-14T13:16:18.007Z",
       "lastSeen": "2026-08-14T13:16:18.007Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:18.007Z",
@@ -1048,7 +1230,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 25,
+      "archiveIndex": 29,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
+      "listingId": "OP80D3",
+      "url": "https://finder.porsche.com/be/fr-BE/details/porsche-taycan-4s-doccasion-OP80D3?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Achetez votre Porsche Taycan 4S d'occasion ou Porsche Centre Paal",
+      "country": "BE",
+      "vin": "WP0ZZZY1ZNSA36098",
+      "modelYear": 2022,
+      "modelYearSource": "VIN",
+      "mileageKm": 29293,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 72499,
+      "netEur": 59917,
+      "realCostEur": 59917,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "absoluteScore": 90.2,
+      "equipmentScore": 43.2,
+      "equipmentConfidence": 44,
+      "firstSeen": "2026-08-14T13:15:35.793Z",
+      "lastSeen": "2026-08-20T20:56:51.787Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:15:35.793Z",
+          "grossEur": 72499,
+          "netEur": 59917,
+          "realCostEur": 59917,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 30,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1074,7 +1298,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:18:40.813Z",
       "lastSeen": "2026-08-14T13:18:40.813Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -1090,11 +1314,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 26,
+      "archiveIndex": 31,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "709R87",
       "url": "https://finder.porsche.com/lu/fr-LU/details/porsche-taycan-4s-cross-turismo-doccasion-709R87?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan 4S Cross Turismo d'occasion ou Porsche Zenter Lëtzebuerg",
@@ -1115,9 +1339,9 @@
       "equipmentScore": 61.5,
       "equipmentConfidence": 64,
       "firstSeen": "2026-08-14T13:14:04.385Z",
-      "lastSeen": "2026-08-20T20:22:30.665Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:55:39.855Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:14:04.385Z",
@@ -1132,11 +1356,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 27,
+      "archiveIndex": 32,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "MILEAGE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "V9M3LR",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4-cross-turismo-gebraucht-V9M3LR?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan 4 Cross Turismo gebraucht beim Porsche Zentrum Dresden kaufen",
@@ -1158,8 +1382,8 @@
       "equipmentConfidence": 35,
       "firstSeen": "2026-08-14T13:16:27.211Z",
       "lastSeen": "2026-08-14T13:16:27.211Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:27.211Z",
@@ -1174,7 +1398,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 28,
+      "archiveIndex": 33,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1200,7 +1424,7 @@
       "equipmentConfidence": 49,
       "firstSeen": "2026-08-14T13:14:37.528Z",
       "lastSeen": "2026-08-14T13:14:37.528Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1216,124 +1440,40 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 29,
+      "archiveIndex": 34,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
-      "listingId": "L8GL9Z",
-      "url": "https://finder.porsche.com/lu/fr-LU/details/porsche-taycan-4-cross-turismo-doccasion-L8GL9Z?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Achetez votre Porsche Taycan 4 Cross Turismo d'occasion ou Porsche Zenter Lëtzebuerg",
-      "country": "LU",
-      "vin": "WP0ZZZY1ZNSA63676",
-      "modelYear": 2022,
-      "modelYearSource": "VIN",
-      "mileageKm": 55228,
-      "bodyStyle": "CROSS_TURISMO",
-      "drivetrain": "AWD",
-      "grossEur": 66900,
-      "netEur": 57179,
-      "realCostEur": 57179,
-      "vatStatus": "DEDUCTIBLE",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "NO_ACCIDENT",
-      "absoluteScore": 89.2,
-      "equipmentScore": 57.1,
-      "equipmentConfidence": 62,
-      "firstSeen": "2026-08-14T13:14:01.950Z",
-      "lastSeen": "2026-08-20T20:22:28.266Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:14:01.950Z",
-          "grossEur": 66900,
-          "netEur": 57179,
-          "realCostEur": 57179,
-          "vatStatus": "DEDUCTIBLE"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 30,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
-      "listingId": "XGEQEP",
-      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-XGEQEP?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Porsche Taycan gebraucht beim Porsche Zentrum Bonn kaufen",
+      "exclusionReason": "MILEAGE_FILTER",
+      "listingId": "3KVXOV",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-3KVXOV?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Porsche Taycan gebraucht beim Porsche Zentrum Hofheim kaufen",
       "country": "DE",
-      "vin": null,
-      "modelYear": 2022,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 46200,
+      "vin": "VERKAUFSABSCHLUSS",
+      "modelYear": 2023,
+      "modelYearSource": "PAGE",
+      "mileageKm": 121446,
       "bodyStyle": "SEDAN",
       "drivetrain": "UNKNOWN",
-      "grossEur": 57950,
-      "netEur": 48697,
-      "realCostEur": 48697,
-      "vatStatus": "DEDUCTIBLE",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "DECLARED",
-      "absoluteScore": 88.8,
-      "equipmentScore": 14.5,
-      "equipmentConfidence": 17,
-      "firstSeen": "2026-08-14T13:16:02.431Z",
-      "lastSeen": "2026-08-14T13:16:02.431Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:16:02.431Z",
-          "grossEur": 57950,
-          "netEur": 48697,
-          "realCostEur": 48697,
-          "vatStatus": "DEDUCTIBLE"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 31,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "LISTING_STATUS",
-      "listingId": "OP80D3",
-      "url": "https://finder.porsche.com/be/fr-BE/details/porsche-taycan-4s-doccasion-OP80D3?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Achetez votre Porsche Taycan 4S d'occasion ou Porsche Centre Paal",
-      "country": "BE",
-      "vin": null,
-      "modelYear": 2022,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 29293,
-      "bodyStyle": "SEDAN",
-      "drivetrain": "AWD",
-      "grossEur": 72499,
-      "netEur": 59917,
-      "realCostEur": 59917,
+      "grossEur": 54900,
+      "netEur": 46134,
+      "realCostEur": 46134,
       "vatStatus": "DEDUCTIBLE",
       "porscheApprovedStatus": "CONFIRMED",
       "accidentStatus": "NO_ACCIDENT",
-      "absoluteScore": 88.8,
-      "equipmentScore": 35.2,
-      "equipmentConfidence": 36,
-      "firstSeen": "2026-08-14T13:15:35.793Z",
-      "lastSeen": "2026-08-14T13:15:35.793Z",
-      "daysOnMarket": 6,
-      "listingStatus": "PROCESSING_REJECTED",
+      "absoluteScore": 88.6,
+      "equipmentScore": 50.2,
+      "equipmentConfidence": 52,
+      "firstSeen": "2026-08-24T04:56:57.613Z",
+      "lastSeen": "2026-08-24T04:56:57.613Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-14T13:15:35.793Z",
-          "grossEur": 72499,
-          "netEur": 59917,
-          "realCostEur": 59917,
+          "observedAt": "2026-08-24T04:56:57.613Z",
+          "grossEur": 54900,
+          "netEur": 46134,
+          "realCostEur": 46134,
           "vatStatus": "DEDUCTIBLE"
         }
       ],
@@ -1342,53 +1482,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 32,
+      "archiveIndex": 35,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
       "exclusionReason": "LISTING_STATUS",
-      "listingId": "K7W7WM",
-      "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-4-cross-turismo-usata-K7W7WM?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Compra una Taycan 4 Cross Turismo usata presso Centro Porsche Como",
-      "country": "IT",
-      "vin": null,
-      "modelYear": 2021,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 58400,
-      "bodyStyle": "CROSS_TURISMO",
-      "drivetrain": "AWD",
-      "grossEur": 63000,
-      "netEur": 51639,
-      "realCostEur": 51639,
-      "vatStatus": "DEDUCTIBLE",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "UNKNOWN",
-      "absoluteScore": 87.5,
-      "equipmentScore": 34,
-      "equipmentConfidence": 34,
-      "firstSeen": "2026-08-14T13:18:38.014Z",
-      "lastSeen": "2026-08-14T13:18:38.014Z",
-      "daysOnMarket": 6,
-      "listingStatus": "PROCESSING_REJECTED",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:18:38.014Z",
-          "grossEur": 63000,
-          "netEur": 51639,
-          "realCostEur": 51639,
-          "vatStatus": "DEDUCTIBLE"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 33,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
       "listingId": "K5VV0P",
       "url": "https://finder.porsche.com/be/fr-BE/details/porsche-taycan-4-cross-turismo-doccasion-K5VV0P?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan 4 Cross Turismo d'occasion ou Porsche Centre Oost Vlaanderen",
@@ -1409,9 +1507,9 @@
       "equipmentScore": 62.3,
       "equipmentConfidence": 64,
       "firstSeen": "2026-08-14T13:15:33.167Z",
-      "lastSeen": "2026-08-20T20:23:46.610Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:56:48.915Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:33.167Z",
@@ -1426,7 +1524,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 34,
+      "archiveIndex": 36,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1452,7 +1550,7 @@
       "equipmentConfidence": 43,
       "firstSeen": "2026-08-14T13:15:02.064Z",
       "lastSeen": "2026-08-14T13:15:02.064Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1468,11 +1566,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 35,
+      "archiveIndex": 37,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "PV8ZQK",
       "url": "https://finder.porsche.com/lu/fr-LU/details/porsche-taycan-4s-cross-turismo-doccasion-PV8ZQK?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan 4S Cross Turismo d'occasion ou Porsche Zenter Lëtzebuerg",
@@ -1493,9 +1591,9 @@
       "equipmentScore": 62.2,
       "equipmentConfidence": 63,
       "firstSeen": "2026-08-14T13:14:06.836Z",
-      "lastSeen": "2026-08-20T20:22:32.994Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:55:42.675Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:14:06.836Z",
@@ -1510,11 +1608,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 36,
-      "eligibleRank": 7,
-      "top10": true,
-      "state": "ELIGIBLE_RANKED",
-      "exclusionReason": null,
+      "archiveIndex": 38,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "DRNQ7N",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-DRNQ7N?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan gebraucht beim Porsche Zentrum Berlin kaufen",
@@ -1536,8 +1634,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:16:35.218Z",
       "lastSeen": "2026-08-14T13:16:35.218Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:35.218Z",
@@ -1552,53 +1650,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 37,
+      "archiveIndex": 39,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
-      "listingId": "0OEK2E",
-      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-0OEK2E?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Porsche Taycan gebraucht beim Porsche Zentrum Paderborn kaufen",
-      "country": "DE",
-      "vin": null,
-      "modelYear": 2021,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 49990,
-      "bodyStyle": "SEDAN",
-      "drivetrain": "UNKNOWN",
-      "grossEur": 54890,
-      "netEur": null,
-      "realCostEur": 54890,
-      "vatStatus": "NON_DEDUCTIBLE",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "NO_ACCIDENT",
-      "absoluteScore": 86.6,
-      "equipmentScore": 22,
-      "equipmentConfidence": 22,
-      "firstSeen": "2026-08-14T13:15:57.539Z",
-      "lastSeen": "2026-08-14T13:15:57.539Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:15:57.539Z",
-          "grossEur": 54890,
-          "netEur": null,
-          "realCostEur": 54890,
-          "vatStatus": "NON_DEDUCTIBLE"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 38,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "OPD7WL",
       "url": "https://finder.porsche.com/be/fr-BE/details/porsche-taycan-doccasion-OPD7WL?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan d'occasion ou Porsche Centre Liège",
@@ -1619,9 +1675,9 @@
       "equipmentScore": 28,
       "equipmentConfidence": 28,
       "firstSeen": "2026-08-14T13:15:30.231Z",
-      "lastSeen": "2026-08-20T20:23:44.311Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:56:45.683Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:30.231Z",
@@ -1636,7 +1692,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 39,
+      "archiveIndex": 40,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1661,8 +1717,8 @@
       "equipmentScore": 56.1,
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:13:58.729Z",
-      "lastSeen": "2026-08-20T20:22:25.893Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:55:33.255Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1678,7 +1734,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 40,
+      "archiveIndex": 41,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1704,7 +1760,7 @@
       "equipmentConfidence": 32,
       "firstSeen": "2026-08-14T13:14:56.221Z",
       "lastSeen": "2026-08-14T13:14:56.221Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1720,7 +1776,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 41,
+      "archiveIndex": 42,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "0OEK2E",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-0OEK2E?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Porsche Taycan gebraucht beim Porsche Zentrum Paderborn kaufen",
+      "country": "DE",
+      "vin": "FAHRZEUGPARAMETER",
+      "modelYear": 2021,
+      "modelYearSource": "PAGE",
+      "mileageKm": 50050,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 54890,
+      "netEur": null,
+      "realCostEur": 54890,
+      "vatStatus": "NON_DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "absoluteScore": 85.4,
+      "equipmentScore": 28,
+      "equipmentConfidence": 28,
+      "firstSeen": "2026-08-14T13:15:57.539Z",
+      "lastSeen": "2026-08-24T04:56:54.408Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:15:57.539Z",
+          "grossEur": 54890,
+          "netEur": null,
+          "realCostEur": 54890,
+          "vatStatus": "NON_DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 43,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1746,8 +1844,8 @@
       "equipmentConfidence": 59,
       "firstSeen": "2026-08-14T13:17:21.672Z",
       "lastSeen": "2026-08-14T13:17:21.672Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:21.672Z",
@@ -1762,7 +1860,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 42,
+      "archiveIndex": 44,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1788,7 +1886,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:14:53.752Z",
       "lastSeen": "2026-08-14T13:14:53.752Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1804,7 +1902,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 43,
+      "archiveIndex": 45,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1830,7 +1928,7 @@
       "equipmentConfidence": 40,
       "firstSeen": "2026-08-14T13:14:48.546Z",
       "lastSeen": "2026-08-14T13:14:48.546Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1846,7 +1944,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 44,
+      "archiveIndex": 46,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1872,7 +1970,7 @@
       "equipmentConfidence": 39,
       "firstSeen": "2026-08-14T13:14:58.687Z",
       "lastSeen": "2026-08-14T13:14:58.687Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1888,11 +1986,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 45,
+      "archiveIndex": 47,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "5KQDMW",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-5KQDMW?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan gebraucht beim Porsche Zentrum Ulm-Neu-Ulm kaufen",
@@ -1914,8 +2012,8 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:16:32.132Z",
       "lastSeen": "2026-08-14T13:16:32.132Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:32.132Z",
@@ -1930,11 +2028,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 46,
+      "archiveIndex": 48,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "Z5L6LP",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-Z5L6LP?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan 4S gebraucht beim Porsche Zentrum Düsseldorf kaufen",
@@ -1956,8 +2054,8 @@
       "equipmentConfidence": 72,
       "firstSeen": "2026-08-14T13:16:15.645Z",
       "lastSeen": "2026-08-14T13:16:15.645Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:15.645Z",
@@ -1972,7 +2070,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 47,
+      "archiveIndex": 49,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1998,7 +2096,7 @@
       "equipmentConfidence": 64,
       "firstSeen": "2026-08-14T13:17:09.260Z",
       "lastSeen": "2026-08-14T13:17:09.260Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -2014,7 +2112,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 48,
+      "archiveIndex": 50,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2040,8 +2138,8 @@
       "equipmentConfidence": 4,
       "firstSeen": "2026-08-14T13:18:15.759Z",
       "lastSeen": "2026-08-14T13:18:15.759Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:15.759Z",
@@ -2056,11 +2154,53 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 49,
+      "archiveIndex": 51,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
       "exclusionReason": "MILEAGE_FILTER",
+      "listingId": "70D674",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-usado-70D674?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compre el Porsche Taycan de sus sueños en Centro Porsche Valencia",
+      "country": "ES",
+      "vin": "WP0ZZZY19PSA00420",
+      "modelYear": 2023,
+      "modelYearSource": "VIN",
+      "mileageKm": 108200,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 59900,
+      "netEur": null,
+      "realCostEur": 59900,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 82.7,
+      "equipmentScore": 59,
+      "equipmentConfidence": 59,
+      "firstSeen": "2026-08-14T13:17:32.677Z",
+      "lastSeen": "2026-08-24T04:58:54.077Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:17:32.677Z",
+          "grossEur": 59900,
+          "netEur": null,
+          "realCostEur": 59900,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 52,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "KPLP4G",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-KPLP4G?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan gebraucht beim Porsche Zentrum Köln kaufen",
@@ -2082,8 +2222,8 @@
       "equipmentConfidence": 33,
       "firstSeen": "2026-08-14T13:15:59.863Z",
       "lastSeen": "2026-08-14T13:15:59.863Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:59.863Z",
@@ -2098,7 +2238,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 50,
+      "archiveIndex": 53,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2124,7 +2264,7 @@
       "equipmentConfidence": 30,
       "firstSeen": "2026-08-14T13:14:27.165Z",
       "lastSeen": "2026-08-14T13:14:27.165Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2140,11 +2280,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 51,
-      "eligibleRank": 8,
-      "top10": true,
-      "state": "ELIGIBLE_RANKED",
-      "exclusionReason": null,
+      "archiveIndex": 54,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "NPLZRV",
       "url": "https://finder.porsche.com/be/fr-BE/details/porsche-taycan-doccasion-NPLZRV?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan d'occasion ou Porsche Centre Antwerpen",
@@ -2165,9 +2305,9 @@
       "equipmentScore": 6.5,
       "equipmentConfidence": 8,
       "firstSeen": "2026-08-14T13:15:25.516Z",
-      "lastSeen": "2026-08-20T20:23:39.457Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:56:39.799Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:25.516Z",
@@ -2182,49 +2322,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 52,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
-      "listingId": "70D674",
-      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-usado-70D674?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Compre el Porsche Taycan de sus sueños en Centro Porsche Valencia",
-      "country": "ES",
-      "vin": null,
-      "modelYear": 2022,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 108200,
-      "bodyStyle": "SEDAN",
-      "drivetrain": "UNKNOWN",
-      "grossEur": 59900,
-      "netEur": null,
-      "realCostEur": 59900,
-      "vatStatus": "UNKNOWN",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "UNKNOWN",
-      "absoluteScore": 80.4,
-      "equipmentScore": 56,
-      "equipmentConfidence": 56,
-      "firstSeen": "2026-08-14T13:17:32.677Z",
-      "lastSeen": "2026-08-14T13:17:32.677Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:17:32.677Z",
-          "grossEur": 59900,
-          "netEur": null,
-          "realCostEur": 59900,
-          "vatStatus": "UNKNOWN"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 53,
+      "archiveIndex": 55,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2250,7 +2348,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:14:29.553Z",
       "lastSeen": "2026-08-14T13:14:29.553Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2266,7 +2364,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 54,
+      "archiveIndex": 56,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "6OQVXW",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-cross-turismo-gebraucht-6OQVXW?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Porsche Taycan 4S Cross Turismo gebraucht beim Porsche Zentrum Dortmund kaufen",
+      "country": "DE",
+      "vin": "FAHRZEUGPARAMETER",
+      "modelYear": 2021,
+      "modelYearSource": "PAGE",
+      "mileageKm": 106860,
+      "bodyStyle": "CROSS_TURISMO",
+      "drivetrain": "AWD",
+      "grossEur": 55900,
+      "netEur": null,
+      "realCostEur": 55900,
+      "vatStatus": "NON_DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "absoluteScore": 79.2,
+      "equipmentScore": 45.2,
+      "equipmentConfidence": 46,
+      "firstSeen": "2026-08-24T04:57:04.300Z",
+      "lastSeen": "2026-08-24T04:57:04.300Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-24T04:57:04.300Z",
+          "grossEur": 55900,
+          "netEur": null,
+          "realCostEur": 55900,
+          "vatStatus": "NON_DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 57,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2292,7 +2432,7 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:14:32.498Z",
       "lastSeen": "2026-08-14T13:14:32.498Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2308,7 +2448,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 55,
+      "archiveIndex": 58,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2334,7 +2474,7 @@
       "equipmentConfidence": 48,
       "firstSeen": "2026-08-14T13:14:35.109Z",
       "lastSeen": "2026-08-14T13:14:35.109Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2350,7 +2490,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 56,
+      "archiveIndex": 59,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2376,8 +2516,8 @@
       "equipmentConfidence": 54,
       "firstSeen": "2026-08-14T13:18:46.125Z",
       "lastSeen": "2026-08-14T13:18:46.125Z",
-      "daysOnMarket": 6,
-      "listingStatus": "PROCESSING_REJECTED",
+      "daysOnMarket": 10,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:46.125Z",
@@ -2392,11 +2532,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 57,
+      "archiveIndex": 60,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "G7Z3GN",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-G7Z3GN?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan 4S gebraucht beim Porsche Zentrum Kassel kaufen",
@@ -2418,8 +2558,8 @@
       "equipmentConfidence": 43,
       "firstSeen": "2026-08-14T13:16:24.246Z",
       "lastSeen": "2026-08-14T13:16:24.246Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:24.246Z",
@@ -2434,11 +2574,53 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 58,
+      "archiveIndex": 61,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
+      "listingId": "9P60ZO",
+      "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-turbo-occasion-9P60ZO?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Koop gebruikte Taycan Turbo bij Porsche Centrum Twente",
+      "country": "NL",
+      "vin": null,
+      "modelYear": 2020,
+      "modelYearSource": "PAGE",
+      "mileageKm": 85901,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 69900,
+      "netEur": 57769,
+      "realCostEur": 57769,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 78.2,
+      "equipmentScore": 52.5,
+      "equipmentConfidence": 55,
+      "firstSeen": "2026-08-14T13:17:03.238Z",
+      "lastSeen": "2026-08-20T20:57:57.149Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:17:03.238Z",
+          "grossEur": 69900,
+          "netEur": 57769,
+          "realCostEur": 57769,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 62,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "DRW0K3",
       "url": "https://finder.porsche.com/lu/fr-LU/details/porsche-taycan-gts-sport-turismo-doccasion-DRW0K3?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan GTS Sport Turismo d'occasion ou Porsche Zenter Roost",
@@ -2459,9 +2641,9 @@
       "equipmentScore": 61.2,
       "equipmentConfidence": 62,
       "firstSeen": "2026-08-14T13:14:11.854Z",
-      "lastSeen": "2026-08-20T20:22:35.993Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:55:45.683Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:14:11.854Z",
@@ -2471,7 +2653,7 @@
           "vatStatus": "DEDUCTIBLE"
         },
         {
-          "observedAt": "2026-08-20T20:22:35.993Z",
+          "observedAt": "2026-08-20T20:55:45.683Z",
           "grossEur": 76900,
           "netEur": 65726,
           "realCostEur": 65726,
@@ -2479,15 +2661,15 @@
         }
       ],
       "priceChangeFromFirstEur": -2565,
-      "lastPriceChangeAt": "2026-08-20T20:22:35.993Z",
+      "lastPriceChangeAt": "2026-08-20T20:55:45.683Z",
       "lastPriceChangeEur": -2565
     },
     {
-      "archiveIndex": 59,
+      "archiveIndex": 63,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "K5VM3M",
       "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-sport-turismo-occasion-K5VM3M?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Koop gebruikte Taycan Sport Turismo bij Porsche Centrum Amsterdam",
@@ -2507,13 +2689,13 @@
       "absoluteScore": 77.7,
       "equipmentScore": 50.8,
       "equipmentConfidence": 54,
-      "firstSeen": "2026-08-20T20:24:43.281Z",
-      "lastSeen": "2026-08-20T20:24:43.281Z",
-      "daysOnMarket": 0,
-      "listingStatus": "ACTIVE",
+      "firstSeen": "2026-08-20T20:57:47.703Z",
+      "lastSeen": "2026-08-20T20:57:47.703Z",
+      "daysOnMarket": 3,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:24:43.281Z",
+          "observedAt": "2026-08-20T20:57:47.703Z",
           "grossEur": 64950,
           "netEur": null,
           "realCostEur": 64950,
@@ -2525,11 +2707,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 60,
+      "archiveIndex": 64,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "V906M2",
       "url": "https://finder.porsche.com/lu/fr-LU/details/porsche-taycan-sport-turismo-doccasion-V906M2?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan Sport Turismo d'occasion ou Porsche Zenter Lëtzebuerg",
@@ -2550,9 +2732,9 @@
       "equipmentScore": 63.1,
       "equipmentConfidence": 68,
       "firstSeen": "2026-08-14T13:14:09.454Z",
-      "lastSeen": "2026-08-20T20:22:38.493Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:55:48.733Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:14:09.454Z",
@@ -2567,7 +2749,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 61,
+      "archiveIndex": 65,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
+      "listingId": "RNW0R4",
+      "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-4s-occasion-RNW0R4?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Koop gebruikte Taycan 4S bij Porsche Centrum Amsterdam",
+      "country": "NL",
+      "vin": null,
+      "modelYear": 2021,
+      "modelYearSource": "PAGE",
+      "mileageKm": 33647,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 67950,
+      "netEur": 56157,
+      "realCostEur": 56157,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 77.6,
+      "equipmentScore": 18.2,
+      "equipmentConfidence": 19,
+      "firstSeen": "2026-08-23T06:15:28.386Z",
+      "lastSeen": "2026-08-23T06:15:28.386Z",
+      "daysOnMarket": 1,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-23T06:15:28.386Z",
+          "grossEur": 67950,
+          "netEur": 56157,
+          "realCostEur": 56157,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 66,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2593,7 +2817,7 @@
       "equipmentConfidence": 39,
       "firstSeen": "2026-08-14T13:14:40.578Z",
       "lastSeen": "2026-08-14T13:14:40.578Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2609,7 +2833,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 62,
+      "archiveIndex": 67,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2635,7 +2859,7 @@
       "equipmentConfidence": 32,
       "firstSeen": "2026-08-14T13:14:43.129Z",
       "lastSeen": "2026-08-14T13:14:43.129Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2651,49 +2875,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 63,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "LISTING_STATUS",
-      "listingId": "9P60ZO",
-      "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-turbo-occasion-9P60ZO?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Koop gebruikte Taycan Turbo bij Porsche Centrum Twente",
-      "country": "NL",
-      "vin": null,
-      "modelYear": 2020,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 85901,
-      "bodyStyle": "SEDAN",
-      "drivetrain": "UNKNOWN",
-      "grossEur": 69900,
-      "netEur": 57769,
-      "realCostEur": 57769,
-      "vatStatus": "DEDUCTIBLE",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "UNKNOWN",
-      "absoluteScore": 77.1,
-      "equipmentScore": 46.5,
-      "equipmentConfidence": 49,
-      "firstSeen": "2026-08-14T13:17:03.238Z",
-      "lastSeen": "2026-08-14T13:17:03.238Z",
-      "daysOnMarket": 6,
-      "listingStatus": "PROCESSING_REJECTED",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:17:03.238Z",
-          "grossEur": 69900,
-          "netEur": 57769,
-          "realCostEur": 57769,
-          "vatStatus": "DEDUCTIBLE"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 64,
+      "archiveIndex": 68,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2719,7 +2901,7 @@
       "equipmentConfidence": 64,
       "firstSeen": "2026-08-14T13:15:44.094Z",
       "lastSeen": "2026-08-14T13:15:44.094Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -2735,7 +2917,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 65,
+      "archiveIndex": 69,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2760,8 +2942,8 @@
       "equipmentScore": 14.8,
       "equipmentConfidence": 18,
       "firstSeen": "2026-08-14T13:16:51.139Z",
-      "lastSeen": "2026-08-20T20:24:34.144Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:57:35.562Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2777,11 +2959,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 66,
+      "archiveIndex": 70,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "DR788E",
       "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-occasion-DR788E?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Koop gebruikte Taycan bij Porsche Centrum Amsterdam",
@@ -2802,9 +2984,9 @@
       "equipmentScore": 50.8,
       "equipmentConfidence": 54,
       "firstSeen": "2026-08-14T13:16:53.833Z",
-      "lastSeen": "2026-08-20T20:24:38.770Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:57:41.474Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:53.833Z",
@@ -2819,7 +3001,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 67,
+      "archiveIndex": 71,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2845,7 +3027,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:15:41.401Z",
       "lastSeen": "2026-08-14T13:15:41.401Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -2861,7 +3043,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 68,
+      "archiveIndex": 72,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2887,7 +3069,7 @@
       "equipmentConfidence": 28,
       "firstSeen": "2026-08-14T13:14:51.292Z",
       "lastSeen": "2026-08-14T13:14:51.292Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2903,7 +3085,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 69,
+      "archiveIndex": 73,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2929,7 +3111,7 @@
       "equipmentConfidence": 66,
       "firstSeen": "2026-08-14T13:15:39.145Z",
       "lastSeen": "2026-08-14T13:15:39.145Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -2945,7 +3127,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 70,
+      "archiveIndex": 74,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2971,7 +3153,7 @@
       "equipmentConfidence": 38,
       "firstSeen": "2026-08-14T13:15:04.724Z",
       "lastSeen": "2026-08-14T13:15:04.724Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2987,7 +3169,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 71,
+      "archiveIndex": 75,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3012,8 +3194,8 @@
       "equipmentScore": 34.1,
       "equipmentConfidence": 40,
       "firstSeen": "2026-08-14T13:18:21.228Z",
-      "lastSeen": "2026-08-20T20:25:36.201Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:58:41.633Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3029,7 +3211,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 72,
+      "archiveIndex": 76,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3053,13 +3235,13 @@
       "absoluteScore": 72.6,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:23.282Z",
-      "lastSeen": "2026-08-20T20:26:23.282Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:59:41.269Z",
+      "lastSeen": "2026-08-20T20:59:41.269Z",
+      "daysOnMarket": 3,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:23.282Z",
+          "observedAt": "2026-08-20T20:59:41.269Z",
           "grossEur": 52955,
           "netEur": null,
           "realCostEur": 52955,
@@ -3071,11 +3253,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 73,
+      "archiveIndex": 77,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "XZ3PXE",
       "url": "https://finder.porsche.com/lu/fr-LU/details/porsche-taycan-4s-sport-turismo-doccasion-XZ3PXE?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Achetez votre Porsche Taycan 4S Sport Turismo d'occasion ou Porsche Zenter Lëtzebuerg",
@@ -3096,9 +3278,9 @@
       "equipmentScore": 67.5,
       "equipmentConfidence": 70,
       "firstSeen": "2026-08-14T13:14:14.377Z",
-      "lastSeen": "2026-08-20T20:22:40.990Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:55:52.247Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:14:14.377Z",
@@ -3113,11 +3295,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 74,
+      "archiveIndex": 78,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "6GEKPX",
       "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-4s-occasion-6GEKPX?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Koop gebruikte Taycan 4S bij Porsche Centrum Amsterdam",
@@ -3138,9 +3320,9 @@
       "equipmentScore": 49.8,
       "equipmentConfidence": 53,
       "firstSeen": "2026-08-14T13:16:56.177Z",
-      "lastSeen": "2026-08-20T20:24:40.983Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:57:44.707Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:56.177Z",
@@ -3155,11 +3337,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 75,
+      "archiveIndex": 79,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "705056",
       "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-occasion-705056?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Koop gebruikte Taycan bij Porsche Centrum Rotterdam",
@@ -3180,9 +3362,9 @@
       "equipmentScore": 44.8,
       "equipmentConfidence": 48,
       "firstSeen": "2026-08-14T13:16:58.641Z",
-      "lastSeen": "2026-08-20T20:24:45.643Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:57:50.789Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:58.641Z",
@@ -3197,11 +3379,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 76,
+      "archiveIndex": 80,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "36P3LV",
       "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-36P3LV?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compre el Porsche Taycan 4 Cross Turismo de sus sueños en Centro Porsche Pamplona",
@@ -3223,8 +3405,8 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:17:42.815Z",
       "lastSeen": "2026-08-14T13:17:42.815Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:42.815Z",
@@ -3239,7 +3421,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 77,
+      "archiveIndex": 81,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "249LVK",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-249LVK?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compre el Porsche Taycan 4 Cross Turismo de sus sueños en Centro Porsche Marbella",
+      "country": "ES",
+      "vin": "WP0ZZZY1ZNSA62268",
+      "modelYear": 2022,
+      "modelYearSource": "VIN",
+      "mileageKm": 80845,
+      "bodyStyle": "CROSS_TURISMO",
+      "drivetrain": "AWD",
+      "grossEur": 69800,
+      "netEur": null,
+      "realCostEur": 69800,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 66.2,
+      "equipmentScore": 43.3,
+      "equipmentConfidence": 45,
+      "firstSeen": "2026-08-14T13:17:40.185Z",
+      "lastSeen": "2026-08-24T04:59:04.115Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:17:40.185Z",
+          "grossEur": 69800,
+          "netEur": null,
+          "realCostEur": 69800,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 82,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3265,8 +3489,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:06.753Z",
       "lastSeen": "2026-08-14T13:19:06.753Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:06.753Z",
@@ -3281,11 +3505,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 78,
+      "archiveIndex": 83,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "6O8R35",
       "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-occasion-6O8R35?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Koop gebruikte Taycan bij Porsche Centrum Amsterdam",
@@ -3306,9 +3530,9 @@
       "equipmentScore": 25,
       "equipmentConfidence": 25,
       "firstSeen": "2026-08-14T13:17:00.873Z",
-      "lastSeen": "2026-08-20T20:24:48.006Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:57:54.343Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:00.873Z",
@@ -3323,53 +3547,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 79,
+      "archiveIndex": 84,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
       "exclusionReason": "LISTING_STATUS",
-      "listingId": "V9KQM2",
-      "url": "https://finder.porsche.com/lu/fr-LU/details/porsche-taycan-turbo-cross-turismo-doccasion-V9KQM2?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Achetez votre Porsche Taycan Turbo Cross Turismo d'occasion ou Porsche Zenter Lëtzebuerg",
-      "country": "LU",
-      "vin": null,
-      "modelYear": 2024,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 31594,
-      "bodyStyle": "CROSS_TURISMO",
-      "drivetrain": "AWD",
-      "grossEur": 98900,
-      "netEur": null,
-      "realCostEur": 98900,
-      "vatStatus": "NON_DEDUCTIBLE",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "NO_ACCIDENT",
-      "absoluteScore": 66,
-      "equipmentScore": 56.1,
-      "equipmentConfidence": 61,
-      "firstSeen": "2026-08-14T13:14:17.476Z",
-      "lastSeen": "2026-08-14T13:14:17.476Z",
-      "daysOnMarket": 6,
-      "listingStatus": "PROCESSING_REJECTED",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:14:17.476Z",
-          "grossEur": 98900,
-          "netEur": null,
-          "realCostEur": 98900,
-          "vatStatus": "NON_DEDUCTIBLE"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 80,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
       "listingId": "DRX7ZE",
       "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-usata-DRX7ZE?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compra una Taycan usata presso Centro Porsche Trento",
@@ -3390,9 +3572,9 @@
       "equipmentScore": 0,
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:18:30.967Z",
-      "lastSeen": "2026-08-20T20:25:45.571Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "lastSeen": "2026-08-20T20:58:53.866Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:30.967Z",
@@ -3407,7 +3589,56 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 81,
+      "archiveIndex": 85,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "LISTING_STATUS",
+      "listingId": "V9KQM2",
+      "url": "https://finder.porsche.com/lu/fr-LU/details/porsche-taycan-turbo-cross-turismo-doccasion-V9KQM2?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Achetez votre Porsche Taycan Turbo Cross Turismo d'occasion ou Porsche Zenter Lëtzebuerg",
+      "country": "LU",
+      "vin": "WP0ZZZY15PSA66494",
+      "modelYear": 2023,
+      "modelYearSource": "VIN",
+      "mileageKm": 31594,
+      "bodyStyle": "CROSS_TURISMO",
+      "drivetrain": "AWD",
+      "grossEur": 92900,
+      "netEur": null,
+      "realCostEur": 92900,
+      "vatStatus": "NON_DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "absoluteScore": 65.9,
+      "equipmentScore": 63.1,
+      "equipmentConfidence": 68,
+      "firstSeen": "2026-08-14T13:14:17.476Z",
+      "lastSeen": "2026-08-23T06:13:21.368Z",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:14:17.476Z",
+          "grossEur": 98900,
+          "netEur": null,
+          "realCostEur": 98900,
+          "vatStatus": "NON_DEDUCTIBLE"
+        },
+        {
+          "observedAt": "2026-08-23T06:13:21.368Z",
+          "grossEur": 92900,
+          "netEur": null,
+          "realCostEur": 92900,
+          "vatStatus": "NON_DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": -6000,
+      "lastPriceChangeAt": "2026-08-23T06:13:21.368Z",
+      "lastPriceChangeEur": -6000
+    },
+    {
+      "archiveIndex": 86,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3431,13 +3662,13 @@
       "absoluteScore": 64.7,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:25.508Z",
-      "lastSeen": "2026-08-20T20:26:25.508Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:59:44.142Z",
+      "lastSeen": "2026-08-20T20:59:44.142Z",
+      "daysOnMarket": 3,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:25.508Z",
+          "observedAt": "2026-08-20T20:59:44.142Z",
           "grossEur": 55625,
           "netEur": null,
           "realCostEur": 55625,
@@ -3449,7 +3680,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 82,
+      "archiveIndex": 87,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3475,7 +3706,7 @@
       "equipmentConfidence": 66,
       "firstSeen": "2026-08-14T13:17:12.096Z",
       "lastSeen": "2026-08-14T13:17:12.096Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -3491,7 +3722,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 83,
+      "archiveIndex": 88,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3517,7 +3748,7 @@
       "equipmentConfidence": 16,
       "firstSeen": "2026-08-14T13:17:06.321Z",
       "lastSeen": "2026-08-14T13:17:06.321Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -3533,7 +3764,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 84,
+      "archiveIndex": 89,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3559,7 +3790,7 @@
       "equipmentConfidence": 45,
       "firstSeen": "2026-08-14T13:15:48.674Z",
       "lastSeen": "2026-08-14T13:15:48.674Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -3575,53 +3806,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 85,
+      "archiveIndex": 90,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
-      "listingId": "3K4MO0",
-      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-3K4MO0?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Compre el Porsche Taycan 4 Cross Turismo de sus sueños en Centro Porsche Barcelona",
-      "country": "ES",
-      "vin": null,
-      "modelYear": 2022,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 89911,
-      "bodyStyle": "CROSS_TURISMO",
-      "drivetrain": "AWD",
-      "grossEur": 65900,
-      "netEur": null,
-      "realCostEur": 65900,
-      "vatStatus": "UNKNOWN",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "UNKNOWN",
-      "absoluteScore": 63.6,
-      "equipmentScore": 28,
-      "equipmentConfidence": 28,
-      "firstSeen": "2026-08-14T13:17:35.187Z",
-      "lastSeen": "2026-08-14T13:17:35.187Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:17:35.187Z",
-          "grossEur": 65900,
-          "netEur": null,
-          "realCostEur": 65900,
-          "vatStatus": "UNKNOWN"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 86,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "25GKVZ",
       "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-usado-25GKVZ?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compre el Porsche Taycan de sus sueños en Centro Porsche Barcelona",
@@ -3643,8 +3832,8 @@
       "equipmentConfidence": 49,
       "firstSeen": "2026-08-14T13:18:01.980Z",
       "lastSeen": "2026-08-14T13:18:01.980Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:01.980Z",
@@ -3659,40 +3848,40 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 87,
+      "archiveIndex": 91,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
       "exclusionReason": "YEAR_FILTER",
-      "listingId": "249LVK",
-      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-249LVK?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Compre el Porsche Taycan 4 Cross Turismo de sus sueños en Centro Porsche Marbella",
+      "listingId": "3K4MO0",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-3K4MO0?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compre el Porsche Taycan 4 Cross Turismo de sus sueños en Centro Porsche Barcelona",
       "country": "ES",
       "vin": null,
-      "modelYear": 2021,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 80845,
+      "modelYear": 2022,
+      "modelYearSource": "PAGE",
+      "mileageKm": 89911,
       "bodyStyle": "CROSS_TURISMO",
       "drivetrain": "AWD",
-      "grossEur": 69800,
+      "grossEur": 65900,
       "netEur": null,
-      "realCostEur": 69800,
+      "realCostEur": 65900,
       "vatStatus": "UNKNOWN",
       "porscheApprovedStatus": "CONFIRMED",
       "accidentStatus": "UNKNOWN",
-      "absoluteScore": 62.9,
-      "equipmentScore": 37.3,
-      "equipmentConfidence": 39,
-      "firstSeen": "2026-08-14T13:17:40.185Z",
-      "lastSeen": "2026-08-14T13:17:40.185Z",
-      "daysOnMarket": 6,
+      "absoluteScore": 62.6,
+      "equipmentScore": 22,
+      "equipmentConfidence": 22,
+      "firstSeen": "2026-08-14T13:17:35.187Z",
+      "lastSeen": "2026-08-24T04:58:58.289Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-14T13:17:40.185Z",
-          "grossEur": 69800,
+          "observedAt": "2026-08-14T13:17:35.187Z",
+          "grossEur": 65900,
           "netEur": null,
-          "realCostEur": 69800,
+          "realCostEur": 65900,
           "vatStatus": "UNKNOWN"
         }
       ],
@@ -3701,11 +3890,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 88,
+      "archiveIndex": 92,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "X8NQOO",
       "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-usado-X8NQOO?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compre el Porsche Taycan de sus sueños en Centro Porsche Baleares",
@@ -3727,8 +3916,8 @@
       "equipmentConfidence": 45,
       "firstSeen": "2026-08-14T13:18:04.436Z",
       "lastSeen": "2026-08-14T13:18:04.436Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:04.436Z",
@@ -3743,7 +3932,91 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 89,
+      "archiveIndex": 93,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "XZOOKO",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4s-usado-XZOOKO?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compre el Porsche Taycan 4S de sus sueños en Centro Porsche Marbella",
+      "country": "ES",
+      "vin": "WP0ZZZY1ZLSA35742",
+      "modelYear": 2020,
+      "modelYearSource": "VIN",
+      "mileageKm": 19230,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 69600,
+      "netEur": null,
+      "realCostEur": 69600,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 61,
+      "equipmentScore": 24.2,
+      "equipmentConfidence": 25,
+      "firstSeen": "2026-08-14T13:17:37.771Z",
+      "lastSeen": "2026-08-24T04:59:01.376Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:17:37.771Z",
+          "grossEur": 69600,
+          "netEur": null,
+          "realCostEur": 69600,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 94,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PRICE_FILTER",
+      "listingId": "W3QOLM",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-W3QOLM?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compre el Porsche Taycan 4 Cross Turismo de sus sueños en Centro Porsche Barcelona",
+      "country": "ES",
+      "vin": "WP0ZZZY10PSA55368",
+      "modelYear": 2023,
+      "modelYearSource": "VIN",
+      "mileageKm": 45910,
+      "bodyStyle": "CROSS_TURISMO",
+      "drivetrain": "AWD",
+      "grossEur": 72900,
+      "netEur": null,
+      "realCostEur": 72900,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 60.7,
+      "equipmentScore": 37.3,
+      "equipmentConfidence": 39,
+      "firstSeen": "2026-08-24T04:59:10.484Z",
+      "lastSeen": "2026-08-24T04:59:10.484Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-24T04:59:10.484Z",
+          "grossEur": 72900,
+          "netEur": null,
+          "realCostEur": 72900,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 95,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3767,13 +4040,13 @@
       "absoluteScore": 60,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:21.095Z",
-      "lastSeen": "2026-08-20T20:26:21.095Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:59:38.455Z",
+      "lastSeen": "2026-08-20T20:59:38.455Z",
+      "daysOnMarket": 3,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:21.095Z",
+          "observedAt": "2026-08-20T20:59:38.455Z",
           "grossEur": 63635,
           "netEur": null,
           "realCostEur": 63635,
@@ -3785,95 +4058,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 90,
+      "archiveIndex": 96,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
-      "listingId": "XZOOKO",
-      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4s-usado-XZOOKO?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Compre el Porsche Taycan 4S de sus sueños en Centro Porsche Marbella",
-      "country": "ES",
-      "vin": null,
-      "modelYear": 2020,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 19230,
-      "bodyStyle": "SEDAN",
-      "drivetrain": "UNKNOWN",
-      "grossEur": 69600,
-      "netEur": null,
-      "realCostEur": 69600,
-      "vatStatus": "UNKNOWN",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "UNKNOWN",
-      "absoluteScore": 59.9,
-      "equipmentScore": 18.2,
-      "equipmentConfidence": 19,
-      "firstSeen": "2026-08-14T13:17:37.771Z",
-      "lastSeen": "2026-08-14T13:17:37.771Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:17:37.771Z",
-          "grossEur": 69600,
-          "netEur": null,
-          "realCostEur": 69600,
-          "vatStatus": "UNKNOWN"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 91,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
-      "listingId": "8O82R3",
-      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-usado-8O82R3?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Compre el Porsche Taycan de sus sueños en Centro Porsche Sevilla",
-      "country": "ES",
-      "vin": null,
-      "modelYear": 2024,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 31000,
-      "bodyStyle": "SEDAN",
-      "drivetrain": "UNKNOWN",
-      "grossEur": 76700,
-      "netEur": null,
-      "realCostEur": 76700,
-      "vatStatus": "UNKNOWN",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "UNKNOWN",
-      "absoluteScore": 59.9,
-      "equipmentScore": 37.3,
-      "equipmentConfidence": 39,
-      "firstSeen": "2026-08-14T13:17:52.258Z",
-      "lastSeen": "2026-08-14T13:17:52.258Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:17:52.258Z",
-          "grossEur": 76700,
-          "netEur": null,
-          "realCostEur": 76700,
-          "vatStatus": "UNKNOWN"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 92,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "3K44R0",
       "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-usado-3K44R0?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compre el Porsche Taycan de sus sueños en Centro Porsche Barcelona",
@@ -3895,8 +4084,8 @@
       "equipmentConfidence": 35,
       "firstSeen": "2026-08-14T13:17:55.735Z",
       "lastSeen": "2026-08-14T13:17:55.735Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:55.735Z",
@@ -3911,7 +4100,98 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 93,
+      "archiveIndex": 97,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "OP4DP3",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-OP4DP3?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compre el Porsche Taycan 4 Cross Turismo de sus sueños en Centro Porsche Marbella",
+      "country": "ES",
+      "vin": "WP0ZZZY1ZNSA63424",
+      "modelYear": 2022,
+      "modelYearSource": "VIN",
+      "mileageKm": 35377,
+      "bodyStyle": "CROSS_TURISMO",
+      "drivetrain": "AWD",
+      "grossEur": 72700,
+      "netEur": null,
+      "realCostEur": 72700,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 59.1,
+      "equipmentScore": 39,
+      "equipmentConfidence": 39,
+      "firstSeen": "2026-08-14T13:17:45.638Z",
+      "lastSeen": "2026-08-24T04:59:07.191Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:17:45.638Z",
+          "grossEur": 72700,
+          "netEur": null,
+          "realCostEur": 72700,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 98,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PRICE_FILTER",
+      "listingId": "8O82R3",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-usado-8O82R3?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compre el Porsche Taycan de sus sueños en Centro Porsche Sevilla",
+      "country": "ES",
+      "vin": "WP0ZZZY19PSA03964",
+      "modelYear": 2023,
+      "modelYearSource": "VIN",
+      "mileageKm": 31000,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 76500,
+      "netEur": null,
+      "realCostEur": 76500,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 59.1,
+      "equipmentScore": 40.3,
+      "equipmentConfidence": 42,
+      "firstSeen": "2026-08-14T13:17:52.258Z",
+      "lastSeen": "2026-08-24T04:59:20.090Z",
+      "daysOnMarket": 10,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:17:52.258Z",
+          "grossEur": 76700,
+          "netEur": null,
+          "realCostEur": 76700,
+          "vatStatus": "UNKNOWN"
+        },
+        {
+          "observedAt": "2026-08-24T04:59:20.090Z",
+          "grossEur": 76500,
+          "netEur": null,
+          "realCostEur": 76500,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": -200,
+      "lastPriceChangeAt": "2026-08-24T04:59:20.090Z",
+      "lastPriceChangeEur": -200
+    },
+    {
+      "archiveIndex": 99,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3937,7 +4217,7 @@
       "equipmentConfidence": 66,
       "firstSeen": "2026-08-14T13:17:15.477Z",
       "lastSeen": "2026-08-14T13:17:15.477Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 10,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
@@ -3953,11 +4233,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 94,
+      "archiveIndex": 100,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "5K2RX7",
       "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-turbo-usado-5K2RX7?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Compre el Porsche Taycan Turbo de sus sueños en Centro Porsche Marbella",
@@ -3979,8 +4259,8 @@
       "equipmentConfidence": 53,
       "firstSeen": "2026-08-14T13:17:58.513Z",
       "lastSeen": "2026-08-14T13:17:58.513Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 10,
+      "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:58.513Z",
@@ -3995,7 +4275,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 95,
+      "archiveIndex": 101,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4020,8 +4300,8 @@
       "equipmentScore": 0,
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:21.696Z",
-      "lastSeen": "2026-08-20T20:26:16.668Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:59:32.766Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -4037,49 +4317,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 96,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
-      "listingId": "OP4DP3",
-      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-OP4DP3?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Compre el Porsche Taycan 4 Cross Turismo de sus sueños en Centro Porsche Marbella",
-      "country": "ES",
-      "vin": null,
-      "modelYear": 2022,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 35377,
-      "bodyStyle": "CROSS_TURISMO",
-      "drivetrain": "AWD",
-      "grossEur": 72700,
-      "netEur": null,
-      "realCostEur": 72700,
-      "vatStatus": "UNKNOWN",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "UNKNOWN",
-      "absoluteScore": 58.1,
-      "equipmentScore": 33,
-      "equipmentConfidence": 33,
-      "firstSeen": "2026-08-14T13:17:45.638Z",
-      "lastSeen": "2026-08-14T13:17:45.638Z",
-      "daysOnMarket": 6,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:17:45.638Z",
-          "grossEur": 72700,
-          "netEur": null,
-          "realCostEur": 72700,
-          "vatStatus": "UNKNOWN"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 97,
+      "archiveIndex": 102,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4105,8 +4343,8 @@
       "equipmentConfidence": 38,
       "firstSeen": "2026-08-14T13:17:18.205Z",
       "lastSeen": "2026-08-14T13:17:18.205Z",
-      "daysOnMarket": 6,
-      "listingStatus": "PROCESSING_REJECTED",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:18.205Z",
@@ -4121,7 +4359,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 98,
+      "archiveIndex": 103,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4145,13 +4383,13 @@
       "absoluteScore": 54.1,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:12.155Z",
-      "lastSeen": "2026-08-20T20:26:12.155Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:59:27.249Z",
+      "lastSeen": "2026-08-20T20:59:27.249Z",
+      "daysOnMarket": 3,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:12.155Z",
+          "observedAt": "2026-08-20T20:59:27.249Z",
           "grossEur": 66305,
           "netEur": null,
           "realCostEur": 66305,
@@ -4163,7 +4401,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 99,
+      "archiveIndex": 104,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4189,8 +4427,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:02.152Z",
       "lastSeen": "2026-08-14T13:19:02.152Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:02.152Z",
@@ -4205,7 +4443,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 100,
+      "archiveIndex": 105,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PRICE_FILTER",
+      "listingId": "V9Q9DR",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-usado-V9Q9DR?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compre el Porsche Taycan de sus sueños en Centro Porsche Marbella",
+      "country": "ES",
+      "vin": "WP0ZZZY12PSA03014",
+      "modelYear": 2023,
+      "modelYearSource": "VIN",
+      "mileageKm": 24334,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 74700,
+      "netEur": null,
+      "realCostEur": 74700,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 53.8,
+      "equipmentScore": 10.2,
+      "equipmentConfidence": 11,
+      "firstSeen": "2026-08-24T04:59:13.465Z",
+      "lastSeen": "2026-08-24T04:59:13.465Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-24T04:59:13.465Z",
+          "grossEur": 74700,
+          "netEur": null,
+          "realCostEur": 74700,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 106,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4231,8 +4511,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:17:24.003Z",
       "lastSeen": "2026-08-14T13:17:24.003Z",
-      "daysOnMarket": 6,
-      "listingStatus": "PROCESSING_REJECTED",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:24.003Z",
@@ -4247,7 +4527,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 101,
+      "archiveIndex": 107,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "V90KXR",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-turbo-usado-V90KXR?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Compre el Porsche Taycan Turbo de sus sueños en Centro Porsche Girona",
+      "country": "ES",
+      "vin": "WP0ZZZY1ZLSA68333",
+      "modelYear": 2020,
+      "modelYearSource": "VIN",
+      "mileageKm": 72000,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 74990,
+      "netEur": null,
+      "realCostEur": 74990,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 49,
+      "equipmentScore": 47.5,
+      "equipmentConfidence": 50,
+      "firstSeen": "2026-08-24T04:59:16.762Z",
+      "lastSeen": "2026-08-24T04:59:16.762Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-24T04:59:16.762Z",
+          "grossEur": 74990,
+          "netEur": null,
+          "realCostEur": 74990,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 108,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4273,8 +4595,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:17.414Z",
       "lastSeen": "2026-08-14T13:19:17.414Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:17.414Z",
@@ -4289,7 +4611,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 102,
+      "archiveIndex": 109,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4315,8 +4637,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:13.144Z",
       "lastSeen": "2026-08-14T13:19:13.144Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:13.144Z",
@@ -4331,7 +4653,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 103,
+      "archiveIndex": 110,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4355,13 +4677,13 @@
       "absoluteScore": 45.5,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:27.674Z",
-      "lastSeen": "2026-08-20T20:26:27.674Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:59:46.959Z",
+      "lastSeen": "2026-08-20T20:59:46.959Z",
+      "daysOnMarket": 3,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:27.674Z",
+          "observedAt": "2026-08-20T20:59:46.959Z",
           "grossEur": 134710,
           "netEur": null,
           "realCostEur": 134710,
@@ -4373,7 +4695,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 104,
+      "archiveIndex": 111,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4399,8 +4721,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:08.881Z",
       "lastSeen": "2026-08-14T13:19:08.881Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:08.881Z",
@@ -4415,7 +4737,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 105,
+      "archiveIndex": 112,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4441,8 +4763,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:15.296Z",
       "lastSeen": "2026-08-14T13:19:15.296Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:15.296Z",
@@ -4457,7 +4779,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 106,
+      "archiveIndex": 113,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4483,8 +4805,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:04.558Z",
       "lastSeen": "2026-08-14T13:19:04.558Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:04.558Z",
@@ -4499,7 +4821,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 107,
+      "archiveIndex": 114,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4525,8 +4847,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:18:59.734Z",
       "lastSeen": "2026-08-14T13:18:59.734Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:59.734Z",
@@ -4541,7 +4863,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 108,
+      "archiveIndex": 115,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4565,13 +4887,13 @@
       "absoluteScore": 44.9,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:18.891Z",
-      "lastSeen": "2026-08-20T20:26:18.891Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:59:35.633Z",
+      "lastSeen": "2026-08-20T20:59:35.633Z",
+      "daysOnMarket": 3,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:18.891Z",
+          "observedAt": "2026-08-20T20:59:35.633Z",
           "grossEur": 105465,
           "netEur": null,
           "realCostEur": 105465,
@@ -4583,7 +4905,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 109,
+      "archiveIndex": 116,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4607,13 +4929,13 @@
       "absoluteScore": 44.1,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:07.662Z",
-      "lastSeen": "2026-08-20T20:26:07.662Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:59:21.589Z",
+      "lastSeen": "2026-08-20T20:59:21.589Z",
+      "daysOnMarket": 3,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:07.662Z",
+          "observedAt": "2026-08-20T20:59:21.589Z",
           "grossEur": 86775,
           "netEur": null,
           "realCostEur": 86775,
@@ -4625,7 +4947,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 110,
+      "archiveIndex": 117,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4651,8 +4973,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:19.566Z",
       "lastSeen": "2026-08-14T13:19:19.566Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:19.566Z",
@@ -4667,7 +4989,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 111,
+      "archiveIndex": 118,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4691,13 +5013,13 @@
       "absoluteScore": 44.1,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:09.967Z",
-      "lastSeen": "2026-08-20T20:26:09.967Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:59:24.501Z",
+      "lastSeen": "2026-08-20T20:59:24.501Z",
+      "daysOnMarket": 3,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:09.967Z",
+          "observedAt": "2026-08-20T20:59:24.501Z",
           "grossEur": 88555,
           "netEur": null,
           "realCostEur": 88555,
@@ -4709,7 +5031,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 112,
+      "archiveIndex": 119,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4734,8 +5056,8 @@
       "equipmentScore": 0,
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:18:57.576Z",
-      "lastSeen": "2026-08-20T20:26:33.405Z",
-      "daysOnMarket": 6,
+      "lastSeen": "2026-08-20T20:59:52.378Z",
+      "daysOnMarket": 10,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -4751,7 +5073,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 113,
+      "archiveIndex": 120,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4775,13 +5097,13 @@
       "absoluteScore": 38.8,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:30.322Z",
-      "lastSeen": "2026-08-20T20:26:30.322Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:59:49.647Z",
+      "lastSeen": "2026-08-20T20:59:49.647Z",
+      "daysOnMarket": 3,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:30.322Z",
+          "observedAt": "2026-08-20T20:59:49.647Z",
           "grossEur": 73425,
           "netEur": null,
           "realCostEur": 73425,
@@ -4793,7 +5115,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 114,
+      "archiveIndex": 121,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "ycp19n",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/ycp19n",
+      "title": "Porsche 911 2+2-seater YCP19N | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2021,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 122375,
+      "netEur": null,
+      "realCostEur": 122375,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 38.8,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-23T06:16:58.590Z",
+      "lastSeen": "2026-08-23T06:16:58.590Z",
+      "daysOnMarket": 1,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-23T06:16:58.590Z",
+          "grossEur": 122375,
+          "netEur": null,
+          "realCostEur": 122375,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 122,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4817,13 +5181,13 @@
       "absoluteScore": 37.6,
       "equipmentScore": 0,
       "equipmentConfidence": 0,
-      "firstSeen": "2026-08-20T20:26:14.462Z",
-      "lastSeen": "2026-08-20T20:26:14.462Z",
-      "daysOnMarket": 0,
-      "listingStatus": "ACTIVE",
+      "firstSeen": "2026-08-20T20:59:30.009Z",
+      "lastSeen": "2026-08-20T20:59:30.009Z",
+      "daysOnMarket": 3,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
-          "observedAt": "2026-08-20T20:26:14.462Z",
+          "observedAt": "2026-08-20T20:59:30.009Z",
           "grossEur": 109025,
           "netEur": null,
           "realCostEur": 109025,
@@ -4835,7 +5199,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 115,
+      "archiveIndex": 123,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4861,8 +5225,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:10.987Z",
       "lastSeen": "2026-08-14T13:19:10.987Z",
-      "daysOnMarket": 6,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 10,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:10.987Z",
@@ -4877,7 +5241,75 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 116,
+      "archiveIndex": 124,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "PROCESSING_UNKNOWN",
+      "exclusionReason": "VALIDATION_FAILED: PRICE_UNCONFIRMED",
+      "listingId": "05GMQ4",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-05GMQ4?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": null,
+      "country": "DE",
+      "vin": null,
+      "modelYear": null,
+      "modelYearSource": null,
+      "mileageKm": null,
+      "bodyStyle": null,
+      "drivetrain": null,
+      "grossEur": null,
+      "netEur": null,
+      "realCostEur": null,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": null,
+      "equipmentScore": null,
+      "equipmentConfidence": null,
+      "firstSeen": "2026-08-24T04:56:51.649Z",
+      "lastSeen": "2026-08-24T04:57:23.229Z",
+      "daysOnMarket": 0,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [],
+      "priceChangeFromFirstEur": null,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 125,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "PROCESSING_UNKNOWN",
+      "exclusionReason": "VALIDATION_FAILED: PRICE_UNCONFIRMED",
+      "listingId": "25QV25",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4-cross-turismo-gebraucht-25QV25?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": null,
+      "country": "DE",
+      "vin": null,
+      "modelYear": null,
+      "modelYearSource": null,
+      "mileageKm": null,
+      "bodyStyle": null,
+      "drivetrain": null,
+      "grossEur": null,
+      "netEur": null,
+      "realCostEur": null,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": null,
+      "equipmentScore": null,
+      "equipmentConfidence": null,
+      "firstSeen": "2026-08-24T04:56:51.654Z",
+      "lastSeen": "2026-08-24T04:57:24.565Z",
+      "daysOnMarket": 0,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [],
+      "priceChangeFromFirstEur": null,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 126,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -4901,9 +5333,9 @@
       "absoluteScore": null,
       "equipmentScore": null,
       "equipmentConfidence": null,
-      "firstSeen": "2026-08-20T20:23:27.560Z",
-      "lastSeen": "2026-08-20T20:23:52.610Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:56:25.155Z",
+      "lastSeen": "2026-08-24T13:26:45.072Z",
+      "daysOnMarket": 3,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -4911,7 +5343,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 117,
+      "archiveIndex": 127,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -4935,17 +5367,17 @@
       "absoluteScore": null,
       "equipmentScore": null,
       "equipmentConfidence": null,
-      "firstSeen": "2026-08-20T20:25:31.957Z",
-      "lastSeen": "2026-08-20T20:25:57.474Z",
-      "daysOnMarket": 0,
-      "listingStatus": "PROCESSING_REJECTED",
+      "firstSeen": "2026-08-20T20:58:36.007Z",
+      "lastSeen": "2026-08-20T20:59:09.907Z",
+      "daysOnMarket": 3,
+      "listingStatus": "REMOVED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
       "lastPriceChangeAt": null,
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 118,
+      "archiveIndex": 128,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -4969,8 +5401,42 @@
       "absoluteScore": null,
       "equipmentScore": null,
       "equipmentConfidence": null,
-      "firstSeen": "2026-08-20T20:25:31.948Z",
-      "lastSeen": "2026-08-20T20:25:54.110Z",
+      "firstSeen": "2026-08-20T20:58:35.981Z",
+      "lastSeen": "2026-08-24T13:28:49.718Z",
+      "daysOnMarket": 3,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [],
+      "priceChangeFromFirstEur": null,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 129,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "PROCESSING_UNKNOWN",
+      "exclusionReason": "VALIDATION_FAILED: PRICE_UNCONFIRMED",
+      "listingId": "82XL7M",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-82XL7M?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": null,
+      "country": "DE",
+      "vin": null,
+      "modelYear": null,
+      "modelYearSource": null,
+      "mileageKm": null,
+      "bodyStyle": null,
+      "drivetrain": null,
+      "grossEur": null,
+      "netEur": null,
+      "realCostEur": null,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": null,
+      "equipmentScore": null,
+      "equipmentConfidence": null,
+      "firstSeen": "2026-08-24T04:56:51.663Z",
+      "lastSeen": "2026-08-24T04:57:26.132Z",
       "daysOnMarket": 0,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -4979,7 +5445,109 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 119,
+      "archiveIndex": 130,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "PROCESSING_UNKNOWN",
+      "exclusionReason": "VALIDATION_FAILED: PRICE_UNCONFIRMED",
+      "listingId": "9P6EN7",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-9P6EN7?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": null,
+      "country": "ES",
+      "vin": null,
+      "modelYear": null,
+      "modelYearSource": null,
+      "mileageKm": null,
+      "bodyStyle": null,
+      "drivetrain": null,
+      "grossEur": null,
+      "netEur": null,
+      "realCostEur": null,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": null,
+      "equipmentScore": null,
+      "equipmentConfidence": null,
+      "firstSeen": "2026-08-24T04:58:50.971Z",
+      "lastSeen": "2026-08-24T04:59:28.403Z",
+      "daysOnMarket": 0,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [],
+      "priceChangeFromFirstEur": null,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 131,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "PROCESSING_UNKNOWN",
+      "exclusionReason": "VALIDATION_FAILED: PRICE_UNCONFIRMED",
+      "listingId": "DO9ONN",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-usado-DO9ONN?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": null,
+      "country": "ES",
+      "vin": null,
+      "modelYear": null,
+      "modelYearSource": null,
+      "mileageKm": null,
+      "bodyStyle": null,
+      "drivetrain": null,
+      "grossEur": null,
+      "netEur": null,
+      "realCostEur": null,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": null,
+      "equipmentScore": null,
+      "equipmentConfidence": null,
+      "firstSeen": "2026-08-24T04:58:50.962Z",
+      "lastSeen": "2026-08-24T04:59:25.906Z",
+      "daysOnMarket": 0,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [],
+      "priceChangeFromFirstEur": null,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 132,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "PROCESSING_UNKNOWN",
+      "exclusionReason": "VALIDATION_FAILED: PRICE_UNCONFIRMED",
+      "listingId": "GEK344",
+      "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-4s-usata-GEK344?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": null,
+      "country": "IT",
+      "vin": null,
+      "modelYear": null,
+      "modelYearSource": null,
+      "mileageKm": null,
+      "bodyStyle": null,
+      "drivetrain": null,
+      "grossEur": null,
+      "netEur": null,
+      "realCostEur": null,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": null,
+      "equipmentScore": null,
+      "equipmentConfidence": null,
+      "firstSeen": "2026-08-23T06:16:09.290Z",
+      "lastSeen": "2026-08-24T13:28:53.373Z",
+      "daysOnMarket": 1,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [],
+      "priceChangeFromFirstEur": null,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 133,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -5003,9 +5571,9 @@
       "absoluteScore": null,
       "equipmentScore": null,
       "equipmentConfidence": null,
-      "firstSeen": "2026-08-20T20:22:19.440Z",
-      "lastSeen": "2026-08-20T20:22:43.730Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:55:25.045Z",
+      "lastSeen": "2026-08-24T13:25:35.008Z",
+      "daysOnMarket": 3,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5013,7 +5581,41 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 120,
+      "archiveIndex": 134,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "PROCESSING_UNKNOWN",
+      "exclusionReason": "VALIDATION_FAILED: PRICE_UNCONFIRMED",
+      "listingId": "L6025Q",
+      "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-4s-cross-turismo-occasion-L6025Q?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": null,
+      "country": "NL",
+      "vin": null,
+      "modelYear": null,
+      "modelYearSource": null,
+      "mileageKm": null,
+      "bodyStyle": null,
+      "drivetrain": null,
+      "grossEur": null,
+      "netEur": null,
+      "realCostEur": null,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": null,
+      "equipmentScore": null,
+      "equipmentConfidence": null,
+      "firstSeen": "2026-08-23T06:15:05.890Z",
+      "lastSeen": "2026-08-24T13:27:49.850Z",
+      "daysOnMarket": 1,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [],
+      "priceChangeFromFirstEur": null,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 135,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -5037,8 +5639,42 @@
       "absoluteScore": null,
       "equipmentScore": null,
       "equipmentConfidence": null,
-      "firstSeen": "2026-08-20T20:25:31.961Z",
-      "lastSeen": "2026-08-20T20:25:58.613Z",
+      "firstSeen": "2026-08-20T20:58:36.015Z",
+      "lastSeen": "2026-08-24T13:28:52.147Z",
+      "daysOnMarket": 3,
+      "listingStatus": "PROCESSING_REJECTED",
+      "priceHistory": [],
+      "priceChangeFromFirstEur": null,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 136,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "PROCESSING_UNKNOWN",
+      "exclusionReason": "VALIDATION_FAILED: PRICE_UNCONFIRMED",
+      "listingId": "RL458Q",
+      "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-4-cross-turismo-usata-RL458Q?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": null,
+      "country": "IT",
+      "vin": null,
+      "modelYear": null,
+      "modelYearSource": null,
+      "mileageKm": null,
+      "bodyStyle": null,
+      "drivetrain": null,
+      "grossEur": null,
+      "netEur": null,
+      "realCostEur": null,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": null,
+      "equipmentScore": null,
+      "equipmentConfidence": null,
+      "firstSeen": "2026-08-24T13:28:30.127Z",
+      "lastSeen": "2026-08-24T13:28:54.619Z",
       "daysOnMarket": 0,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -5047,7 +5683,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 121,
+      "archiveIndex": 137,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -5071,9 +5707,9 @@
       "absoluteScore": null,
       "equipmentScore": null,
       "equipmentConfidence": null,
-      "firstSeen": "2026-08-20T20:23:27.563Z",
-      "lastSeen": "2026-08-20T20:23:53.702Z",
-      "daysOnMarket": 0,
+      "firstSeen": "2026-08-20T20:56:25.160Z",
+      "lastSeen": "2026-08-24T13:26:46.302Z",
+      "daysOnMarket": 3,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
