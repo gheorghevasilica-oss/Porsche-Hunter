@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:05:35.015Z",
+  "generatedAt": "2026-08-26T15:54:25.013Z",
   "preferences": {
     "profileName": "DEFAULT",
     "filters": {
@@ -18,10 +18,10 @@
     }
   },
   "summary": {
-    "seen": 125,
+    "seen": 137,
     "eligible": 8,
     "top10": 8,
-    "rejected": 106,
+    "rejected": 118,
     "processingUnknown": 11
   },
   "vehicles": [
@@ -52,7 +52,7 @@
       "equipmentConfidence": 69,
       "firstSeen": "2026-08-14T13:13:55.370Z",
       "lastSeen": "2026-08-24T18:38:17.993Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -101,7 +101,7 @@
       "equipmentConfidence": 64,
       "firstSeen": "2026-08-14T13:16:48.014Z",
       "lastSeen": "2026-08-24T18:40:25.726Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -143,7 +143,7 @@
       "equipmentConfidence": 51,
       "firstSeen": "2026-08-14T13:15:19.090Z",
       "lastSeen": "2026-08-24T18:39:29.524Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -185,7 +185,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:18:28.367Z",
       "lastSeen": "2026-08-25T12:42:06.414Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -227,7 +227,7 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:16:13.251Z",
       "lastSeen": "2026-08-14T13:16:13.251Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -269,7 +269,7 @@
       "equipmentConfidence": 51,
       "firstSeen": "2026-08-14T13:16:10.598Z",
       "lastSeen": "2026-08-14T13:16:10.598Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -311,7 +311,7 @@
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:13:52.786Z",
       "lastSeen": "2026-08-24T18:38:14.672Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -353,7 +353,7 @@
       "equipmentConfidence": 35,
       "firstSeen": "2026-08-14T13:15:22.809Z",
       "lastSeen": "2026-08-14T13:15:22.809Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -395,7 +395,7 @@
       "equipmentConfidence": 62,
       "firstSeen": "2026-08-14T13:14:01.950Z",
       "lastSeen": "2026-08-24T18:38:21.091Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -444,7 +444,7 @@
       "equipmentConfidence": 57,
       "firstSeen": "2026-08-14T13:14:45.459Z",
       "lastSeen": "2026-08-14T13:14:45.459Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -486,7 +486,7 @@
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:18:43.284Z",
       "lastSeen": "2026-08-14T13:18:43.284Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -528,7 +528,7 @@
       "equipmentConfidence": 51,
       "firstSeen": "2026-08-14T13:16:21.493Z",
       "lastSeen": "2026-08-14T13:16:21.493Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -545,6 +545,48 @@
     },
     {
       "archiveIndex": 13,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "NP5P7P",
+      "url": "https://finder.porsche.com/be/fr-BE/details/porsche-taycan-4s-doccasion-NP5P7P?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Achetez votre Porsche Taycan 4S d'occasion ou Porsche Centre Mechelen",
+      "country": "BE",
+      "vin": "WP0ZZZY1ZMSA28936",
+      "modelYear": 2021,
+      "modelYearSource": "VIN",
+      "mileageKm": 68220,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 62495,
+      "netEur": 51649,
+      "realCostEur": 51649,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "absoluteScore": 92.2,
+      "equipmentScore": 61.1,
+      "equipmentConfidence": 66,
+      "firstSeen": "2026-08-14T13:15:16.686Z",
+      "lastSeen": "2026-08-26T15:50:46.445Z",
+      "daysOnMarket": 12,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:15:16.686Z",
+          "grossEur": 62495,
+          "netEur": 51649,
+          "realCostEur": 51649,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 14,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -570,7 +612,7 @@
       "equipmentConfidence": 37,
       "firstSeen": "2026-08-14T13:18:35.771Z",
       "lastSeen": "2026-08-14T13:18:35.771Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -586,7 +628,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 14,
+      "archiveIndex": 15,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -612,7 +654,7 @@
       "equipmentConfidence": 65,
       "firstSeen": "2026-08-14T13:15:14.358Z",
       "lastSeen": "2026-08-24T18:39:23.191Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -628,7 +670,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 15,
+      "archiveIndex": 16,
       "eligibleRank": 4,
       "top10": true,
       "state": "ELIGIBLE_RANKED",
@@ -654,7 +696,7 @@
       "equipmentConfidence": 31,
       "firstSeen": "2026-08-14T13:18:18.271Z",
       "lastSeen": "2026-08-24T18:41:28.206Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -670,7 +712,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 16,
+      "archiveIndex": 17,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -696,7 +738,7 @@
       "equipmentConfidence": 67,
       "firstSeen": "2026-08-14T13:16:08.035Z",
       "lastSeen": "2026-08-14T13:16:08.035Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -704,48 +746,6 @@
           "grossEur": 58500,
           "netEur": 49160,
           "realCostEur": 49160,
-          "vatStatus": "DEDUCTIBLE"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 17,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
-      "listingId": "NP5P7P",
-      "url": "https://finder.porsche.com/be/fr-BE/details/porsche-taycan-4s-doccasion-NP5P7P?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Achetez votre Porsche Taycan 4S d'occasion ou Porsche Centre Mechelen",
-      "country": "BE",
-      "vin": "WP0ZZZY1ZMSA28936",
-      "modelYear": 2021,
-      "modelYearSource": "VIN",
-      "mileageKm": 68220,
-      "bodyStyle": "SEDAN",
-      "drivetrain": "AWD",
-      "grossEur": 62495,
-      "netEur": 51649,
-      "realCostEur": 51649,
-      "vatStatus": "DEDUCTIBLE",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "NO_ACCIDENT",
-      "absoluteScore": 91.7,
-      "equipmentScore": 58.1,
-      "equipmentConfidence": 63,
-      "firstSeen": "2026-08-14T13:15:16.686Z",
-      "lastSeen": "2026-08-25T19:01:55.597Z",
-      "daysOnMarket": 11,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:15:16.686Z",
-          "grossEur": 62495,
-          "netEur": 51649,
-          "realCostEur": 51649,
           "vatStatus": "DEDUCTIBLE"
         }
       ],
@@ -780,7 +780,7 @@
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:16:45.494Z",
       "lastSeen": "2026-08-14T13:16:45.494Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -811,9 +811,9 @@
       "mileageKm": 52170,
       "bodyStyle": "SEDAN",
       "drivetrain": "UNKNOWN",
-      "grossEur": 58800,
-      "netEur": 48197,
-      "realCostEur": 48197,
+      "grossEur": 58500,
+      "netEur": 47951,
+      "realCostEur": 47951,
       "vatStatus": "DEDUCTIBLE",
       "porscheApprovedStatus": "CONFIRMED",
       "accidentStatus": "NO_ACCIDENT",
@@ -821,8 +821,8 @@
       "equipmentScore": 33.6,
       "equipmentConfidence": 36,
       "firstSeen": "2026-08-14T13:18:23.537Z",
-      "lastSeen": "2026-08-24T18:41:34.455Z",
-      "daysOnMarket": 11,
+      "lastSeen": "2026-08-26T15:52:57.451Z",
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -831,11 +831,18 @@
           "netEur": 48197,
           "realCostEur": 48197,
           "vatStatus": "DEDUCTIBLE"
+        },
+        {
+          "observedAt": "2026-08-26T15:52:57.451Z",
+          "grossEur": 58500,
+          "netEur": 47951,
+          "realCostEur": 47951,
+          "vatStatus": "DEDUCTIBLE"
         }
       ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
+      "priceChangeFromFirstEur": -246,
+      "lastPriceChangeAt": "2026-08-26T15:52:57.451Z",
+      "lastPriceChangeEur": -246
     },
     {
       "archiveIndex": 20,
@@ -864,7 +871,7 @@
       "equipmentConfidence": 45,
       "firstSeen": "2026-08-14T13:16:29.850Z",
       "lastSeen": "2026-08-14T13:16:29.850Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -906,7 +913,7 @@
       "equipmentConfidence": 48,
       "firstSeen": "2026-08-14T13:16:05.606Z",
       "lastSeen": "2026-08-14T13:16:05.606Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -948,7 +955,7 @@
       "equipmentConfidence": 29,
       "firstSeen": "2026-08-14T13:16:18.007Z",
       "lastSeen": "2026-08-14T13:16:18.007Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -990,7 +997,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:18:40.813Z",
       "lastSeen": "2026-08-14T13:18:40.813Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1032,7 +1039,7 @@
       "equipmentConfidence": 35,
       "firstSeen": "2026-08-14T13:16:27.211Z",
       "lastSeen": "2026-08-14T13:16:27.211Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1074,7 +1081,7 @@
       "equipmentConfidence": 26,
       "firstSeen": "2026-08-14T13:15:27.902Z",
       "lastSeen": "2026-08-14T13:15:27.902Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1116,7 +1123,7 @@
       "equipmentConfidence": 49,
       "firstSeen": "2026-08-14T13:14:37.528Z",
       "lastSeen": "2026-08-14T13:14:37.528Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1158,7 +1165,7 @@
       "equipmentConfidence": 73,
       "firstSeen": "2026-08-14T13:18:33.379Z",
       "lastSeen": "2026-08-14T13:18:33.379Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1200,7 +1207,7 @@
       "equipmentConfidence": 17,
       "firstSeen": "2026-08-14T13:16:02.431Z",
       "lastSeen": "2026-08-14T13:16:02.431Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1242,7 +1249,7 @@
       "equipmentConfidence": 36,
       "firstSeen": "2026-08-14T13:15:35.793Z",
       "lastSeen": "2026-08-14T13:15:35.793Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1284,7 +1291,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:14:04.385Z",
       "lastSeen": "2026-08-14T13:14:04.385Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1326,7 +1333,7 @@
       "equipmentConfidence": 54,
       "firstSeen": "2026-08-14T13:18:26.003Z",
       "lastSeen": "2026-08-14T13:18:26.003Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1368,7 +1375,7 @@
       "equipmentConfidence": 34,
       "firstSeen": "2026-08-14T13:18:38.014Z",
       "lastSeen": "2026-08-14T13:18:38.014Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1410,7 +1417,7 @@
       "equipmentConfidence": 43,
       "firstSeen": "2026-08-14T13:15:02.064Z",
       "lastSeen": "2026-08-14T13:15:02.064Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1452,7 +1459,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:16:35.218Z",
       "lastSeen": "2026-08-14T13:16:35.218Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1494,7 +1501,7 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:15:57.539Z",
       "lastSeen": "2026-08-14T13:15:57.539Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1536,7 +1543,7 @@
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:13:58.729Z",
       "lastSeen": "2026-08-24T18:38:24.152Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1578,7 +1585,7 @@
       "equipmentConfidence": 56,
       "firstSeen": "2026-08-14T13:15:33.167Z",
       "lastSeen": "2026-08-14T13:15:33.167Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1620,7 +1627,7 @@
       "equipmentConfidence": 26,
       "firstSeen": "2026-08-14T13:15:30.231Z",
       "lastSeen": "2026-08-14T13:15:30.231Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1662,7 +1669,7 @@
       "equipmentConfidence": 32,
       "firstSeen": "2026-08-14T13:14:56.221Z",
       "lastSeen": "2026-08-14T13:14:56.221Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1704,7 +1711,7 @@
       "equipmentConfidence": 59,
       "firstSeen": "2026-08-14T13:17:21.672Z",
       "lastSeen": "2026-08-14T13:17:21.672Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -1746,7 +1753,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:14:53.752Z",
       "lastSeen": "2026-08-14T13:14:53.752Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1788,7 +1795,7 @@
       "equipmentConfidence": 40,
       "firstSeen": "2026-08-14T13:14:48.546Z",
       "lastSeen": "2026-08-14T13:14:48.546Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1830,7 +1837,7 @@
       "equipmentConfidence": 39,
       "firstSeen": "2026-08-14T13:14:58.687Z",
       "lastSeen": "2026-08-14T13:14:58.687Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1872,7 +1879,7 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:16:32.132Z",
       "lastSeen": "2026-08-14T13:16:32.132Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1914,7 +1921,7 @@
       "equipmentConfidence": 54,
       "firstSeen": "2026-08-14T13:14:06.836Z",
       "lastSeen": "2026-08-14T13:14:06.836Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -1956,7 +1963,7 @@
       "equipmentConfidence": 72,
       "firstSeen": "2026-08-14T13:16:15.645Z",
       "lastSeen": "2026-08-14T13:16:15.645Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -1998,7 +2005,7 @@
       "equipmentConfidence": 64,
       "firstSeen": "2026-08-14T13:17:09.260Z",
       "lastSeen": "2026-08-14T13:17:09.260Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -2040,7 +2047,7 @@
       "equipmentConfidence": 4,
       "firstSeen": "2026-08-14T13:18:15.759Z",
       "lastSeen": "2026-08-14T13:18:15.759Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -2082,7 +2089,7 @@
       "equipmentConfidence": 33,
       "firstSeen": "2026-08-14T13:15:59.863Z",
       "lastSeen": "2026-08-14T13:15:59.863Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2124,7 +2131,7 @@
       "equipmentConfidence": 30,
       "firstSeen": "2026-08-14T13:14:27.165Z",
       "lastSeen": "2026-08-14T13:14:27.165Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2166,7 +2173,7 @@
       "equipmentConfidence": 56,
       "firstSeen": "2026-08-14T13:17:32.677Z",
       "lastSeen": "2026-08-14T13:17:32.677Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2208,7 +2215,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:15:25.516Z",
       "lastSeen": "2026-08-14T13:15:25.516Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -2250,7 +2257,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:14:29.553Z",
       "lastSeen": "2026-08-14T13:14:29.553Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2292,7 +2299,7 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:14:32.498Z",
       "lastSeen": "2026-08-14T13:14:32.498Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2334,7 +2341,7 @@
       "equipmentConfidence": 48,
       "firstSeen": "2026-08-14T13:14:35.109Z",
       "lastSeen": "2026-08-14T13:14:35.109Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2376,7 +2383,7 @@
       "equipmentConfidence": 54,
       "firstSeen": "2026-08-14T13:18:46.125Z",
       "lastSeen": "2026-08-14T13:18:46.125Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -2418,7 +2425,7 @@
       "equipmentConfidence": 43,
       "firstSeen": "2026-08-14T13:16:24.246Z",
       "lastSeen": "2026-08-14T13:16:24.246Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2460,7 +2467,7 @@
       "equipmentConfidence": 39,
       "firstSeen": "2026-08-14T13:14:40.578Z",
       "lastSeen": "2026-08-14T13:14:40.578Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2502,7 +2509,7 @@
       "equipmentConfidence": 32,
       "firstSeen": "2026-08-14T13:14:43.129Z",
       "lastSeen": "2026-08-14T13:14:43.129Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2544,7 +2551,7 @@
       "equipmentConfidence": 49,
       "firstSeen": "2026-08-14T13:17:03.238Z",
       "lastSeen": "2026-08-14T13:17:03.238Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -2586,7 +2593,7 @@
       "equipmentConfidence": 64,
       "firstSeen": "2026-08-14T13:15:44.094Z",
       "lastSeen": "2026-08-14T13:15:44.094Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -2628,7 +2635,7 @@
       "equipmentConfidence": 18,
       "firstSeen": "2026-08-14T13:16:51.139Z",
       "lastSeen": "2026-08-24T18:40:28.995Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2670,7 +2677,7 @@
       "equipmentConfidence": 54,
       "firstSeen": "2026-08-14T13:16:53.833Z",
       "lastSeen": "2026-08-24T18:40:31.861Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2712,7 +2719,7 @@
       "equipmentConfidence": 54,
       "firstSeen": "2026-08-14T13:14:11.854Z",
       "lastSeen": "2026-08-14T13:14:11.854Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -2754,7 +2761,7 @@
       "equipmentConfidence": 55,
       "firstSeen": "2026-08-14T13:15:41.401Z",
       "lastSeen": "2026-08-14T13:15:41.401Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -2771,6 +2778,48 @@
     },
     {
       "archiveIndex": 66,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "gbg66j",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/gbg66j",
+      "title": "Volkswagen Tiguan GBG66J | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2020,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 24831,
+      "netEur": null,
+      "realCostEur": 24831,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 74.6,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:44.152Z",
+      "lastSeen": "2026-08-26T15:53:44.152Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:44.152Z",
+          "grossEur": 24831,
+          "netEur": null,
+          "realCostEur": 24831,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 67,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2796,7 +2845,7 @@
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:14:09.454Z",
       "lastSeen": "2026-08-14T13:14:09.454Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -2812,7 +2861,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 67,
+      "archiveIndex": 68,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2838,7 +2887,7 @@
       "equipmentConfidence": 28,
       "firstSeen": "2026-08-14T13:14:51.292Z",
       "lastSeen": "2026-08-14T13:14:51.292Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2854,7 +2903,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 68,
+      "archiveIndex": 69,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2880,7 +2929,7 @@
       "equipmentConfidence": 66,
       "firstSeen": "2026-08-14T13:15:39.145Z",
       "lastSeen": "2026-08-14T13:15:39.145Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -2896,7 +2945,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 69,
+      "archiveIndex": 70,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2922,7 +2971,7 @@
       "equipmentConfidence": 38,
       "firstSeen": "2026-08-14T13:15:04.724Z",
       "lastSeen": "2026-08-14T13:15:04.724Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2938,7 +2987,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 70,
+      "archiveIndex": 71,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2964,7 +3013,7 @@
       "equipmentConfidence": 40,
       "firstSeen": "2026-08-14T13:18:21.228Z",
       "lastSeen": "2026-08-24T18:41:31.455Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -2980,7 +3029,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 71,
+      "archiveIndex": 72,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3007,7 +3056,7 @@
       "firstSeen": "2026-08-24T18:42:23.779Z",
       "lastSeen": "2026-08-24T18:42:23.779Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-24T18:42:23.779Z",
@@ -3022,7 +3071,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 72,
+      "archiveIndex": 73,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3048,8 +3097,8 @@
       "equipmentConfidence": 53,
       "firstSeen": "2026-08-14T13:16:56.177Z",
       "lastSeen": "2026-08-25T12:41:05.988Z",
-      "daysOnMarket": 11,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 12,
+      "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:56.177Z",
@@ -3064,7 +3113,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 73,
+      "archiveIndex": 74,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3090,7 +3139,7 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:17:42.815Z",
       "lastSeen": "2026-08-14T13:17:42.815Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3106,7 +3155,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 74,
+      "archiveIndex": 75,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3132,7 +3181,7 @@
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:14:14.377Z",
       "lastSeen": "2026-08-14T13:14:14.377Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -3148,7 +3197,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 75,
+      "archiveIndex": 76,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3174,7 +3223,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:06.753Z",
       "lastSeen": "2026-08-14T13:19:06.753Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -3190,7 +3239,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 76,
+      "archiveIndex": 77,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3216,7 +3265,7 @@
       "equipmentConfidence": 42,
       "firstSeen": "2026-08-14T13:16:58.641Z",
       "lastSeen": "2026-08-14T13:16:58.641Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -3232,7 +3281,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 77,
+      "archiveIndex": 78,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3258,7 +3307,7 @@
       "equipmentConfidence": 61,
       "firstSeen": "2026-08-14T13:14:17.476Z",
       "lastSeen": "2026-08-14T13:14:17.476Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -3274,7 +3323,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 78,
+      "archiveIndex": 79,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3300,7 +3349,7 @@
       "equipmentConfidence": 22,
       "firstSeen": "2026-08-14T13:17:00.873Z",
       "lastSeen": "2026-08-14T13:17:00.873Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -3316,7 +3365,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 79,
+      "archiveIndex": 80,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3342,7 +3391,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:18:30.967Z",
       "lastSeen": "2026-08-14T13:18:30.967Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -3358,7 +3407,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 80,
+      "archiveIndex": 81,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3385,7 +3434,7 @@
       "firstSeen": "2026-08-24T18:42:27.038Z",
       "lastSeen": "2026-08-24T18:42:27.038Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-24T18:42:27.038Z",
@@ -3400,7 +3449,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 81,
+      "archiveIndex": 82,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3426,7 +3475,7 @@
       "equipmentConfidence": 66,
       "firstSeen": "2026-08-14T13:17:12.096Z",
       "lastSeen": "2026-08-14T13:17:12.096Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -3442,7 +3491,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 82,
+      "archiveIndex": 83,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3468,7 +3517,7 @@
       "equipmentConfidence": 16,
       "firstSeen": "2026-08-14T13:17:06.321Z",
       "lastSeen": "2026-08-14T13:17:06.321Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -3484,7 +3533,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 83,
+      "archiveIndex": 84,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3510,7 +3559,7 @@
       "equipmentConfidence": 45,
       "firstSeen": "2026-08-14T13:15:48.674Z",
       "lastSeen": "2026-08-14T13:15:48.674Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -3526,7 +3575,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 84,
+      "archiveIndex": 85,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3552,7 +3601,7 @@
       "equipmentConfidence": 28,
       "firstSeen": "2026-08-14T13:17:35.187Z",
       "lastSeen": "2026-08-14T13:17:35.187Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3568,7 +3617,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 85,
+      "archiveIndex": 86,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3594,7 +3643,7 @@
       "equipmentConfidence": 49,
       "firstSeen": "2026-08-14T13:18:01.980Z",
       "lastSeen": "2026-08-14T13:18:01.980Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3610,7 +3659,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 86,
+      "archiveIndex": 87,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3636,7 +3685,7 @@
       "equipmentConfidence": 39,
       "firstSeen": "2026-08-14T13:17:40.185Z",
       "lastSeen": "2026-08-14T13:17:40.185Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3652,7 +3701,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 87,
+      "archiveIndex": 88,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3678,7 +3727,7 @@
       "equipmentConfidence": 45,
       "firstSeen": "2026-08-14T13:18:04.436Z",
       "lastSeen": "2026-08-14T13:18:04.436Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3694,7 +3743,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 88,
+      "archiveIndex": 89,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3721,7 +3770,7 @@
       "firstSeen": "2026-08-24T18:42:20.613Z",
       "lastSeen": "2026-08-24T18:42:20.613Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-24T18:42:20.613Z",
@@ -3736,7 +3785,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 89,
+      "archiveIndex": 90,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3762,7 +3811,7 @@
       "equipmentConfidence": 19,
       "firstSeen": "2026-08-14T13:17:37.771Z",
       "lastSeen": "2026-08-14T13:17:37.771Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3778,7 +3827,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 90,
+      "archiveIndex": 91,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3804,7 +3853,7 @@
       "equipmentConfidence": 39,
       "firstSeen": "2026-08-14T13:17:52.258Z",
       "lastSeen": "2026-08-14T13:17:52.258Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3820,7 +3869,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 91,
+      "archiveIndex": 92,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3846,7 +3895,7 @@
       "equipmentConfidence": 35,
       "firstSeen": "2026-08-14T13:17:55.735Z",
       "lastSeen": "2026-08-14T13:17:55.735Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3862,7 +3911,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 92,
+      "archiveIndex": 93,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3888,7 +3937,7 @@
       "equipmentConfidence": 66,
       "firstSeen": "2026-08-14T13:17:15.477Z",
       "lastSeen": "2026-08-14T13:17:15.477Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE_STALE",
       "priceHistory": [
         {
@@ -3904,7 +3953,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 93,
+      "archiveIndex": 94,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3930,7 +3979,7 @@
       "equipmentConfidence": 53,
       "firstSeen": "2026-08-14T13:17:58.513Z",
       "lastSeen": "2026-08-14T13:17:58.513Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -3946,7 +3995,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 94,
+      "archiveIndex": 95,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3972,8 +4021,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:21.696Z",
       "lastSeen": "2026-08-24T18:42:14.592Z",
-      "daysOnMarket": 11,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 12,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:19:21.696Z",
@@ -3988,7 +4037,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 95,
+      "archiveIndex": 96,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4014,7 +4063,7 @@
       "equipmentConfidence": 33,
       "firstSeen": "2026-08-14T13:17:45.638Z",
       "lastSeen": "2026-08-14T13:17:45.638Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -4030,7 +4079,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 96,
+      "archiveIndex": 97,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4056,7 +4105,7 @@
       "equipmentConfidence": 38,
       "firstSeen": "2026-08-14T13:17:18.205Z",
       "lastSeen": "2026-08-14T13:17:18.205Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -4072,7 +4121,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 97,
+      "archiveIndex": 98,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4099,7 +4148,7 @@
       "firstSeen": "2026-08-24T18:42:11.195Z",
       "lastSeen": "2026-08-24T18:42:11.195Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-24T18:42:11.195Z",
@@ -4114,7 +4163,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 98,
+      "archiveIndex": 99,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4140,7 +4189,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:02.152Z",
       "lastSeen": "2026-08-14T13:19:02.152Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -4156,7 +4205,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 99,
+      "archiveIndex": 100,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "ujz62m",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/ujz62m",
+      "title": "Porsche Cayenne Coupe UJZ62M | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2023,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 66305,
+      "netEur": null,
+      "realCostEur": 66305,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 54.1,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:47.572Z",
+      "lastSeen": "2026-08-26T15:53:47.572Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:47.572Z",
+          "grossEur": 66305,
+          "netEur": null,
+          "realCostEur": 66305,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 101,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4182,8 +4273,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:17:24.003Z",
       "lastSeen": "2026-08-14T13:17:24.003Z",
-      "daysOnMarket": 11,
-      "listingStatus": "NOT_SEEN",
+      "daysOnMarket": 12,
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:24.003Z",
@@ -4198,7 +4289,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 100,
+      "archiveIndex": 102,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "xrw02u",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/xrw02u",
+      "title": "Porsche Taycan Cross Turismo XRW02U | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2026,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "CROSS_TURISMO",
+      "drivetrain": "AWD",
+      "grossEur": 91225,
+      "netEur": null,
+      "realCostEur": 91225,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 46.3,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:40.874Z",
+      "lastSeen": "2026-08-26T15:53:40.874Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:40.874Z",
+          "grossEur": 91225,
+          "netEur": null,
+          "realCostEur": 91225,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 103,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4224,7 +4357,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:17.414Z",
       "lastSeen": "2026-08-14T13:19:17.414Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -4240,7 +4373,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 101,
+      "archiveIndex": 104,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "kgp07d",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/kgp07d",
+      "title": "Porsche Cayenne Coupe KGP07D | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2026,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 117035,
+      "netEur": null,
+      "realCostEur": 117035,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 45.5,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:27.370Z",
+      "lastSeen": "2026-08-26T15:53:27.370Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:27.370Z",
+          "grossEur": 117035,
+          "netEur": null,
+          "realCostEur": 117035,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 105,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4266,7 +4441,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:13.144Z",
       "lastSeen": "2026-08-14T13:19:13.144Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -4282,7 +4457,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 102,
+      "archiveIndex": 106,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4309,7 +4484,7 @@
       "firstSeen": "2026-08-24T18:42:30.470Z",
       "lastSeen": "2026-08-24T18:42:30.470Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-24T18:42:30.470Z",
@@ -4324,7 +4499,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 103,
+      "archiveIndex": 107,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4350,7 +4525,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:08.881Z",
       "lastSeen": "2026-08-14T13:19:08.881Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -4366,7 +4541,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 104,
+      "archiveIndex": 108,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4392,7 +4567,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:15.296Z",
       "lastSeen": "2026-08-14T13:19:15.296Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -4408,7 +4583,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 105,
+      "archiveIndex": 109,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4434,7 +4609,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:04.558Z",
       "lastSeen": "2026-08-14T13:19:04.558Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -4450,7 +4625,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 106,
+      "archiveIndex": 110,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4476,8 +4651,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:18:59.734Z",
       "lastSeen": "2026-08-25T19:05:11.021Z",
-      "daysOnMarket": 11,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 12,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:59.734Z",
@@ -4492,7 +4667,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 107,
+      "archiveIndex": 111,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4519,7 +4694,7 @@
       "firstSeen": "2026-08-24T18:42:17.686Z",
       "lastSeen": "2026-08-24T18:42:17.686Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-24T18:42:17.686Z",
@@ -4534,7 +4709,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 108,
+      "archiveIndex": 112,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "tra81p",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/tra81p",
+      "title": "Porsche Panamera TRA81P | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2025,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 122375,
+      "netEur": null,
+      "realCostEur": 122375,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 44.9,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:24.212Z",
+      "lastSeen": "2026-08-26T15:53:24.212Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:24.212Z",
+          "grossEur": 122375,
+          "netEur": null,
+          "realCostEur": 122375,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 113,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4561,7 +4778,7 @@
       "firstSeen": "2026-08-24T18:42:00.496Z",
       "lastSeen": "2026-08-24T18:42:00.496Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-24T18:42:00.496Z",
@@ -4576,7 +4793,49 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 109,
+      "archiveIndex": 114,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "zjj542",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/zjj542",
+      "title": "Porsche Panamera ZJJ542 | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2024,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 86775,
+      "netEur": null,
+      "realCostEur": 86775,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 44.1,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:50.860Z",
+      "lastSeen": "2026-08-26T15:53:50.860Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:50.860Z",
+          "grossEur": 86775,
+          "netEur": null,
+          "realCostEur": 86775,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 115,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4602,7 +4861,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:19.566Z",
       "lastSeen": "2026-08-14T13:19:19.566Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -4618,7 +4877,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 110,
+      "archiveIndex": 116,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4645,7 +4904,7 @@
       "firstSeen": "2026-08-24T18:42:07.965Z",
       "lastSeen": "2026-08-24T18:42:07.965Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-24T18:42:07.965Z",
@@ -4660,7 +4919,91 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 111,
+      "archiveIndex": 117,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "ckw02n",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/ckw02n",
+      "title": "Porsche Taycan CKW02N | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2025,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 82325,
+      "netEur": null,
+      "realCostEur": 82325,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 43.7,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:33.890Z",
+      "lastSeen": "2026-08-26T15:53:33.890Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:33.890Z",
+          "grossEur": 82325,
+          "netEur": null,
+          "realCostEur": 82325,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 118,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "xmk58p",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/xmk58p",
+      "title": "Porsche 718 Spyder XMK58P | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2025,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 133055,
+      "netEur": null,
+      "realCostEur": 133055,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 43.7,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:54:01.202Z",
+      "lastSeen": "2026-08-26T15:54:01.202Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:54:01.202Z",
+          "grossEur": 133055,
+          "netEur": null,
+          "realCostEur": 133055,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 119,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4686,8 +5029,8 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:18:57.576Z",
       "lastSeen": "2026-08-24T18:42:38.144Z",
-      "daysOnMarket": 11,
-      "listingStatus": "ACTIVE",
+      "daysOnMarket": 12,
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:57.576Z",
@@ -4702,7 +5045,91 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 112,
+      "archiveIndex": 120,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "rgs76m",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/rgs76m",
+      "title": "Porsche 911 Cabriolet RGS76M | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2023,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 224725,
+      "netEur": null,
+      "realCostEur": 224725,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 42.9,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:54.227Z",
+      "lastSeen": "2026-08-26T15:53:54.227Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:54.227Z",
+          "grossEur": 224725,
+          "netEur": null,
+          "realCostEur": 224725,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 121,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "srn47s",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/srn47s",
+      "title": "Porsche 911 2-seater SRN47S | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2022,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 177555,
+      "netEur": null,
+      "realCostEur": 177555,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 39.8,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:57.644Z",
+      "lastSeen": "2026-08-26T15:53:57.644Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:57.644Z",
+          "grossEur": 177555,
+          "netEur": null,
+          "realCostEur": 177555,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 122,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4729,7 +5156,7 @@
       "firstSeen": "2026-08-24T18:42:34.856Z",
       "lastSeen": "2026-08-24T18:42:34.856Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-24T18:42:34.856Z",
@@ -4744,7 +5171,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 113,
+      "archiveIndex": 123,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4786,7 +5213,91 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 114,
+      "archiveIndex": 124,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "xon91t",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/xon91t",
+      "title": "Porsche 911 2-seater XON91T | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2021,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 171325,
+      "netEur": null,
+      "realCostEur": 171325,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 37.6,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:30.918Z",
+      "lastSeen": "2026-08-26T15:53:30.918Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:30.918Z",
+          "grossEur": 171325,
+          "netEur": null,
+          "realCostEur": 171325,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 125,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PA_UNCONFIRMED",
+      "listingId": "hes69x",
+      "url": "https://dinbil.se/porsche/bilar-i-lager/alla-bilar-i-lager/hes69x",
+      "title": "Porsche 911 2+2-seater HES69X | Din Bil",
+      "country": "SE",
+      "vin": null,
+      "modelYear": 2020,
+      "modelYearSource": "PAGE",
+      "mileageKm": null,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "AWD",
+      "grossEur": 173995,
+      "netEur": null,
+      "realCostEur": 173995,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "UNKNOWN",
+      "accidentStatus": "UNKNOWN",
+      "absoluteScore": 36.4,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-26T15:53:36.851Z",
+      "lastSeen": "2026-08-26T15:53:36.851Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-26T15:53:36.851Z",
+          "grossEur": 173995,
+          "netEur": null,
+          "realCostEur": 173995,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 126,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4812,7 +5323,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-14T13:19:10.987Z",
       "lastSeen": "2026-08-14T13:19:10.987Z",
-      "daysOnMarket": 11,
+      "daysOnMarket": 12,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -4828,7 +5339,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 115,
+      "archiveIndex": 127,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -4853,7 +5364,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:39:20.134Z",
-      "lastSeen": "2026-08-25T19:02:12.697Z",
+      "lastSeen": "2026-08-26T15:51:02.629Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -4862,7 +5373,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 116,
+      "archiveIndex": 128,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -4887,7 +5398,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:41:25.634Z",
-      "lastSeen": "2026-08-25T19:04:09.982Z",
+      "lastSeen": "2026-08-26T15:53:07.829Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -4896,7 +5407,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 117,
+      "archiveIndex": 129,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -4921,7 +5432,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:41:25.649Z",
-      "lastSeen": "2026-08-25T19:04:13.917Z",
+      "lastSeen": "2026-08-26T15:53:11.685Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -4930,7 +5441,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 118,
+      "archiveIndex": 130,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -4955,7 +5466,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:38:11.938Z",
-      "lastSeen": "2026-08-25T19:01:06.397Z",
+      "lastSeen": "2026-08-26T15:49:53.371Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -4964,7 +5475,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 119,
+      "archiveIndex": 131,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -4989,7 +5500,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:40:23.456Z",
-      "lastSeen": "2026-08-25T19:03:06.674Z",
+      "lastSeen": "2026-08-26T15:52:03.927Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -4998,7 +5509,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 120,
+      "archiveIndex": 132,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -5023,7 +5534,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:40:23.479Z",
-      "lastSeen": "2026-08-25T19:03:12.038Z",
+      "lastSeen": "2026-08-26T15:52:09.574Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -5032,7 +5543,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 121,
+      "archiveIndex": 133,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -5057,7 +5568,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:41:25.645Z",
-      "lastSeen": "2026-08-25T19:04:12.681Z",
+      "lastSeen": "2026-08-26T15:53:10.437Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -5066,7 +5577,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 122,
+      "archiveIndex": 134,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -5091,7 +5602,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:41:25.654Z",
-      "lastSeen": "2026-08-25T19:04:15.169Z",
+      "lastSeen": "2026-08-26T15:53:12.955Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -5100,7 +5611,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 123,
+      "archiveIndex": 135,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -5125,7 +5636,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:40:23.439Z",
-      "lastSeen": "2026-08-25T19:03:00.786Z",
+      "lastSeen": "2026-08-26T15:51:58.747Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -5134,7 +5645,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 124,
+      "archiveIndex": 136,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -5159,7 +5670,7 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:39:20.138Z",
-      "lastSeen": "2026-08-25T19:02:13.942Z",
+      "lastSeen": "2026-08-26T15:51:03.882Z",
       "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
@@ -5168,7 +5679,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 125,
+      "archiveIndex": 137,
       "eligibleRank": null,
       "top10": false,
       "state": "PROCESSING_UNKNOWN",
@@ -5193,8 +5704,8 @@
       "equipmentScore": null,
       "equipmentConfidence": null,
       "firstSeen": "2026-08-25T12:40:50.031Z",
-      "lastSeen": "2026-08-25T19:03:02.187Z",
-      "daysOnMarket": 0,
+      "lastSeen": "2026-08-26T15:52:00.014Z",
+      "daysOnMarket": 1,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
