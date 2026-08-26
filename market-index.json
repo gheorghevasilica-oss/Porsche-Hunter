@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T15:54:25.013Z",
+  "generatedAt": "2026-08-26T19:34:20.768Z",
   "preferences": {
     "profileName": "DEFAULT",
     "filters": {
@@ -3055,7 +3055,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:23.779Z",
       "lastSeen": "2026-08-24T18:42:23.779Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -3433,7 +3433,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:27.038Z",
       "lastSeen": "2026-08-24T18:42:27.038Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -3769,7 +3769,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:20.613Z",
       "lastSeen": "2026-08-24T18:42:20.613Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -4147,7 +4147,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:11.195Z",
       "lastSeen": "2026-08-24T18:42:11.195Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -4483,7 +4483,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:30.470Z",
       "lastSeen": "2026-08-24T18:42:30.470Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -4693,7 +4693,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:17.686Z",
       "lastSeen": "2026-08-24T18:42:17.686Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -4777,7 +4777,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:00.496Z",
       "lastSeen": "2026-08-24T18:42:00.496Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -4903,7 +4903,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:07.965Z",
       "lastSeen": "2026-08-24T18:42:07.965Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -5155,7 +5155,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:34.856Z",
       "lastSeen": "2026-08-24T18:42:34.856Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -5197,7 +5197,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-24T18:42:03.740Z",
       "lastSeen": "2026-08-24T18:42:03.740Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -5365,7 +5365,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:39:20.134Z",
       "lastSeen": "2026-08-26T15:51:02.629Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5399,7 +5399,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:41:25.634Z",
       "lastSeen": "2026-08-26T15:53:07.829Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5433,7 +5433,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:41:25.649Z",
       "lastSeen": "2026-08-26T15:53:11.685Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5467,7 +5467,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:38:11.938Z",
       "lastSeen": "2026-08-26T15:49:53.371Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5501,7 +5501,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:40:23.456Z",
       "lastSeen": "2026-08-26T15:52:03.927Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5535,7 +5535,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:40:23.479Z",
       "lastSeen": "2026-08-26T15:52:09.574Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5569,7 +5569,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:41:25.645Z",
       "lastSeen": "2026-08-26T15:53:10.437Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5603,7 +5603,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:41:25.654Z",
       "lastSeen": "2026-08-26T15:53:12.955Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5637,7 +5637,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:40:23.439Z",
       "lastSeen": "2026-08-26T15:51:58.747Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
@@ -5671,7 +5671,7 @@
       "equipmentConfidence": null,
       "firstSeen": "2026-08-24T18:39:20.138Z",
       "lastSeen": "2026-08-26T15:51:03.882Z",
-      "daysOnMarket": 1,
+      "daysOnMarket": 2,
       "listingStatus": "PROCESSING_REJECTED",
       "priceHistory": [],
       "priceChangeFromFirstEur": null,
