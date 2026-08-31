@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-08-31T12:50:48.019Z",
+  "generatedAt": "2026-08-31T14:57:09.713Z",
   "selectedCountry": "ALL",
-  "found": 106,
-  "eligible": 4,
+  "found": 129,
+  "eligible": 5,
   "rejected": {
-    "YEAR_FILTER": 30,
-    "LISTING_STATUS": 57,
-    "PRICE_FILTER": 3,
-    "PA_UNCONFIRMED": 12
+    "YEAR_FILTER": 64,
+    "PRICE_FILTER": 24,
+    "LISTING_STATUS": 24,
+    "COUNTRY_EXCLUDED": 12
   }
 }
