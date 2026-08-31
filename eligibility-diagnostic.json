@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-08-31T10:13:11.258Z",
+  "generatedAt": "2026-08-31T10:18:08.613Z",
   "selectedCountry": "ALL",
-  "found": 2,
-  "eligible": 0,
+  "found": 118,
+  "eligible": 4,
   "rejected": {
-    "YEAR_FILTER": 2
+    "YEAR_FILTER": 51,
+    "LISTING_STATUS": 27,
+    "PRICE_FILTER": 10,
+    "MILEAGE_FILTER": 2,
+    "PA_UNCONFIRMED": 24
   }
 }
