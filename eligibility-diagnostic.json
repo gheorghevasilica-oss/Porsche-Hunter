@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-31T09:45:32.232Z",
+  "generatedAt": "2026-08-31T09:50:57.680Z",
   "selectedCountry": "ALL",
   "found": 2,
-  "eligible": 1,
+  "eligible": 0,
   "rejected": {
-    "MY2022_PRICE_CAP": 1
+    "YEAR_FILTER": 2
   }
 }
