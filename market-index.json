@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T19:30:26.211Z",
+  "generatedAt": "2026-09-01T10:25:16.914Z",
   "preferences": {
     "profileName": "CUSTOM",
     "filters": {
@@ -369,7 +369,7 @@
       "firstSeen": "2026-08-14T13:14:45.459Z",
       "lastSeen": "2026-08-14T13:14:45.459Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:14:45.459Z",
@@ -476,7 +476,7 @@
       "state": "SEEN_NOT_ELIGIBLE",
       "exclusionReason": "YEAR_FILTER",
       "listingId": "EX2LNW",
-      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-EX2LNW?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=12a9bbcb-497e-457a-af1f-f0cda81ef3f8&ph_market=DE",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-EX2LNW?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=91901760-cbfc-4e01-aaaa-5a3c560e1f70&ph_market=DE",
       "title": "Porsche Taycan 4S",
       "country": "DE",
       "vin": null,
@@ -485,9 +485,9 @@
       "mileageKm": 100200,
       "bodyStyle": "SEDAN",
       "drivetrain": "AWD",
-      "grossEur": 55900,
-      "netEur": 46975,
-      "realCostEur": 46975,
+      "grossEur": 53900,
+      "netEur": 45294,
+      "realCostEur": 45294,
       "vatStatus": "DEDUCTIBLE",
       "porscheApprovedStatus": "CONFIRMED",
       "accidentStatus": "NO_ACCIDENT",
@@ -496,7 +496,7 @@
       "equipmentScore": 65.2,
       "equipmentConfidence": 67,
       "firstSeen": "2026-08-14T13:16:08.035Z",
-      "lastSeen": "2026-08-31T16:28:44.980Z",
+      "lastSeen": "2026-09-01T10:23:47.212Z",
       "daysOnMarket": 17,
       "listingStatus": "ACTIVE",
       "priceHistory": [
@@ -513,11 +513,18 @@
           "netEur": 46975,
           "realCostEur": 46975,
           "vatStatus": "DEDUCTIBLE"
+        },
+        {
+          "observedAt": "2026-09-01T10:23:47.212Z",
+          "grossEur": 53900,
+          "netEur": 45294,
+          "realCostEur": 45294,
+          "vatStatus": "DEDUCTIBLE"
         }
       ],
-      "priceChangeFromFirstEur": -2185,
-      "lastPriceChangeAt": "2026-08-31T16:28:44.980Z",
-      "lastPriceChangeEur": -2185
+      "priceChangeFromFirstEur": -3866,
+      "lastPriceChangeAt": "2026-09-01T10:23:47.212Z",
+      "lastPriceChangeEur": -1681
     },
     {
       "archiveIndex": 12,
@@ -548,7 +555,7 @@
       "firstSeen": "2026-08-14T13:16:13.251Z",
       "lastSeen": "2026-08-14T13:16:13.251Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:13.251Z",
@@ -1307,7 +1314,7 @@
       "firstSeen": "2026-08-14T13:16:45.494Z",
       "lastSeen": "2026-08-14T13:16:45.494Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:45.494Z",
@@ -1350,7 +1357,7 @@
       "firstSeen": "2026-08-14T13:16:29.850Z",
       "lastSeen": "2026-08-14T13:16:29.850Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:29.850Z",
@@ -1665,7 +1672,7 @@
       "firstSeen": "2026-08-14T13:16:02.431Z",
       "lastSeen": "2026-08-14T13:16:02.431Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:02.431Z",
@@ -1684,7 +1691,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "LISTING_STATUS",
+      "exclusionReason": "YEAR_FILTER",
       "listingId": "WKERXZ",
       "url": "https://finder.porsche.com/fr/fr-FR/details/porsche-taycan-4-cross-turismo-doccasion-WKERXZ?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=12a9bbcb-497e-457a-af1f-f0cda81ef3f8&ph_market=FR",
       "title": "Porsche Taycan 4 Cross Turismo",
@@ -1708,7 +1715,7 @@
       "firstSeen": "2026-08-14T13:15:02.064Z",
       "lastSeen": "2026-08-31T16:28:08.994Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "ACTIVE",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:02.064Z",
@@ -1837,7 +1844,7 @@
       "firstSeen": "2026-08-14T13:14:53.752Z",
       "lastSeen": "2026-08-14T13:14:53.752Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:14:53.752Z",
@@ -2310,7 +2317,7 @@
       "firstSeen": "2026-08-14T13:16:15.645Z",
       "lastSeen": "2026-08-14T13:16:15.645Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:15.645Z",
@@ -2353,7 +2360,7 @@
       "firstSeen": "2026-08-14T13:17:21.672Z",
       "lastSeen": "2026-08-14T13:17:21.672Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:21.672Z",
@@ -2439,7 +2446,7 @@
       "firstSeen": "2026-08-14T13:17:09.260Z",
       "lastSeen": "2026-08-14T13:17:09.260Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:09.260Z",
@@ -2482,7 +2489,7 @@
       "firstSeen": "2026-08-14T13:15:59.863Z",
       "lastSeen": "2026-08-14T13:15:59.863Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:59.863Z",
@@ -2568,7 +2575,7 @@
       "firstSeen": "2026-08-14T13:18:15.759Z",
       "lastSeen": "2026-08-14T13:18:15.759Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:15.759Z",
@@ -2697,7 +2704,7 @@
       "firstSeen": "2026-08-14T13:14:29.553Z",
       "lastSeen": "2026-08-14T13:14:29.553Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:14:29.553Z",
@@ -2826,7 +2833,7 @@
       "firstSeen": "2026-08-14T13:16:24.246Z",
       "lastSeen": "2026-08-14T13:16:24.246Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:24.246Z",
@@ -2955,7 +2962,7 @@
       "firstSeen": "2026-08-14T13:18:46.125Z",
       "lastSeen": "2026-08-14T13:18:46.125Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:18:46.125Z",
@@ -3084,7 +3091,7 @@
       "firstSeen": "2026-08-14T13:14:43.129Z",
       "lastSeen": "2026-08-14T13:14:43.129Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:14:43.129Z",
@@ -3850,7 +3857,7 @@
       "firstSeen": "2026-08-14T13:17:42.815Z",
       "lastSeen": "2026-08-14T13:17:42.815Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:42.815Z",
@@ -4315,7 +4322,7 @@
       "firstSeen": "2026-08-14T13:17:40.185Z",
       "lastSeen": "2026-08-14T13:17:40.185Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:40.185Z",
@@ -4470,7 +4477,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "L6L0XN",
       "url": "https://finder.porsche.com/fr/fr-FR/details/porsche-taycan-4s-doccasion-L6L0XN?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=7551072d-e675-4cd6-9b0b-898dd3227548&ph_market=FR",
       "title": "Porsche Taycan 4S",
@@ -4494,7 +4501,7 @@
       "firstSeen": "2026-08-31T17:18:37.139Z",
       "lastSeen": "2026-08-31T17:18:37.139Z",
       "daysOnMarket": 0,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-31T17:18:37.139Z",
@@ -4580,7 +4587,7 @@
       "firstSeen": "2026-08-14T13:15:48.674Z",
       "lastSeen": "2026-08-14T13:15:48.674Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:48.674Z",
@@ -5396,7 +5403,7 @@
       "firstSeen": "2026-08-14T13:17:24.003Z",
       "lastSeen": "2026-08-14T13:17:24.003Z",
       "daysOnMarket": 17,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:24.003Z",
