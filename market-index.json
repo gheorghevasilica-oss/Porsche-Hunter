@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T12:35:52.685Z",
+  "generatedAt": "2026-09-02T12:49:30.262Z",
   "preferences": {
     "profileName": "CUSTOM",
     "filters": {
@@ -18,11 +18,11 @@
     }
   },
   "summary": {
-    "seen": 136,
-    "eligible": 6,
-    "top10": 6,
-    "rejected": 129,
-    "processingUnknown": 1
+    "seen": 137,
+    "eligible": 7,
+    "top10": 7,
+    "rejected": 130,
+    "processingUnknown": 0
   },
   "vehicles": [
     {
@@ -578,6 +578,49 @@
     },
     {
       "archiveIndex": 13,
+      "eligibleRank": 4,
+      "top10": true,
+      "state": "ELIGIBLE_RANKED",
+      "exclusionReason": null,
+      "listingId": "44Z0Q5",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-44Z0Q5?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
+      "title": "Porsche Taycan",
+      "country": "DE",
+      "vin": null,
+      "modelYear": 2023,
+      "modelYearSource": "PAGE",
+      "mileageKm": 31602,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "RWD",
+      "grossEur": 59490,
+      "netEur": 49992,
+      "realCostEur": 49992,
+      "vatStatus": "DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "DECLARED",
+      "batterySohPercent": 90,
+      "absoluteScore": 95.7,
+      "equipmentScore": 44.3,
+      "equipmentConfidence": 46,
+      "firstSeen": "2026-09-02T12:48:23.034Z",
+      "lastSeen": "2026-09-02T12:48:23.034Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-09-02T12:48:23.034Z",
+          "grossEur": 59490,
+          "netEur": 49992,
+          "realCostEur": 49992,
+          "vatStatus": "DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 14,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -620,8 +663,8 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 14,
-      "eligibleRank": 4,
+      "archiveIndex": 15,
+      "eligibleRank": 5,
       "top10": true,
       "state": "ELIGIBLE_RANKED",
       "exclusionReason": null,
@@ -663,7 +706,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 15,
+      "archiveIndex": 16,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -706,8 +749,8 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 16,
-      "eligibleRank": 5,
+      "archiveIndex": 17,
+      "eligibleRank": 6,
       "top10": true,
       "state": "ELIGIBLE_RANKED",
       "exclusionReason": null,
@@ -749,7 +792,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 17,
+      "archiveIndex": 18,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -792,7 +835,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 18,
+      "archiveIndex": 19,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -835,7 +878,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 19,
+      "archiveIndex": 20,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -878,7 +921,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 20,
+      "archiveIndex": 21,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -921,7 +964,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 21,
+      "archiveIndex": 22,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -964,7 +1007,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 22,
+      "archiveIndex": 23,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1007,7 +1050,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 23,
+      "archiveIndex": 24,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1057,7 +1100,7 @@
       "lastPriceChangeEur": -840
     },
     {
-      "archiveIndex": 24,
+      "archiveIndex": 25,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1100,7 +1143,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 25,
+      "archiveIndex": 26,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1150,7 +1193,7 @@
       "lastPriceChangeEur": -2564
     },
     {
-      "archiveIndex": 26,
+      "archiveIndex": 27,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1200,7 +1243,7 @@
       "lastPriceChangeEur": -246
     },
     {
-      "archiveIndex": 27,
+      "archiveIndex": 28,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1250,7 +1293,7 @@
       "lastPriceChangeEur": -841
     },
     {
-      "archiveIndex": 28,
+      "archiveIndex": 29,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1293,8 +1336,8 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 29,
-      "eligibleRank": 6,
+      "archiveIndex": 30,
+      "eligibleRank": 7,
       "top10": true,
       "state": "ELIGIBLE_RANKED",
       "exclusionReason": null,
@@ -1336,7 +1379,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 30,
+      "archiveIndex": 31,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1379,7 +1422,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 31,
+      "archiveIndex": 32,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1422,7 +1465,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 32,
+      "archiveIndex": 33,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1465,7 +1508,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 33,
+      "archiveIndex": 34,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1493,7 +1536,7 @@
       "firstSeen": "2026-08-14T13:16:35.218Z",
       "lastSeen": "2026-08-31T17:19:45.922Z",
       "daysOnMarket": 18,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:16:35.218Z",
@@ -1515,7 +1558,7 @@
       "lastPriceChangeEur": -1680
     },
     {
-      "archiveIndex": 34,
+      "archiveIndex": 35,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1565,7 +1608,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 35,
+      "archiveIndex": 36,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1608,7 +1651,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 36,
+      "archiveIndex": 37,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1651,11 +1694,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 37,
+      "archiveIndex": 38,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "WKERXZ",
       "url": "https://finder.porsche.com/fr/fr-FR/details/porsche-taycan-4-cross-turismo-doccasion-WKERXZ?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=9b1d3c0b-6fe5-48af-abc5-a0350e7858a5&ph_market=FR",
       "title": "Porsche Taycan 4 Cross Turismo",
@@ -1679,7 +1722,7 @@
       "firstSeen": "2026-08-14T13:15:02.064Z",
       "lastSeen": "2026-09-01T13:10:46.932Z",
       "daysOnMarket": 18,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:15:02.064Z",
@@ -1694,7 +1737,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 38,
+      "archiveIndex": 39,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1737,7 +1780,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 39,
+      "archiveIndex": 40,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1780,7 +1823,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 40,
+      "archiveIndex": 41,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1823,7 +1866,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 41,
+      "archiveIndex": 42,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1866,7 +1909,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 42,
+      "archiveIndex": 43,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1909,7 +1952,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 43,
+      "archiveIndex": 44,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1952,7 +1995,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 44,
+      "archiveIndex": 45,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -1995,7 +2038,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 45,
+      "archiveIndex": 46,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2038,7 +2081,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 46,
+      "archiveIndex": 47,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2081,7 +2124,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 47,
+      "archiveIndex": 48,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2124,7 +2167,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 48,
+      "archiveIndex": 49,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2167,7 +2210,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 49,
+      "archiveIndex": 50,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2210,7 +2253,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 50,
+      "archiveIndex": 51,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2253,7 +2296,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 51,
+      "archiveIndex": 52,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2296,7 +2339,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 52,
+      "archiveIndex": 53,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2339,7 +2382,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 53,
+      "archiveIndex": 54,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2382,7 +2425,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 54,
+      "archiveIndex": 55,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2425,7 +2468,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 55,
+      "archiveIndex": 56,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2468,7 +2511,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 56,
+      "archiveIndex": 57,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2511,7 +2554,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 57,
+      "archiveIndex": 58,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2554,7 +2597,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 58,
+      "archiveIndex": 59,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2597,7 +2640,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 59,
+      "archiveIndex": 60,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2640,7 +2683,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 60,
+      "archiveIndex": 61,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2683,7 +2726,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 61,
+      "archiveIndex": 62,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2726,7 +2769,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 62,
+      "archiveIndex": 63,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2769,7 +2812,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 63,
+      "archiveIndex": 64,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2812,7 +2855,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 64,
+      "archiveIndex": 65,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2855,7 +2898,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 65,
+      "archiveIndex": 66,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2898,7 +2941,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 66,
+      "archiveIndex": 67,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2941,7 +2984,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 67,
+      "archiveIndex": 68,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -2984,7 +3027,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 68,
+      "archiveIndex": 69,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3027,7 +3070,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 69,
+      "archiveIndex": 70,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3070,7 +3113,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 70,
+      "archiveIndex": 71,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3113,7 +3156,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 71,
+      "archiveIndex": 72,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3156,7 +3199,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 72,
+      "archiveIndex": 73,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3199,7 +3242,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 73,
+      "archiveIndex": 74,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3249,7 +3292,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 74,
+      "archiveIndex": 75,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3292,7 +3335,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 75,
+      "archiveIndex": 76,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3335,7 +3378,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 76,
+      "archiveIndex": 77,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3385,7 +3428,7 @@
       "lastPriceChangeEur": -2565
     },
     {
-      "archiveIndex": 77,
+      "archiveIndex": 78,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3428,7 +3471,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 78,
+      "archiveIndex": 79,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3471,7 +3514,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 79,
+      "archiveIndex": 80,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3521,7 +3564,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 80,
+      "archiveIndex": 81,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3571,7 +3614,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 81,
+      "archiveIndex": 82,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3614,7 +3657,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 82,
+      "archiveIndex": 83,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3657,7 +3700,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 83,
+      "archiveIndex": 84,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3700,7 +3743,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 84,
+      "archiveIndex": 85,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3743,7 +3786,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 85,
+      "archiveIndex": 86,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3793,7 +3836,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 86,
+      "archiveIndex": 87,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3836,7 +3879,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 87,
+      "archiveIndex": 88,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3879,7 +3922,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 88,
+      "archiveIndex": 89,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3922,7 +3965,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 89,
+      "archiveIndex": 90,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -3965,7 +4008,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 90,
+      "archiveIndex": 91,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4015,7 +4058,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 91,
+      "archiveIndex": 92,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4058,7 +4101,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 92,
+      "archiveIndex": 93,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4108,7 +4151,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 93,
+      "archiveIndex": 94,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4158,7 +4201,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 94,
+      "archiveIndex": 95,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4201,7 +4244,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 95,
+      "archiveIndex": 96,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4251,7 +4294,7 @@
       "lastPriceChangeEur": -6000
     },
     {
-      "archiveIndex": 96,
+      "archiveIndex": 97,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4294,7 +4337,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 97,
+      "archiveIndex": 98,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4337,7 +4380,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 98,
+      "archiveIndex": 99,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4387,7 +4430,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 99,
+      "archiveIndex": 100,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4430,7 +4473,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 100,
+      "archiveIndex": 101,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4480,7 +4523,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 101,
+      "archiveIndex": 102,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4523,7 +4566,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 102,
+      "archiveIndex": 103,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4566,7 +4609,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 103,
+      "archiveIndex": 104,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4609,13 +4652,13 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 104,
+      "archiveIndex": 105,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "LISTING_STATUS",
+      "exclusionReason": "YEAR_FILTER",
       "listingId": "L6L0XN",
-      "url": "https://finder.porsche.com/fr/fr-FR/details/porsche-taycan-4s-doccasion-L6L0XN?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=7551072d-e675-4cd6-9b0b-898dd3227548&ph_market=FR",
+      "url": "https://finder.porsche.com/fr/fr-FR/details/porsche-taycan-4s-doccasion-L6L0XN?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=e8849d18-b151-4f0a-a9d8-2c8210c93c2b&ph_market=FR",
       "title": "Porsche Taycan 4S",
       "country": "FR",
       "vin": null,
@@ -4635,9 +4678,9 @@
       "equipmentScore": 0,
       "equipmentConfidence": 0,
       "firstSeen": "2026-08-31T17:18:37.139Z",
-      "lastSeen": "2026-08-31T17:18:37.139Z",
+      "lastSeen": "2026-09-02T12:47:19.051Z",
       "daysOnMarket": 1,
-      "listingStatus": "REMOVED",
+      "listingStatus": "ACTIVE",
       "priceHistory": [
         {
           "observedAt": "2026-08-31T17:18:37.139Z",
@@ -4652,7 +4695,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 105,
+      "archiveIndex": 106,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4695,7 +4738,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 106,
+      "archiveIndex": 107,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4745,7 +4788,7 @@
       "lastPriceChangeEur": -400
     },
     {
-      "archiveIndex": 107,
+      "archiveIndex": 108,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4795,7 +4838,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 108,
+      "archiveIndex": 109,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4845,7 +4888,7 @@
       "lastPriceChangeEur": -200
     },
     {
-      "archiveIndex": 109,
+      "archiveIndex": 110,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4888,7 +4931,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 110,
+      "archiveIndex": 111,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4938,7 +4981,7 @@
       "lastPriceChangeEur": -100
     },
     {
-      "archiveIndex": 111,
+      "archiveIndex": 112,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -4981,7 +5024,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 112,
+      "archiveIndex": 113,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5024,7 +5067,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 113,
+      "archiveIndex": 114,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5074,11 +5117,11 @@
       "lastPriceChangeEur": -100
     },
     {
-      "archiveIndex": 114,
+      "archiveIndex": 115,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "NK289L",
       "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-4-cross-turismo-occasion-NK289L?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=9b1d3c0b-6fe5-48af-abc5-a0350e7858a5&ph_market=NL",
       "title": "Porsche Taycan 4 Cross Turismo",
@@ -5102,7 +5145,7 @@
       "firstSeen": "2026-08-14T13:17:18.205Z",
       "lastSeen": "2026-09-01T13:12:35.918Z",
       "daysOnMarket": 18,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-14T13:17:18.205Z",
@@ -5124,7 +5167,7 @@
       "lastPriceChangeEur": 0
     },
     {
-      "archiveIndex": 115,
+      "archiveIndex": 116,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5167,7 +5210,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 116,
+      "archiveIndex": 117,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5210,11 +5253,11 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 117,
+      "archiveIndex": 118,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "MEKE78",
       "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-4-cross-turismo-usado-MEKE78?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=9b1d3c0b-6fe5-48af-abc5-a0350e7858a5&ph_market=ES",
       "title": "Porsche Taycan 4 Cross Turismo",
@@ -5238,7 +5281,7 @@
       "firstSeen": "2026-08-31T16:29:19.862Z",
       "lastSeen": "2026-09-01T13:12:44.977Z",
       "daysOnMarket": 1,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-08-31T16:29:19.862Z",
@@ -5253,7 +5296,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 118,
+      "archiveIndex": 119,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5296,7 +5339,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 119,
+      "archiveIndex": 120,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5339,7 +5382,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 120,
+      "archiveIndex": 121,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5382,7 +5425,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 121,
+      "archiveIndex": 122,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5425,7 +5468,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 122,
+      "archiveIndex": 123,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5468,7 +5511,57 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 123,
+      "archiveIndex": 124,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "PRICE_FILTER",
+      "listingId": "KPL65P",
+      "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-occasion-KPL65P?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=e8849d18-b151-4f0a-a9d8-2c8210c93c2b&ph_market=NL",
+      "title": "Porsche Taycan",
+      "country": "NL",
+      "vin": null,
+      "modelYear": 2024,
+      "modelYearSource": "PAGE",
+      "mileageKm": 39152,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "RWD",
+      "grossEur": 74950,
+      "netEur": null,
+      "realCostEur": 74950,
+      "vatStatus": "NON_DEDUCTIBLE",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "UNKNOWN",
+      "batterySohPercent": null,
+      "absoluteScore": 51.4,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-08-14T13:17:24.003Z",
+      "lastSeen": "2026-09-02T12:48:34.035Z",
+      "daysOnMarket": 18,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-08-14T13:17:24.003Z",
+          "grossEur": 77950,
+          "netEur": null,
+          "realCostEur": 77950,
+          "vatStatus": "UNKNOWN"
+        },
+        {
+          "observedAt": "2026-09-02T12:48:34.035Z",
+          "grossEur": 74950,
+          "netEur": null,
+          "realCostEur": 74950,
+          "vatStatus": "NON_DEDUCTIBLE"
+        }
+      ],
+      "priceChangeFromFirstEur": -3000,
+      "lastPriceChangeAt": "2026-09-02T12:48:34.035Z",
+      "lastPriceChangeEur": -3000
+    },
+    {
+      "archiveIndex": 125,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5511,50 +5604,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 124,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "LISTING_STATUS",
-      "listingId": "KPL65P",
-      "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-occasion-KPL65P?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
-      "title": "Koop gebruikte Taycan bij Porsche Centrum Amsterdam",
-      "country": "NL",
-      "vin": null,
-      "modelYear": 2024,
-      "modelYearSource": "LEGACY",
-      "mileageKm": 39152,
-      "bodyStyle": "SEDAN",
-      "drivetrain": "UNKNOWN",
-      "grossEur": 77950,
-      "netEur": null,
-      "realCostEur": 77950,
-      "vatStatus": "UNKNOWN",
-      "porscheApprovedStatus": "CONFIRMED",
-      "accidentStatus": "UNKNOWN",
-      "batterySohPercent": null,
-      "absoluteScore": 50.8,
-      "equipmentScore": 0,
-      "equipmentConfidence": 0,
-      "firstSeen": "2026-08-14T13:17:24.003Z",
-      "lastSeen": "2026-08-14T13:17:24.003Z",
-      "daysOnMarket": 18,
-      "listingStatus": "REMOVED",
-      "priceHistory": [
-        {
-          "observedAt": "2026-08-14T13:17:24.003Z",
-          "grossEur": 77950,
-          "netEur": null,
-          "realCostEur": 77950,
-          "vatStatus": "UNKNOWN"
-        }
-      ],
-      "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 125,
+      "archiveIndex": 126,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5597,7 +5647,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 126,
+      "archiveIndex": 127,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5640,7 +5690,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 127,
+      "archiveIndex": 128,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5683,7 +5733,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 128,
+      "archiveIndex": 129,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5726,7 +5776,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 129,
+      "archiveIndex": 130,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5769,7 +5819,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 130,
+      "archiveIndex": 131,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5812,7 +5862,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 131,
+      "archiveIndex": 132,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5855,7 +5905,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 132,
+      "archiveIndex": 133,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5898,7 +5948,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 133,
+      "archiveIndex": 134,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5941,7 +5991,7 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 134,
+      "archiveIndex": 135,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -5984,7 +6034,50 @@
       "lastPriceChangeEur": null
     },
     {
-      "archiveIndex": 135,
+      "archiveIndex": 136,
+      "eligibleRank": null,
+      "top10": false,
+      "state": "SEEN_NOT_ELIGIBLE",
+      "exclusionReason": "YEAR_FILTER",
+      "listingId": "24ZEEK",
+      "url": "https://finder.porsche.com/es/es-ES/details/porsche-taycan-turbo-s-usado-24ZEEK?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=e8849d18-b151-4f0a-a9d8-2c8210c93c2b&ph_market=ES",
+      "title": "Porsche Taycan Turbo S",
+      "country": "ES",
+      "vin": null,
+      "modelYear": 2021,
+      "modelYearSource": "PAGE",
+      "mileageKm": 93070,
+      "bodyStyle": "SEDAN",
+      "drivetrain": "UNKNOWN",
+      "grossEur": 82000,
+      "netEur": null,
+      "realCostEur": 82000,
+      "vatStatus": "UNKNOWN",
+      "porscheApprovedStatus": "CONFIRMED",
+      "accidentStatus": "NO_ACCIDENT",
+      "batterySohPercent": null,
+      "absoluteScore": 42.1,
+      "equipmentScore": 0,
+      "equipmentConfidence": 0,
+      "firstSeen": "2026-09-02T12:48:44.033Z",
+      "lastSeen": "2026-09-02T12:48:44.033Z",
+      "daysOnMarket": 0,
+      "listingStatus": "ACTIVE",
+      "priceHistory": [
+        {
+          "observedAt": "2026-09-02T12:48:44.033Z",
+          "grossEur": 82000,
+          "netEur": null,
+          "realCostEur": 82000,
+          "vatStatus": "UNKNOWN"
+        }
+      ],
+      "priceChangeFromFirstEur": 0,
+      "lastPriceChangeAt": null,
+      "lastPriceChangeEur": null
+    },
+    {
+      "archiveIndex": 137,
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
@@ -6023,41 +6116,6 @@
         }
       ],
       "priceChangeFromFirstEur": 0,
-      "lastPriceChangeAt": null,
-      "lastPriceChangeEur": null
-    },
-    {
-      "archiveIndex": 136,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "PROCESSING_UNKNOWN",
-      "exclusionReason": "VALIDATION_FAILED: PRICE_UNCONFIRMED",
-      "listingId": "44Z0Q5",
-      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-44Z0Q5?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=3c6c16f9-3279-4820-ba85-46e6a5baf701&ph_market=DE",
-      "title": null,
-      "country": "DE",
-      "vin": null,
-      "modelYear": null,
-      "modelYearSource": null,
-      "mileageKm": null,
-      "bodyStyle": null,
-      "drivetrain": null,
-      "grossEur": null,
-      "netEur": null,
-      "realCostEur": null,
-      "vatStatus": "UNKNOWN",
-      "porscheApprovedStatus": "UNKNOWN",
-      "accidentStatus": "UNKNOWN",
-      "batterySohPercent": null,
-      "absoluteScore": null,
-      "equipmentScore": null,
-      "equipmentConfidence": null,
-      "firstSeen": "2026-09-02T11:14:30.112Z",
-      "lastSeen": "2026-09-02T11:14:30.112Z",
-      "daysOnMarket": 0,
-      "listingStatus": "ACTIVE",
-      "priceHistory": [],
-      "priceChangeFromFirstEur": null,
       "lastPriceChangeAt": null,
       "lastPriceChangeEur": null
     }
