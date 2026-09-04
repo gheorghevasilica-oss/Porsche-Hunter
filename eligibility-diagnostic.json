@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-09-04T10:40:19.509Z",
+  "generatedAt": "2026-09-04T12:59:20.024Z",
   "selectedCountry": "ALL",
   "found": 144,
-  "eligible": 7,
+  "eligible": 0,
   "rejected": {
-    "YEAR_FILTER": 63,
-    "PRICE_FILTER": 21,
+    "PRICE_FILTER": 43,
+    "MY2022_PRICE_CAP": 20,
+    "MILEAGE_FILTER": 31,
     "LISTING_STATUS": 31,
-    "MILEAGE_FILTER": 10,
+    "YEAR_FILTER": 7,
     "COUNTRY_EXCLUDED": 12
   }
 }
