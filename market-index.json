@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:05:46.016Z",
+  "generatedAt": "2026-09-05T08:08:38.633Z",
   "preferences": {
     "profileName": "CUSTOM",
     "filters": {
@@ -7,7 +7,7 @@
       "country": "ALL",
       "bodyStyle": "ALL",
       "maximumMileageKm": 130000,
-      "maximumEffectivePriceEur": 45000,
+      "maximumEffectivePriceEur": 48000,
       "porscheApproved": "REQUIRED"
     },
     "ranking": {
@@ -19,9 +19,9 @@
   },
   "summary": {
     "seen": 146,
-    "eligible": 2,
-    "top10": 2,
-    "rejected": 144,
+    "eligible": 5,
+    "top10": 5,
+    "rejected": 141,
     "processingUnknown": 0
   },
   "vehicles": [
@@ -435,10 +435,10 @@
     },
     {
       "archiveIndex": 10,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "eligibleRank": 1,
+      "top10": true,
+      "state": "ELIGIBLE_RANKED",
+      "exclusionReason": null,
       "listingId": "3KVXOV",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-3KVXOV?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan",
@@ -836,7 +836,7 @@
     },
     {
       "archiveIndex": 19,
-      "eligibleRank": 1,
+      "eligibleRank": 2,
       "top10": true,
       "state": "ELIGIBLE_RANKED",
       "exclusionReason": null,
@@ -1094,10 +1094,10 @@
     },
     {
       "archiveIndex": 25,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "eligibleRank": 3,
+      "top10": true,
+      "state": "ELIGIBLE_RANKED",
+      "exclusionReason": null,
       "listingId": "44OQ7E",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-44OQ7E?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=9b1d3c0b-6fe5-48af-abc5-a0350e7858a5&ph_market=DE",
       "title": "Porsche Taycan 4S",
@@ -1144,10 +1144,10 @@
     },
     {
       "archiveIndex": 26,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "eligibleRank": 4,
+      "top10": true,
+      "state": "ELIGIBLE_RANKED",
+      "exclusionReason": null,
       "listingId": "64ED2D",
       "url": "https://finder.porsche.com/it/it-IT/details/porsche-taycan-usata-64ED2D?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc",
       "title": "Porsche Taycan",
@@ -1824,7 +1824,7 @@
     },
     {
       "archiveIndex": 41,
-      "eligibleRank": 2,
+      "eligibleRank": 5,
       "top10": true,
       "state": "ELIGIBLE_RANKED",
       "exclusionReason": null,
