@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T21:16:15.596Z",
+  "generatedAt": "2026-09-11T21:17:11.382Z",
   "preferences": {
     "profileName": "CUSTOM",
     "filters": {
@@ -7,7 +7,7 @@
       "country": "ALL",
       "bodyStyle": "ALL",
       "maximumMileageKm": 75000,
-      "maximumEffectivePriceEur": 55000,
+      "maximumEffectivePriceEur": 59000,
       "porscheApproved": "REQUIRED"
     },
     "ranking": {
