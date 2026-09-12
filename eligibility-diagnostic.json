@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-11T21:17:11.361Z",
+  "generatedAt": "2026-09-12T08:07:46.154Z",
   "selectedCountry": "ALL",
-  "found": 157,
-  "eligible": 8,
+  "found": 160,
+  "eligible": 11,
   "rejected": {
     "YEAR_FILTER": 58,
     "LISTING_STATUS": 50,
