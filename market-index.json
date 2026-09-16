@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T14:01:18.894Z",
+  "generatedAt": "2026-09-16T14:18:28.520Z",
   "preferences": {
     "profileName": "CUSTOM",
     "filters": {
@@ -2888,7 +2888,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-09-09T14:18:10.923Z",
       "lastSeen": "2026-09-09T14:18:10.923Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
