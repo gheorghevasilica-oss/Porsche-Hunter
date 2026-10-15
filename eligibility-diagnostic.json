@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:09:15.630Z",
+  "generatedAt": "2026-10-15T22:10:39.525Z",
   "selectedCountry": "ALL",
   "found": 1091,
   "eligible": 2,
@@ -9,7 +9,6 @@
     "GENERATION_FILTER": 204,
     "GENERATION_UNKNOWN": 148,
     "COUNTRY_EXCLUDED": 65,
-    "PRICE_FILTER": 418,
-    "MILEAGE_FILTER": 1
+    "PRICE_FILTER": 419
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:09:15.662Z",
+  "generatedAt": "2026-10-15T22:10:39.556Z",
   "preferences": {
     "profileName": "CUSTOM",
     "filters": {
@@ -7,7 +7,7 @@
       "country": "ALL",
       "modelGeneration": "J1_II",
       "bodyStyle": "ALL",
-      "maximumMileageKm": 60000,
+      "maximumMileageKm": 80000,
       "maximumEffectivePriceEur": 65000,
       "porscheApproved": "REQUIRED"
     },
@@ -44927,7 +44927,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "MILEAGE_FILTER",
+      "exclusionReason": "PRICE_FILTER",
       "listingId": "4GXONQ",
       "url": "https://finder.porsche.com/nl/nl-NL/details/porsche-taycan-4s-cross-turismo-occasion-4GXONQ?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=5f1a0bec-7982-443c-9e7f-c6e66f52c08a&ph_market=NL&ph_engine=TAYCAN&page=3",
       "title": "Porsche Taycan 4S Cross Turismo",
