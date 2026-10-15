@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T08:55:22.289Z",
+  "generatedAt": "2026-10-15T08:55:34.355Z",
   "preferences": {
     "profileName": "DEFAULT",
     "filters": {
@@ -7485,7 +7485,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "XGL3WE",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4-cross-turismo-gebraucht-XGL3WE?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=c664a34b-6ac9-41f6-b47c-6e2021f7d6a9&ph_market=DE&ph_engine=TAYCAN&page=2",
       "title": "Porsche Taycan 4 Cross Turismo",
@@ -7509,7 +7509,7 @@
       "firstSeen": "2026-09-25T14:45:26.131Z",
       "lastSeen": "2026-10-14T18:19:24.743Z",
       "daysOnMarket": 19,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-09-25T14:45:26.131Z",
@@ -8151,7 +8151,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "YEAR_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "QOVZ8Z",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-sport-turismo-gebraucht-QOVZ8Z?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=e5804618-3b30-4885-bd19-72123406d6c2&ph_market=DE&ph_engine=TAYCAN",
       "title": "Porsche Taycan Sport Turismo",
@@ -8175,7 +8175,7 @@
       "firstSeen": "2026-10-12T11:23:50.919Z",
       "lastSeen": "2026-10-12T11:23:50.919Z",
       "daysOnMarket": 2,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-10-12T11:23:50.919Z",
@@ -10292,7 +10292,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "5062PV",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-5062PV?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=c664a34b-6ac9-41f6-b47c-6e2021f7d6a9&ph_market=DE&ph_engine=TAYCAN&page=10",
       "title": "Porsche Taycan",
@@ -10316,7 +10316,7 @@
       "firstSeen": "2026-10-14T18:19:42.883Z",
       "lastSeen": "2026-10-14T18:19:42.883Z",
       "daysOnMarket": 0,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-10-14T18:19:42.883Z",
@@ -10636,7 +10636,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "K5KGMM",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gebraucht-K5KGMM?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=c664a34b-6ac9-41f6-b47c-6e2021f7d6a9&ph_market=DE&ph_engine=TAYCAN&page=10",
       "title": "Porsche Taycan",
@@ -10660,7 +10660,7 @@
       "firstSeen": "2026-10-14T18:19:42.883Z",
       "lastSeen": "2026-10-14T18:19:42.883Z",
       "daysOnMarket": 0,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-10-14T18:19:42.883Z",
@@ -30980,13 +30980,13 @@
       "state": "SEEN_NOT_ELIGIBLE",
       "exclusionReason": "PRICE_FILTER",
       "listingId": "8G038Q",
-      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-black-edition-gebraucht-8G038Q?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=c664a34b-6ac9-41f6-b47c-6e2021f7d6a9&ph_market=DE&ph_engine=TAYCAN&page=25",
+      "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-black-edition-gebraucht-8G038Q?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=3e3973c0-5c85-4921-a4cf-4024554ee669&ph_market=DE&ph_engine=TAYCAN&page=25",
       "title": "Porsche Taycan",
       "country": "DE",
       "vin": null,
       "modelYear": 2026,
       "modelYearSource": "PAGE",
-      "mileageKm": 8000,
+      "mileageKm": 7980,
       "bodyStyle": "SEDAN",
       "drivetrain": "RWD",
       "grossEur": 99950,
@@ -31000,7 +31000,7 @@
       "equipmentScore": 0,
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-14T18:20:19.784Z",
-      "lastSeen": "2026-10-14T18:20:19.784Z",
+      "lastSeen": "2026-10-15T08:51:15.937Z",
       "daysOnMarket": 0,
       "listingStatus": "ACTIVE",
       "priceHistory": [
@@ -36367,7 +36367,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "QOK2M2",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-4s-gebraucht-QOK2M2?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=c664a34b-6ac9-41f6-b47c-6e2021f7d6a9&ph_market=DE&ph_engine=TAYCAN&page=22",
       "title": "Porsche Taycan 4S",
@@ -36391,7 +36391,7 @@
       "firstSeen": "2026-10-14T18:20:11.971Z",
       "lastSeen": "2026-10-14T18:20:11.971Z",
       "daysOnMarket": 0,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-10-14T18:20:11.971Z",
@@ -42024,7 +42024,7 @@
       "firstSeen": "2026-10-14T18:23:59.038Z",
       "lastSeen": "2026-10-14T18:23:59.038Z",
       "daysOnMarket": 0,
-      "listingStatus": "NOT_SEEN",
+      "listingStatus": "REMOVED",
       "priceHistory": [
         {
           "observedAt": "2026-10-14T18:23:59.038Z",
@@ -43763,7 +43763,7 @@
       "eligibleRank": null,
       "top10": false,
       "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "exclusionReason": "LISTING_STATUS",
       "listingId": "XGZ3KG",
       "url": "https://finder.porsche.com/de/de-DE/details/porsche-taycan-gts-gebraucht-XGZ3KG?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=c664a34b-6ac9-41f6-b47c-6e2021f7d6a9&ph_market=DE&ph_engine=TAYCAN&page=17",
       "title": "Porsche Taycan GTS",
@@ -43787,7 +43787,7 @@
       "firstSeen": "2026-10-14T18:19:58.810Z",
       "lastSeen": "2026-10-14T18:19:58.810Z",
       "daysOnMarket": 0,
-      "listingStatus": "ACTIVE",
+      "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
           "observedAt": "2026-10-14T18:19:58.810Z",
