@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T22:11:29.359Z",
+  "generatedAt": "2026-10-16T05:38:41.316Z",
   "preferences": {
     "profileName": "CUSTOM",
     "filters": {
@@ -21751,7 +21751,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-15T05:22:43.845Z",
       "lastSeen": "2026-10-15T22:04:37.023Z",
-      "daysOnMarket": 0,
+      "daysOnMarket": 1,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -26121,7 +26121,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-15T05:22:14.288Z",
       "lastSeen": "2026-10-15T22:03:56.993Z",
-      "daysOnMarket": 0,
+      "daysOnMarket": 1,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -35301,7 +35301,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-15T05:22:14.288Z",
       "lastSeen": "2026-10-15T22:03:56.991Z",
-      "daysOnMarket": 0,
+      "daysOnMarket": 1,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
