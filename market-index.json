@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T19:01:08.182Z",
+  "generatedAt": "2026-10-30T05:19:20.583Z",
   "preferences": {
     "profileName": "CUSTOM",
     "filters": {
@@ -1255,7 +1255,7 @@
       "equipmentConfidence": 61,
       "firstSeen": "2026-10-15T19:54:29.559Z",
       "lastSeen": "2026-10-19T17:30:41.929Z",
-      "daysOnMarket": 13,
+      "daysOnMarket": 14,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -1387,7 +1387,7 @@
       "equipmentConfidence": 63,
       "firstSeen": "2026-10-22T22:07:36.957Z",
       "lastSeen": "2026-10-22T22:07:36.957Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -4283,7 +4283,7 @@
       "equipmentConfidence": 46,
       "firstSeen": "2026-10-01T20:17:24.190Z",
       "lastSeen": "2026-10-29T18:53:02.295Z",
-      "daysOnMarket": 27,
+      "daysOnMarket": 28,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -4846,7 +4846,7 @@
       "equipmentConfidence": 63,
       "firstSeen": "2026-10-22T22:04:14.929Z",
       "lastSeen": "2026-10-29T18:53:22.294Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -5337,7 +5337,7 @@
       "equipmentConfidence": 58,
       "firstSeen": "2026-10-22T22:04:10.927Z",
       "lastSeen": "2026-10-29T18:53:26.298Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "RESERVED",
       "priceHistory": [
         {
@@ -5666,7 +5666,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:03:19.754Z",
       "lastSeen": "2026-10-22T22:03:19.754Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -5798,7 +5798,7 @@
       "equipmentConfidence": 49,
       "firstSeen": "2026-10-01T20:17:50.181Z",
       "lastSeen": "2026-10-15T22:02:40.180Z",
-      "daysOnMarket": 27,
+      "daysOnMarket": 28,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -6296,7 +6296,7 @@
       "equipmentConfidence": 38,
       "firstSeen": "2026-10-22T22:03:21.391Z",
       "lastSeen": "2026-10-29T18:52:29.396Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -6618,7 +6618,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-05T19:49:30.204Z",
       "lastSeen": "2026-10-05T19:49:30.204Z",
-      "daysOnMarket": 23,
+      "daysOnMarket": 24,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -6662,7 +6662,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-09-18T19:09:03.744Z",
       "lastSeen": "2026-09-18T19:09:03.744Z",
-      "daysOnMarket": 40,
+      "daysOnMarket": 41,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -7211,7 +7211,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-01T20:17:24.191Z",
       "lastSeen": "2026-10-01T20:17:24.191Z",
-      "daysOnMarket": 27,
+      "daysOnMarket": 28,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -8441,7 +8441,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-01T20:17:30.397Z",
       "lastSeen": "2026-10-05T20:45:22.580Z",
-      "daysOnMarket": 27,
+      "daysOnMarket": 28,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -8733,7 +8733,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-05T19:49:30.202Z",
       "lastSeen": "2026-10-05T19:49:30.202Z",
-      "daysOnMarket": 23,
+      "daysOnMarket": 24,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -9296,7 +9296,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-01T20:17:52.050Z",
       "lastSeen": "2026-10-15T22:02:57.854Z",
-      "daysOnMarket": 27,
+      "daysOnMarket": 28,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -9384,7 +9384,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-05T19:48:08.721Z",
       "lastSeen": "2026-10-15T22:01:56.866Z",
-      "daysOnMarket": 23,
+      "daysOnMarket": 24,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -10100,7 +10100,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-09-11T21:14:36.643Z",
       "lastSeen": "2026-10-05T20:45:38.670Z",
-      "daysOnMarket": 47,
+      "daysOnMarket": 48,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -11949,7 +11949,7 @@
       "equipmentConfidence": 43,
       "firstSeen": "2026-10-22T22:07:49.958Z",
       "lastSeen": "2026-10-29T18:55:23.422Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -12176,7 +12176,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:57.839Z",
       "lastSeen": "2026-10-22T22:05:57.839Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -12980,7 +12980,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:40.085Z",
       "lastSeen": "2026-10-29T18:55:19.440Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -13031,7 +13031,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-05T19:48:39.255Z",
       "lastSeen": "2026-10-29T18:55:19.427Z",
-      "daysOnMarket": 23,
+      "daysOnMarket": 24,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -13147,7 +13147,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-05T19:48:39.256Z",
       "lastSeen": "2026-10-29T18:55:19.445Z",
-      "daysOnMarket": 23,
+      "daysOnMarket": 24,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -14000,7 +14000,7 @@
       "equipmentConfidence": 66,
       "firstSeen": "2026-10-22T22:09:54.925Z",
       "lastSeen": "2026-10-29T18:55:31.354Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -14825,7 +14825,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-01T20:17:52.050Z",
       "lastSeen": "2026-10-29T18:55:21.328Z",
-      "daysOnMarket": 27,
+      "daysOnMarket": 28,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -15817,7 +15817,7 @@
       "equipmentConfidence": 62,
       "firstSeen": "2026-10-22T22:09:07.964Z",
       "lastSeen": "2026-10-29T18:55:28.351Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -15868,7 +15868,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-01T20:17:24.191Z",
       "lastSeen": "2026-10-15T22:01:56.866Z",
-      "daysOnMarket": 27,
+      "daysOnMarket": 28,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -17428,7 +17428,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:08.646Z",
       "lastSeen": "2026-10-29T18:55:54.303Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -18485,7 +18485,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:51.911Z",
       "lastSeen": "2026-10-29T18:55:34.362Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -18652,7 +18652,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-15T19:54:42.083Z",
       "lastSeen": "2026-10-29T18:55:34.351Z",
-      "daysOnMarket": 13,
+      "daysOnMarket": 14,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -19266,7 +19266,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:51.909Z",
       "lastSeen": "2026-10-22T22:05:51.909Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -20580,7 +20580,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-01T20:19:06.929Z",
       "lastSeen": "2026-10-01T20:19:06.929Z",
-      "daysOnMarket": 27,
+      "daysOnMarket": 28,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -27372,7 +27372,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:03:34.629Z",
       "lastSeen": "2026-10-22T22:03:34.629Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -27914,7 +27914,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:49.320Z",
       "lastSeen": "2026-10-22T22:06:49.320Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -30175,7 +30175,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:46.345Z",
       "lastSeen": "2026-10-22T22:06:46.345Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -31206,7 +31206,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:07:06.183Z",
       "lastSeen": "2026-10-22T22:07:06.183Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -33851,7 +33851,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:07:03.264Z",
       "lastSeen": "2026-10-29T18:57:01.307Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -35740,7 +35740,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:03:34.628Z",
       "lastSeen": "2026-10-22T22:03:34.628Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -36428,7 +36428,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:48.032Z",
       "lastSeen": "2026-10-29T18:55:28.361Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -36479,7 +36479,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:48.032Z",
       "lastSeen": "2026-10-29T18:55:28.357Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -36910,7 +36910,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-15T19:55:14.878Z",
       "lastSeen": "2026-10-15T22:03:52.237Z",
-      "daysOnMarket": 13,
+      "daysOnMarket": 14,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -37510,7 +37510,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:08.909Z",
       "lastSeen": "2026-10-22T22:05:08.909Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -37788,7 +37788,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:42.165Z",
       "lastSeen": "2026-10-22T22:06:42.165Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -38008,7 +38008,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:46.345Z",
       "lastSeen": "2026-10-22T22:06:46.345Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -38777,7 +38777,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:59.178Z",
       "lastSeen": "2026-10-22T22:06:59.178Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -41600,7 +41600,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:11.298Z",
       "lastSeen": "2026-10-29T18:55:57.337Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -43923,7 +43923,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:43.986Z",
       "lastSeen": "2026-10-29T18:56:38.307Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -44134,7 +44134,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:46.344Z",
       "lastSeen": "2026-10-29T18:56:38.316Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -44521,7 +44521,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-15T19:53:33.217Z",
       "lastSeen": "2026-10-19T17:25:22.956Z",
-      "daysOnMarket": 13,
+      "daysOnMarket": 14,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -44565,7 +44565,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:16.260Z",
       "lastSeen": "2026-10-22T22:06:16.260Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
@@ -47579,7 +47579,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:23.029Z",
       "lastSeen": "2026-10-29T18:56:08.309Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -48494,7 +48494,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-15T19:53:36.736Z",
       "lastSeen": "2026-10-15T22:02:12.812Z",
-      "daysOnMarket": 13,
+      "daysOnMarket": 14,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -48765,7 +48765,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:10:06.263Z",
       "lastSeen": "2026-10-22T22:10:06.263Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -49249,7 +49249,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:03:26.295Z",
       "lastSeen": "2026-10-22T22:03:26.295Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -51886,7 +51886,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:03:31.238Z",
       "lastSeen": "2026-10-22T22:03:31.238Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -51974,7 +51974,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:08.907Z",
       "lastSeen": "2026-10-22T22:05:08.907Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -52956,7 +52956,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-05T19:49:02.258Z",
       "lastSeen": "2026-10-05T20:45:51.448Z",
-      "daysOnMarket": 23,
+      "daysOnMarket": 24,
       "listingStatus": "REMOVED",
       "priceHistory": [
         {
@@ -54247,7 +54247,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-05T19:49:08.719Z",
       "lastSeen": "2026-10-05T19:49:08.719Z",
-      "daysOnMarket": 23,
+      "daysOnMarket": 24,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -55665,7 +55665,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-05T19:49:02.258Z",
       "lastSeen": "2026-10-15T22:07:36.216Z",
-      "daysOnMarket": 23,
+      "daysOnMarket": 24,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -55913,7 +55913,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:53.911Z",
       "lastSeen": "2026-10-29T18:55:37.349Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -56437,7 +56437,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-15T19:54:36.850Z",
       "lastSeen": "2026-10-29T18:55:37.347Z",
-      "daysOnMarket": 13,
+      "daysOnMarket": 14,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -57100,7 +57100,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:05:56.175Z",
       "lastSeen": "2026-10-29T18:55:40.347Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -57290,7 +57290,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:10:04.010Z",
       "lastSeen": "2026-10-22T22:10:04.010Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "ACTIVE",
       "priceHistory": [
         {
@@ -57466,7 +57466,7 @@
       "equipmentConfidence": 0,
       "firstSeen": "2026-10-22T22:06:00.151Z",
       "lastSeen": "2026-10-22T22:06:00.151Z",
-      "daysOnMarket": 6,
+      "daysOnMarket": 7,
       "listingStatus": "NOT_SEEN",
       "priceHistory": [
         {
