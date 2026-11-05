@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T06:58:24.376Z",
+  "generatedAt": "2026-11-05T06:58:58.827Z",
   "preferences": {
     "profileName": "CUSTOM",
     "filters": {
@@ -8,7 +8,7 @@
       "modelGeneration": "ALL",
       "bodyStyle": "ALL",
       "maximumMileageKm": 75000,
-      "maximumEffectivePriceEur": 58000,
+      "maximumEffectivePriceEur": 60000,
       "porscheApproved": "REQUIRED"
     },
     "ranking": {
@@ -20,9 +20,9 @@
   },
   "summary": {
     "seen": 1261,
-    "eligible": 4,
-    "top10": 4,
-    "rejected": 1256,
+    "eligible": 7,
+    "top10": 7,
+    "rejected": 1253,
     "processingUnknown": 1
   },
   "vehicles": [
@@ -3207,10 +3207,10 @@
     },
     {
       "archiveIndex": 68,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "eligibleRank": 5,
+      "top10": true,
+      "state": "ELIGIBLE_RANKED",
+      "exclusionReason": null,
       "listingId": "36P0OM",
       "url": "https://finder.porsche.com/fr/fr-FR/details/porsche-taycan-4-cross-turismo-doccasion-36P0OM?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&page=3",
       "title": "Porsche Taycan 4 Cross Turismo",
@@ -3587,10 +3587,10 @@
     },
     {
       "archiveIndex": 76,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "eligibleRank": 6,
+      "top10": true,
+      "state": "ELIGIBLE_RANKED",
+      "exclusionReason": null,
       "listingId": "6OWRLX",
       "url": "https://finder.porsche.com/fr/fr-FR/details/porsche-taycan-sport-turismo-doccasion-6OWRLX?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=5f1a0bec-7982-443c-9e7f-c6e66f52c08a&ph_market=FR&ph_engine=TAYCAN&page=3",
       "title": "Porsche Taycan Sport Turismo",
@@ -5212,10 +5212,10 @@
     },
     {
       "archiveIndex": 108,
-      "eligibleRank": null,
-      "top10": false,
-      "state": "SEEN_NOT_ELIGIBLE",
-      "exclusionReason": "PRICE_FILTER",
+      "eligibleRank": 7,
+      "top10": true,
+      "state": "ELIGIBLE_RANKED",
+      "exclusionReason": null,
       "listingId": "24Z0DK",
       "url": "https://finder.porsche.com/fr/fr-FR/details/porsche-taycan-doccasion-24Z0DK?condition=porsche_approved&model=taycan&minimum-registration-date=2020&order=price_asc&ph_auto=1&ph_session=5f1a0bec-7982-443c-9e7f-c6e66f52c08a&ph_market=FR&ph_engine=TAYCAN&page=3",
       "title": "Porsche Taycan",
